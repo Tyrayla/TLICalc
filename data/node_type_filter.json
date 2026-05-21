@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated_at": "2026-05-21T03:09:46",
+    "generated_at": "2026-05-21T03:36:22",
     "snapshot_source": "TLI_All_Talent_Nodes.pdf",
-    "matched": 1002,
+    "matched": 1000,
     "ambiguous": 0,
     "unmatched": 0,
     "conditional": 22
@@ -29,12 +29,6 @@
     ],
     "channeled_cast_speed_inc": [
       "micro"
-    ],
-    "slow_chance": [
-      "legendary_medium"
-    ],
-    "blind_chance": [
-      "legendary_medium"
     ],
     "dmg_inc": [
       "medium",
@@ -6319,6 +6313,15 @@
       ],
       "legendary_medium": [
         {
+          "stat": "enemy_nearby_dmg_taken_additional",
+          "rank1": 0.15,
+          "values": [
+            0.15
+          ],
+          "text": "+15% additional damage taken by enemies in Proximity",
+          "condition": "enemy_nearby"
+        },
+        {
           "stat": "mark_on_crit_chance",
           "rank1": 0.25,
           "values": [
@@ -7480,6 +7483,15 @@
       ],
       "legendary_medium": [
         {
+          "stat": "all_resistance_reduction",
+          "rank1": -0.08,
+          "values": [
+            -0.08
+          ],
+          "text": "-8% All Resistance when the enemy has max Affliction",
+          "condition": "enemy_has_max_affliction"
+        },
+        {
           "stat": "affliction_per_second_flat",
           "rank1": 18.0,
           "values": [
@@ -7815,22 +7827,6 @@
           ],
           "text": "+8% additional damage against Cursed enemies",
           "condition": "enemy_cursed"
-        },
-        {
-          "stat": "slow_chance",
-          "rank1": 0.05,
-          "values": [
-            0.05
-          ],
-          "text": "+5% chance to inflict Slow on hit"
-        },
-        {
-          "stat": "blind_chance",
-          "rank1": 0.2,
-          "values": [
-            0.2
-          ],
-          "text": "+20% chance to Blind the target on hit"
         },
         {
           "stat": "crit_dmg",
@@ -10285,21 +10281,9 @@
       "reason": "conditional"
     },
     {
-      "tree": "Ranger",
-      "node_type": "legendary_medium",
-      "text": "+15% additional damage taken by enemies in Proximity",
-      "reason": "conditional"
-    },
-    {
       "tree": "Goddess of Deception",
       "node_type": "legendary_medium",
       "text": "+100% chance to gain Blur on defeat",
-      "reason": "conditional"
-    },
-    {
-      "tree": "Psychic",
-      "node_type": "legendary_medium",
-      "text": "-8% All Resistance when the enemy has max Affliction",
       "reason": "conditional"
     },
     {
@@ -10312,6 +10296,18 @@
       "tree": "Warlock",
       "node_type": "legendary_medium",
       "text": "+20% chance to gain Blur when inflicting crowd control effects",
+      "reason": "conditional"
+    },
+    {
+      "tree": "Warlock",
+      "node_type": "legendary_medium",
+      "text": "+5% chance to inflict Slow on hit",
+      "reason": "conditional"
+    },
+    {
+      "tree": "Warlock",
+      "node_type": "legendary_medium",
+      "text": "+20% chance to Blind the target on hit",
       "reason": "conditional"
     },
     {
@@ -10341,12 +10337,6 @@
     ],
     "channeled_cast_speed_inc": [
       "+3% Attack and Cast Speed for Channeled Skills"
-    ],
-    "slow_chance": [
-      "+5% chance to inflict Slow on hit"
-    ],
-    "blind_chance": [
-      "+20% chance to Blind the target on hit"
     ],
     "dmg_inc": [
       "+9% damage"
