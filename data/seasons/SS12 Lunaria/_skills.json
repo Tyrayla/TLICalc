@@ -10590,12 +10590,13 @@
       "name": "Lightning Storm",
       "description_lines": [
         "Casts the skill and generates a Lightning Storm that can track enemies at the target spot, continuously attacking the enemies within its range and dealing 90-1707 Spell Lightning Damage each time.",
+        "This skill can summon up to 40 Lightning Storm(s).",
         "Lightning Storm:",
         "Deals 90-1707 Spell Lightning Damage",
         "Strike once every 0.5s.",
         "Lasts 5s"
       ],
-      "raw_text": "Lightning Storm\nCasts the skill and generates a Lightning Storm that can track enemies at the target spot, continuously attacking the enemies within its range and dealing 90-1707 Spell Lightning Damage each time.\nLightning Storm:\nDeals 90-1707 Spell Lightning Damage\nStrike once every 0.5s.\nLasts 5s",
+      "raw_text": "Lightning Storm\nCasts the skill and generates a Lightning Storm that can track enemies at the target spot, continuously attacking the enemies within its range and dealing 90-1707 Spell Lightning Damage each time.\nThis skill can summon up to 40 Lightning Storm(s).\nLightning Storm:\nDeals 90-1707 Spell Lightning Damage\nStrike once every 0.5s.\nLasts 5s",
       "skill_tags": [
         "Spell",
         "Lightning",
@@ -10603,13 +10604,6 @@
         "Persistent",
         "Intelligence"
       ]
-    },
-    {
-      "item_id": "this_skill_can_summon_up_to_40_lightning_storm_s",
-      "name": "This skill can summon up to 40 Lightning Storm(s)",
-      "description_lines": [],
-      "raw_text": "This skill can summon up to 40 Lightning Storm(s)",
-      "skill_tags": []
     },
     {
       "item_id": "flame_jet",
