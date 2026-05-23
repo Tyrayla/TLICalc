@@ -1,0 +1,5999 @@
+{
+  "season": "SS12",
+  "base_types": [
+    {
+      "item_id": "belt",
+      "name": "Belt",
+      "base_items": [
+        {
+          "name": "Rock Waistguard",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+10 Max Life"
+          ]
+        },
+        {
+          "name": "Spring Source Girdle",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+12 Max Energy Shield"
+          ]
+        },
+        {
+          "name": "Wind Blade Waistguard",
+          "required_level": 32,
+          "armor": null,
+          "implicits": [
+            "+15 Max Life"
+          ]
+        },
+        {
+          "name": "God's Grace Girdle",
+          "required_level": 32,
+          "armor": null,
+          "implicits": [
+            "+18 Max Energy Shield"
+          ]
+        },
+        {
+          "name": "Dragon Scale Waistguard",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+35 Max Life"
+          ]
+        },
+        {
+          "name": "Radiant Lunar Girdle",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+50 Max Energy Shield"
+          ]
+        },
+        {
+          "name": "Fearless Waistguard",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+65 Max Life"
+          ]
+        },
+        {
+          "name": "Magic Girdle",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+80 Max Energy Shield"
+          ]
+        },
+        {
+          "name": "Conqueror Waistguard",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+95 Max Life"
+          ]
+        },
+        {
+          "name": "Arcanist Girdle",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+110 Max Energy Shield"
+          ]
+        },
+        {
+          "name": "Wayfarer Waistguard",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+110 Max Life"
+          ]
+        },
+        {
+          "name": "Elder Sage Girdle",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+140 Max Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "bow",
+      "name": "Bow",
+      "base_items": [
+        {
+          "name": "Rottenwood Bow",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Vitex Bow",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Beastbone Bow",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thorny Curve Bow",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bonewood Hunting Bow",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Segar Hunting Bow",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Griffin Long Bow",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "White Wolf Curve Bow",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Raider's Bow",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "White Feather Hunting Bow",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Piercer Bow",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bloody Curve Bow",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Feather Long Bow",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Twilight Curve Bow",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unholy Hunting Bow",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thunder Long Bow",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Starfall Long Bow",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Demon Hunter Long Bow",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Godseeker Long Bow",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Lonely Hunter's Bow",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "cane",
+      "name": "Cane",
+      "base_items": [
+        {
+          "name": "Wayfarer Cane",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rambone Cane",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Witness Cane",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Snake-scale Cane",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Recluse Cane",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wolf Fang Cane",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Omen Short Staff",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thinker Cane",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Leopard Jaw Cane",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Traitor Cane",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Lion Heart Cane",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Villain Cane",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dragonblood Cane",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Foreshadow Short Staff",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Esoteric Cane",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Fallen Pactspirital Short Staff",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Obsidian Cane",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blue Amber Cane",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Glimmering Fluorite Cane",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sleeping Sage's Cane",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "claw",
+      "name": "Claw",
+      "base_items": [
+        {
+          "name": "Nailclaw",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Shark Tooth",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Pickaxe Claw",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Cat Claw",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Eyestinger Claw",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Berserker Claw",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sandstorm Katar",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wailing Claw",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Two-Headed Claw",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Direwolf Fang",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Spinesplitter Katar",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Crimson Tiger Sting",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scarlet River Claw",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Primeval War Claw",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Jadebone Katar",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Eagle Claw",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Delusion Claw",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Three-tailed Cat Claw",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dragon Hunter Claw",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Silence Piercing Claw",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "crossbow",
+      "name": "Crossbow",
+      "base_items": [
+        {
+          "name": "Woodvine Light Crossbow",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rambone Short Crossbow",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Darkwoods Long Crossbow",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bronze Short Crossbow",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Soldier's Light Crossbow",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Iron Crossbow",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Elven Hunting Crossbow",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Beastfang Light Crossbow",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Jungle Hunting Bow",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Segar Hunting Crossbow",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Muddy Long Crossbow",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cursed War Crossbow",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conflict Crossbow",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blue Sea War Crossbow",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Icy War Crossbow",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scarlet Crossbow",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Flowing Blaze Crossbow",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Red Pegasus War Crossbow",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Pass Hunting Crossbow",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Ranger's Crossbow",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "cudgel",
+      "name": "Cudgel",
+      "base_items": [
+        {
+          "name": "Witherbark Staff",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cultivation Iron Staff",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thorny Staff",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ascetic Iron Staff",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dryad Staff",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Confession Iron Staff",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Broken Mirror Staff",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ancestral Staff",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Authority Iron Staff",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Flower Staff",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conviction Iron Staff",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sacred Tree Staff",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Judge's Iron Staff",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Perishing Staff",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Esoteric Cudgel",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Origin Iron Staff",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Reincarnation Iron Staff",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Absolver Iron Staff",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Executive Iron Staff",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Last Man's Cudgel",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dex_boots",
+      "name": "DEX Boots",
+      "base_items": [
+        {
+          "name": "Rogue's Long Boots",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 gear Evasion"
+          ]
+        },
+        {
+          "name": "Scout's Short Boots",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 gear Evasion"
+          ]
+        },
+        {
+          "name": "Skirmisher's Leather Boots",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hunter's Leather Boots",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 gear Evasion"
+          ]
+        },
+        {
+          "name": "Prospector's Short Boots",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wild Dominator Long Boots",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 gear Evasion"
+          ]
+        },
+        {
+          "name": "Grand Explorer's Heavy Boots",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 gear Evasion"
+          ]
+        },
+        {
+          "name": "Watcher's Trail",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 gear Evasion"
+          ]
+        },
+        {
+          "name": "Eternal Night Stalker's Long Boots",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 gear Evasion"
+          ]
+        },
+        {
+          "name": "Boots of Calamity",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 gear Evasion"
+          ]
+        },
+        {
+          "name": "Demon Slayer's Feet",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 gear Evasion"
+          ]
+        },
+        {
+          "name": "Secret Shadow's Shoes",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 gear Evasion"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dex_chest_armor",
+      "name": "DEX Chest Armor",
+      "base_items": [
+        {
+          "name": "Rogue Outerwear",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+196 gear Evasion"
+          ]
+        },
+        {
+          "name": "Scout's Tight Vest",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+274 gear Evasion"
+          ]
+        },
+        {
+          "name": "Skirmisher Outerwear",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+384 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hunter's Chestguard",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+538 gear Evasion"
+          ]
+        },
+        {
+          "name": "Prospector Outerwear",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+699 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wild Dominator Outerwear",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+909 gear Evasion"
+          ]
+        },
+        {
+          "name": "Grand Explorer Outerwear",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+1091 gear Evasion"
+          ]
+        },
+        {
+          "name": "Watcher's Chest Armor",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1309 gear Evasion"
+          ]
+        },
+        {
+          "name": "Eternal Night Stalker's Chestguard",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1571 gear Evasion"
+          ]
+        },
+        {
+          "name": "Sanctuary of Calamity",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1885 gear Evasion"
+          ]
+        },
+        {
+          "name": "Demon Slayer's Skin",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+2073 gear Evasion"
+          ]
+        },
+        {
+          "name": "Secret Shadow's Protection",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+2240 gear Evasion"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dex_gloves",
+      "name": "DEX Gloves",
+      "base_items": [
+        {
+          "name": "Rogue's Gloves",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 gear Evasion"
+          ]
+        },
+        {
+          "name": "Scout's Gloves",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 gear Evasion"
+          ]
+        },
+        {
+          "name": "Skirmisher's Gloves",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hunter's Gloves",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 gear Evasion"
+          ]
+        },
+        {
+          "name": "Prospector Handguards",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wild Dominator Handguards",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 gear Evasion"
+          ]
+        },
+        {
+          "name": "Grand Explorer's Gloves",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 gear Evasion"
+          ]
+        },
+        {
+          "name": "Watcher's Hold",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 gear Evasion"
+          ]
+        },
+        {
+          "name": "Eternal Night Stalker's Hands",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hands of Calamity",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 gear Evasion"
+          ]
+        },
+        {
+          "name": "Demon Slayer's Hands",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 gear Evasion"
+          ]
+        },
+        {
+          "name": "Secret Shadow's Wrists",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 gear Evasion"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dex_helmet",
+      "name": "DEX Helmet",
+      "base_items": [
+        {
+          "name": "Rogue's Hood",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 gear Evasion"
+          ]
+        },
+        {
+          "name": "Scout's Hood",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 gear Evasion"
+          ]
+        },
+        {
+          "name": "Skirmisher's Mask",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hunter's Hood",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 gear Evasion"
+          ]
+        },
+        {
+          "name": "Prospector's Hat",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wild Dominator Headdress",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 gear Evasion"
+          ]
+        },
+        {
+          "name": "Grand Explorer's Fez",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 gear Evasion"
+          ]
+        },
+        {
+          "name": "Watcher's Gaze",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 gear Evasion"
+          ]
+        },
+        {
+          "name": "Eternal Night Stalker's Hood",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 gear Evasion"
+          ]
+        },
+        {
+          "name": "Mask of Calamity",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 gear Evasion"
+          ]
+        },
+        {
+          "name": "Demon Slayer's Eyes",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 gear Evasion"
+          ]
+        },
+        {
+          "name": "Secret Shadow's Mask",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 gear Evasion"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dex_shield",
+      "name": "DEX Shield",
+      "base_items": [
+        {
+          "name": "Aspiration Light Shield",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 gear Evasion"
+          ]
+        },
+        {
+          "name": "Griffin Buckler",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wind Spirit Light Shield",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 gear Evasion"
+          ]
+        },
+        {
+          "name": "Dragonfang Buckler",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 gear Evasion"
+          ]
+        },
+        {
+          "name": "Hunter's Buckler",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 gear Evasion"
+          ]
+        },
+        {
+          "name": "Thunder Light Shield",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 gear Evasion"
+          ]
+        },
+        {
+          "name": "Cursed Light Shield",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 gear Evasion"
+          ]
+        },
+        {
+          "name": "Viper Buckler",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 gear Evasion"
+          ]
+        },
+        {
+          "name": "Shadow Light Shield",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 gear Evasion"
+          ]
+        },
+        {
+          "name": "Wind God's Buckler",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 gear Evasion"
+          ]
+        },
+        {
+          "name": "Conqueror Buckler",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 gear Evasion"
+          ]
+        },
+        {
+          "name": "Lost Ranger's Light Shield",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 gear Evasion"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "dagger",
+      "name": "Dagger",
+      "base_items": [
+        {
+          "name": "Thief Short Dagger",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rusted Dagger",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Slaughter Short Dagger",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Poisoned Dagger",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Assassin Short Dagger",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Voodoo Dagger",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Resentment Dirk",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Violence Short Dagger",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Nightshade Dagger",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Kingslayer Short Dagger",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cursed Dagger",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Godslaughter Short Dagger",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sorcerer's Dagger",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hatred Dirk",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Esoteric Dagger",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Illusory Dirk",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Disillusion Dagger",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Fools' Dagger",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blind Faith Dagger",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Truth Speaker's Dagger",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "fire_cannon",
+      "name": "Fire Cannon",
+      "base_items": [
+        {
+          "name": "Witherbark Cannon",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rusted Blaster",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Iron Cannon",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Cannon",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wolf Hunter's Cannon",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Starmetal Cannon",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unholy Blaster",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Warden's Blaster",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Griffin Blaster",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blazing Cannon",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unyielding Cannon",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wailing Blaster",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Abyssal Blaster",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Monarch's Cannon",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Solar Flame Cannon",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Viking Blaster",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dark Ravine Cannon",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Fire Worshiper Cannon",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Fire Eater Cannon",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sun Fall Cannon",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "int_boots",
+      "name": "INT Boots",
+      "base_items": [
+        {
+          "name": "Herbalist's Footguards",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+9 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Scribe's Boots",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+13 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Acolyte's Footwraps",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+18 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Witchdoctor's Slippers",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+26 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Disciple's Cloth Boots",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+35 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Shaman's Slippers",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+43 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Envoy's Soft Shoes",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+56 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Respected Tutor's Footwraps",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+69 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Elder Sage's Treads",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+86 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Imperishable Feet",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+103 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "All Magic Shoes",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+120 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Long Night Sorcerer's Boots",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+146 gear Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "int_chest_armor",
+      "name": "INT Chest Armor",
+      "base_items": [
+        {
+          "name": "Herbalist's Robe",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+10 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Scribe's Coat",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+15 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Acolyte's Robe",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+20 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Witchdoctor's Robe",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+30 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Disciple's Coat",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+40 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Shaman's Short Robe",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+50 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Envoy's Robe",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+65 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Respected Tutor's Robe",
+          "required_level": 61,
+          "armor": null,
+          "implicits": []
+        },
+        {
+          "name": "Respected Tutor's Robe",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+80 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Elder Sage's Regalia",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+100 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Imperishable Black Robe",
+          "required_level": 66,
+          "armor": null,
+          "implicits": []
+        },
+        {
+          "name": "Imperishable Black Robe",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+120 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "All Magic Secret Robe",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+140 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Long Night Sorcerer's Robe",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+170 gear Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "int_gloves",
+      "name": "INT Gloves",
+      "base_items": [
+        {
+          "name": "Herbalist's Gloves",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+9 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Scribe Handguards",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+13 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Acolyte Handguards",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+18 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Witchdoctor's Gloves",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+26 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Disciple Handguards",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+35 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Shaman's Hands",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+43 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Envoy's Hands",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+56 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Respected Tutor's Gloves",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+69 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Elder Sage's Long Gloves",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+86 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Imperishable Touch",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+103 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "All Magic Grip",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+120 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Long Night Sorcerer's Wristband",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+146 gear Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "int_helmet",
+      "name": "INT Helmet",
+      "base_items": [
+        {
+          "name": "Herbalist's Headscarf",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+9 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Scribe's Headscarf",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+13 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Acolyte's Crown",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+18 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Witchdoctor's Mask",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+26 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Disciple's Headscarf",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+35 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Shaman's Headdress",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+43 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Envoy's Mask",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+56 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Respected Tutor's Face",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+69 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Elder Sage's Chapeau",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+86 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Imperishable Miter",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+103 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "All Magic Crown",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+120 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Long Night Sorcerer's Mask",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+146 gear Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "int_shield",
+      "name": "INT Shield",
+      "base_items": [
+        {
+          "name": "Aspiration Magic Shield",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+9 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Voodoo Caster Shield",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+13 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Bard's Square Shield",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+18 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Freedom Square Shield",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+26 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Nature Caster Shield",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+35 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Abyssal Square Shield",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+43 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Blizzard Square Shield",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+56 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Sage's Caster Shield",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+69 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Spirit Lord's Caster Shield",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+86 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Twilight Square Shield",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+103 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Fraudster Magic Shield",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+120 gear Energy Shield"
+          ]
+        },
+        {
+          "name": "Ninth Apostle's Magic Shield",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+146 gear Energy Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "musket",
+      "name": "Musket",
+      "base_items": [
+        {
+          "name": "Rusted Rifle",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Crude Iron Rifle",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Recruit's Musket",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Musket",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wolf Fang Rifle",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blazing Rifle",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unpredictable Rifle",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ripple Rifle",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Eagle Rifle",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Toxic Rifle",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conflict Rifle",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Giant's Rifle",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Rifle",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scarlet Rifle",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Moonlight Rifle",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Warlord's Musket",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Imperial Rifle",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bannerlord's Musket",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Personal Guard Musket",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Repercussion Musket",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "necklace",
+      "name": "Necklace",
+      "base_items": [
+        {
+          "name": "Tortoiseshell Amulet",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 Strength"
+          ]
+        },
+        {
+          "name": "Cinnabar Pendant",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 Dexterity"
+          ]
+        },
+        {
+          "name": "Obsidian Necklace",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 Intelligence"
+          ]
+        },
+        {
+          "name": "Cataclysm Amulet",
+          "required_level": 32,
+          "armor": null,
+          "implicits": [
+            "+5 Strength"
+          ]
+        },
+        {
+          "name": "Sunlight Pendant",
+          "required_level": 32,
+          "armor": null,
+          "implicits": [
+            "+5 Dexterity"
+          ]
+        },
+        {
+          "name": "Shaman's Necklace",
+          "required_level": 32,
+          "armor": null,
+          "implicits": [
+            "+5 Intelligence"
+          ]
+        },
+        {
+          "name": "Flare Amulet",
+          "required_level": 38,
+          "armor": null,
+          "implicits": [
+            "+8 Strength"
+          ]
+        },
+        {
+          "name": "Ripple Pendant",
+          "required_level": 38,
+          "armor": null,
+          "implicits": [
+            "+8 Dexterity"
+          ]
+        },
+        {
+          "name": "Lunar Corona Necklace",
+          "required_level": 38,
+          "armor": null,
+          "implicits": [
+            "+8 Intelligence"
+          ]
+        },
+        {
+          "name": "Sunlight Amulet",
+          "required_level": 56,
+          "armor": null,
+          "implicits": []
+        },
+        {
+          "name": "Red Crystal Amulet",
+          "required_level": 56,
+          "armor": null,
+          "implicits": [
+            "+12 Strength"
+          ]
+        },
+        {
+          "name": "Opal Pendant",
+          "required_level": 56,
+          "armor": null,
+          "implicits": [
+            "+12 Dexterity"
+          ]
+        },
+        {
+          "name": "Moonstone Necklace",
+          "required_level": 56,
+          "armor": null,
+          "implicits": [
+            "+12 Intelligence"
+          ]
+        },
+        {
+          "name": "Hero's Amulet",
+          "required_level": 78,
+          "armor": null,
+          "implicits": [
+            "+18 Strength"
+          ]
+        },
+        {
+          "name": "Assassin's Pendant",
+          "required_level": 78,
+          "armor": null,
+          "implicits": [
+            "+18 Dexterity"
+          ]
+        },
+        {
+          "name": "Sage's Necklace",
+          "required_level": 78,
+          "armor": null,
+          "implicits": [
+            "+18 Intelligence"
+          ]
+        },
+        {
+          "name": "Destroyer's Amulet",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "+24 Strength"
+          ]
+        },
+        {
+          "name": "Onslaughter's Pendant",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "+24 Dexterity"
+          ]
+        },
+        {
+          "name": "Sacrificer's Necklace",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "+24 Intelligence"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "one_handed_axe",
+      "name": "One-Handed Axe",
+      "base_items": [
+        {
+          "name": "Rusted Iron Axe",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Twisted Copper Axe",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Hatchet",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sharpened Iron Axe",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Alloy Board Axe",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Axe",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scoundrel's Axe",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Earthsplitter Axe",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Savage Axe",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Valagon Axe",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cursed Axe",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bonecrusher Greataxe",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conflict War Axe",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Frenzy Battle Axe",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scarlet Axe",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ritual Greataxe",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Vengeance Axe",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Suppressor Axe",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rebel Axe",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hollow Rift Axe",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "one_handed_hammer",
+      "name": "One-Handed Hammer",
+      "base_items": [
+        {
+          "name": "Witherbark Club",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Mossy Stone Hammer",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rusted Wooden Hammer",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Iron Maul",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Hammer",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Oblivion Maul",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Prayer Hammer",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Nightmare Hammer",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dragon's Roar Hammer",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Tremor Wooden Hammer",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thorny Hammer",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rocksplitter Mallet",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Primeval War Hammer",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Nature Wooden Hammer",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Redgold Hammer",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Twilight Hammer",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Quinn's Hammer",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "General's War Hammer",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Melted Iron Hammer",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sierra Forge Light Hammer",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "one_handed_sword",
+      "name": "One-Handed Sword",
+      "base_items": [
+        {
+          "name": "Rusted Bronze Sword",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Crude Iron Sword",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Recruit's Saber",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Sword",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thorny Sword",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Battlefield Longsword",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Redgold Sword",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cold Blade",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Talon Sword",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hurricane Short Sword",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blizzard Sword",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Coldlight Sword",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hero's Longsword",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Gilt Longsword",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bone Stinger Sword",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Moonlight Long Blade",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Nameless Sword",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Forgotten Iron Sword",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unforgotten Long Blade",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Shadowless Swordsman's Blade",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "pistol",
+      "name": "Pistol",
+      "base_items": [
+        {
+          "name": "Rusted Pistol",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "6 - 6 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blackrock Zapper",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Pocket Boomstick",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Pistol",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Feather Zapper",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "13 - 13 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rottenbone Zapper",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Thorny Boomstick",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Warden's Boomstick",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unholy Zapper",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "30 - 30 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Cursed Boomstick",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "35 - 35 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Viper Zapper",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "41 - 41 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Voodoo Boomstick",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "49 - 49 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Bloodclaw Zapper",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "57 - 57 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Swarm Pistol",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "73 - 73 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Shadow Boomstick",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "89 - 89 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Dragonsoul Zapper",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "109 - 109 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Final Battle Boomstick",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "130 - 130 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Terminator Boomstick",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "142 - 142 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Kingslayer Boomstick",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "154 - 154 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "War Ender's Boomstick",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "178 - 178 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "ring",
+      "name": "Ring",
+      "base_items": [
+        {
+          "name": "Burning Flame Ring",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Biting Wind Ice Ring",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "Calamity Lightning Ring",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Abyss Darkness Ring",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Heated Flame Ring",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+4 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Blight Ice Ring",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+4 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "Dazzling Lightning Ring",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+4 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Agony Darkness Ring",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+4 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Raging Boil Flame Ring",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+6 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Snow Ice Ring",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+6 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "Chilling Lightning Ring",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+6 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Rotten Darkness Ring",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+6 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Frozen Ring",
+          "required_level": 58,
+          "armor": null,
+          "implicits": []
+        },
+        {
+          "name": "Firestorm Flame Ring",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+9 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Frost City Ice Ring",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+9 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "High Heavens Lightning Ring",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+9 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Evernight Darkness Ring",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+9 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Torched Flame Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+11 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Sealed Ice Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+11 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "Punished Lightning Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+11 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Imprisoned Darkness Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+11 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Depicted Ward Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+3 % Elemental Resistance"
+          ]
+        },
+        {
+          "name": "Perishing Inferno Flame Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+12 % Fire Resistance"
+          ]
+        },
+        {
+          "name": "Eternal Sleep Ice Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+12 % Cold Resistance"
+          ]
+        },
+        {
+          "name": "Thunder Tempered Lightning Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+12 % Lightning Resistance"
+          ]
+        },
+        {
+          "name": "Eternal Gloom Darkness Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+12 % Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Myriad Radiance Ward Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+4 % Elemental Resistance"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "rod",
+      "name": "Rod",
+      "base_items": [
+        {
+          "name": "Bud Rod",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+2 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Thriving Rod",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+3 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Vine Rod",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+5 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Storm Rod",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+7 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Waning Moon Rod",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+9 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Flying Bird Rod",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+11 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Swimming Fish Rod",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+13 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Shepherdess Rod",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+15 % Minion Damage"
+          ]
+        },
+        {
+          "name": "River Rod",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+17 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Harvest Rod",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+19 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Daylight Rod",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+21 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Full Moon Rod",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+23 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Shooting Star Rod",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+25 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Beast King Rod",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+27 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Celestial Rod",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+29 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Cosmic Rod",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+31 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Star Ocean Rod",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+33 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Astrologer Rod",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+35 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Bard Rod",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+37 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Heart of All Rod",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+39 % Minion Damage"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "str_boots",
+      "name": "STR Boots",
+      "base_items": [
+        {
+          "name": "Brute's Greaves",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 Gear Armor"
+          ]
+        },
+        {
+          "name": "Footman's Boots",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 Gear Armor"
+          ]
+        },
+        {
+          "name": "Paladin's Iron Greaves",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 Gear Armor"
+          ]
+        },
+        {
+          "name": "Berserker's Footguards",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 Gear Armor"
+          ]
+        },
+        {
+          "name": "Iron Sentry's Feet",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 Gear Armor"
+          ]
+        },
+        {
+          "name": "Packleader Greaves",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 Gear Armor"
+          ]
+        },
+        {
+          "name": "Mountain Lord's Feet",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 Gear Armor"
+          ]
+        },
+        {
+          "name": "Divine Arbiter's Feet",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 Gear Armor"
+          ]
+        },
+        {
+          "name": "Dragon Guardian's Footguards",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 Gear Armor"
+          ]
+        },
+        {
+          "name": "Fallen Knight's Footguards",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 Gear Armor"
+          ]
+        },
+        {
+          "name": "Old King's Sabatons",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 Gear Armor"
+          ]
+        },
+        {
+          "name": "Ranger's Dirty Boots",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 Gear Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "str_chest_armor",
+      "name": "STR Chest Armor",
+      "base_items": [
+        {
+          "name": "Brute's Chestguard",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+196 Gear Armor"
+          ]
+        },
+        {
+          "name": "Footman's Chestguard",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+274 Gear Armor"
+          ]
+        },
+        {
+          "name": "Paladin's Heavy Armor",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+384 Gear Armor"
+          ]
+        },
+        {
+          "name": "Berserker's Chest Armor",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+538 Gear Armor"
+          ]
+        },
+        {
+          "name": "Iron Sentry's Heavy Armor",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+699 Gear Armor"
+          ]
+        },
+        {
+          "name": "Packleader Chest Armor",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+909 Gear Armor"
+          ]
+        },
+        {
+          "name": "Mountain Lord's Chest Armor",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+1091 Gear Armor"
+          ]
+        },
+        {
+          "name": "Divine Arbiter's Defense",
+          "required_level": 61,
+          "armor": null,
+          "implicits": []
+        },
+        {
+          "name": "Divine Arbiter's Defense",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1309 Gear Armor"
+          ]
+        },
+        {
+          "name": "Dragon Guardian's Lamellar Armor",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1571 Gear Armor"
+          ]
+        },
+        {
+          "name": "Fallen Knight's Armor",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1885 Gear Armor"
+          ]
+        },
+        {
+          "name": "Old King's Armor",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+2073 Gear Armor"
+          ]
+        },
+        {
+          "name": "Ranger's Rag",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+2240 Gear Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "str_gloves",
+      "name": "STR Gloves",
+      "base_items": [
+        {
+          "name": "Brute Handguards",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 Gear Armor"
+          ]
+        },
+        {
+          "name": "Footman's Gauntlets",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 Gear Armor"
+          ]
+        },
+        {
+          "name": "Paladin's Hands",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 Gear Armor"
+          ]
+        },
+        {
+          "name": "Berserker's Hands",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 Gear Armor"
+          ]
+        },
+        {
+          "name": "Iron Sentry's Hold",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 Gear Armor"
+          ]
+        },
+        {
+          "name": "Packleader Handguards",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 Gear Armor"
+          ]
+        },
+        {
+          "name": "Mountain Lord Handguards",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 Gear Armor"
+          ]
+        },
+        {
+          "name": "Divine Arbiter's Hands",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 Gear Armor"
+          ]
+        },
+        {
+          "name": "Dragon Guardian Handguards",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 Gear Armor"
+          ]
+        },
+        {
+          "name": "Fallen Knight Handguards",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 Gear Armor"
+          ]
+        },
+        {
+          "name": "Old King's Rerebraces",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 Gear Armor"
+          ]
+        },
+        {
+          "name": "Ranger's Rusted Gauntlets",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 Gear Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "str_helmet",
+      "name": "STR Helmet",
+      "base_items": [
+        {
+          "name": "Brute's Helm",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 Gear Armor"
+          ]
+        },
+        {
+          "name": "Footman Helmet",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 Gear Armor"
+          ]
+        },
+        {
+          "name": "Paladin's Heavy Helm",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 Gear Armor"
+          ]
+        },
+        {
+          "name": "Berserker's Spired Helm",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 Gear Armor"
+          ]
+        },
+        {
+          "name": "Iron Sentry's Helmet",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 Gear Armor"
+          ]
+        },
+        {
+          "name": "Packleader Helmet",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 Gear Armor"
+          ]
+        },
+        {
+          "name": "Mountain Lord Helmet",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 Gear Armor"
+          ]
+        },
+        {
+          "name": "Divine Arbiter's Diadem",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 Gear Armor"
+          ]
+        },
+        {
+          "name": "Dragon Guardian's Faceguard",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 Gear Armor"
+          ]
+        },
+        {
+          "name": "Fallen Knight Helmet",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 Gear Armor"
+          ]
+        },
+        {
+          "name": "Old King's Crown",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 Gear Armor"
+          ]
+        },
+        {
+          "name": "Ranger's Broken Mask",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 Gear Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "str_shield",
+      "name": "STR Shield",
+      "base_items": [
+        {
+          "name": "Aspiration Tower Shield",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+168 Gear Armor"
+          ]
+        },
+        {
+          "name": "Starmetal Kite Shield",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+235 Gear Armor"
+          ]
+        },
+        {
+          "name": "Griffin Tower Shield",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "+329 Gear Armor"
+          ]
+        },
+        {
+          "name": "Crimson Kite Shield",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+461 Gear Armor"
+          ]
+        },
+        {
+          "name": "Callous Kite Shield",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "+599 Gear Armor"
+          ]
+        },
+        {
+          "name": "Falling Star Tower Shield",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+779 Gear Armor"
+          ]
+        },
+        {
+          "name": "Warlord's Kite Shield",
+          "required_level": 57,
+          "armor": null,
+          "implicits": [
+            "+935 Gear Armor"
+          ]
+        },
+        {
+          "name": "Vindicator's Tower Shield",
+          "required_level": 62,
+          "armor": null,
+          "implicits": [
+            "+1122 Gear Armor"
+          ]
+        },
+        {
+          "name": "Monarch's Kite Shield",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+1346 Gear Armor"
+          ]
+        },
+        {
+          "name": "Glory Kite Shield",
+          "required_level": 70,
+          "armor": null,
+          "implicits": [
+            "+1615 Gear Armor"
+          ]
+        },
+        {
+          "name": "Red Pegasus Kite Shield",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+1777 Gear Armor"
+          ]
+        },
+        {
+          "name": "Future Warrior's Kite Shield",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+1920 Gear Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "scepter",
+      "name": "Scepter",
+      "base_items": [
+        {
+          "name": "Withering Scepter",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+2 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Marsh Scepter",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+3 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Barren Scepter",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+5 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Lamentation Scepter",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+7 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Disorientation Scepter",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+9 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "High Tower Scepter",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+11 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Hanging Scepter",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+13 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Eternal Night Scepter",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+15 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Red Rain Scepter",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+17 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Stigmata Scepter",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+19 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Deception Scepter",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+21 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Sorrow Scepter",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+23 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Agony Scepter",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+25 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Rotten Scepter",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+27 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Spiral Scepter",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+29 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Judgment Scepter",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+31 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Reflux Scepter",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+33 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Trickster Scepter",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+35 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Thorn Sea Scepter",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+37 % Damage Over Time"
+          ]
+        },
+        {
+          "name": "Dark Gaze Scepter",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+39 % Damage Over Time"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "spirit_ring",
+      "name": "Spirit Ring",
+      "base_items": [
+        {
+          "name": "Budding Spirit Ring",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "+3 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Thriving Spirit Ring",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "+5 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Command Spirit Ring",
+          "required_level": 52,
+          "armor": null,
+          "implicits": [
+            "+8 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Harvest Spirit Ring",
+          "required_level": 66,
+          "armor": null,
+          "implicits": [
+            "+12 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Championed Spirit Ring",
+          "required_level": 76,
+          "armor": null,
+          "implicits": [
+            "+18 % Minion Damage"
+          ]
+        },
+        {
+          "name": "Essence Spirit Ring",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "+24 % Minion Damage"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "tin_staff",
+      "name": "Tin Staff",
+      "base_items": [
+        {
+          "name": "Withervine Staff",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 4 - 4 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Bonewood Staff",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 6 - 6 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Ivory Staff",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 8 - 8 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Iron Staff",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 10 - 10 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Viper Staff",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 12 - 12 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Gilt Staff",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 14 - 14 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Flower Sea Staff",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 16 - 16 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Monkey Staff",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 18 - 18 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "White Crystal Staff",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 20 - 20 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Black Feather Staff",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 24 - 24 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Twilight Staff",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 28 - 28 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Voodoo Staff",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 32 - 32 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Sage's Staff",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 36 - 36 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Devout Staff",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 40 - 40 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Wind God's Staff",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 44 - 44 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Warden's Staff",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 48 - 48 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Divinity Staff",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 52 - 52 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Southern Cross Staff",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 56 - 56 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Centaur Staff",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 60 - 60 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "First Man's Scepter",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+80 % Spell Damage"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "two_handed_axe",
+      "name": "Two-Handed Axe",
+      "base_items": [
+        {
+          "name": "Shattered Iron Axe",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Gigantic Stone Axe",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Battle Axe",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hardrock Stone Axe",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Coldlight Greataxe",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Gilt Board Axe",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Marsh Greataxe",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blazing Greataxe",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Giant's Board Axe",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Doomsday Board Axe",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Redgold Greataxe",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Unpredictable Board Axe",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Griffin Greataxe",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Blue Sea Greataxe",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ripping Greataxe",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Lava Board Axe",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Fallen Star Greataxe",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Red Pegasus Greataxe",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Pass Board Axe",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Earthrending Axe",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "two_handed_hammer",
+      "name": "Two-Handed Hammer",
+      "base_items": [
+        {
+          "name": "Crude Iron Maul",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Hardrock Mallet",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Maul",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Icefrost Mallet",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Beastfang Mallet",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Scarlet Maul",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Lonewolf Maul",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Valagon Mallet",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Crushing Mallet",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Devastating Mallet",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Doomsday Maul",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conflict Maul",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Vindicator Maul",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Vanquisher Mallet",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Platinum Mallet",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Lava Maul",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Crumbling Maul",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Destroyer Mallet",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Forger's Maul",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sierra Reverberation Maul",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "two_handed_sword",
+      "name": "Two-Handed Sword",
+      "base_items": [
+        {
+          "name": "Crude Wooden Sword",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "7 - 7 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rottenwood Greatsword",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "8 - 8 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rusted Claymore",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "10 - 10 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Rock Claymore",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "12 - 12 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Iron Greatsword",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "16 - 16 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Conflict Greatsword",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "20 - 20 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Ripping Claymore",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "25 - 25 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Coldlight Claymore",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "31 - 31 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Gladiator's Greatsword",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "37 - 37 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Barren Greatsword",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "43 - 43 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Tidal Claymore",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "50 - 50 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sundering Greatsword",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "60 - 60 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Wolfsoul Claymore",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "70 - 70 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Glory Greatsword",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "90 - 90 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Griffin Greatsword",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "110 - 110 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Vindicator's Greatsword",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "135 - 135 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Subjugation Claymore",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "160 - 160 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Red Pegasus Greatsword",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "175 - 175 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Black Pass Claymore",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "190 - 190 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        },
+        {
+          "name": "Sky Severing Sword",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "220 - 220 Physical Damage",
+            "500 Critical Strike Rating",
+            "1.5 Attack Speed"
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "wand",
+      "name": "Wand",
+      "base_items": [
+        {
+          "name": "Withervine Wand",
+          "required_level": 1,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 2 - 2 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Rambone Wand",
+          "required_level": 2,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 3 - 3 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Carved Wooden Wand",
+          "required_level": 4,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 4 - 4 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Cuprite Wand",
+          "required_level": 9,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 5 - 5 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Spiritwood Wand",
+          "required_level": 14,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 6 - 6 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Wind Spirit Wand",
+          "required_level": 19,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 7 - 7 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Voodoo Wand",
+          "required_level": 24,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 8 - 8 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Flower Sea Wand",
+          "required_level": 29,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 9 - 9 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Wiseman's Wand",
+          "required_level": 34,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 10 - 10 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "White Crystal Wand",
+          "required_level": 39,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 12 - 12 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Viper Wand",
+          "required_level": 44,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 14 - 14 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Wraith Wand",
+          "required_level": 49,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 16 - 16 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Bard's Wand",
+          "required_level": 54,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 18 - 18 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Sage Wand",
+          "required_level": 59,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 20 - 20 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Devout Wand",
+          "required_level": 64,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 22 - 22 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Scarlet Wand",
+          "required_level": 68,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 24 - 24 Fire Damage to Spells"
+          ]
+        },
+        {
+          "name": "Azure Moon Wand",
+          "required_level": 72,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 26 - 26 Cold Damage to Spells"
+          ]
+        },
+        {
+          "name": "Wretched Wand",
+          "required_level": 82,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 28 - 28 Lightning Damage to Spells"
+          ]
+        },
+        {
+          "name": "Heartflayer Wand",
+          "required_level": 84,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "Adds 30 - 30 Erosion Damage to Spells"
+          ]
+        },
+        {
+          "name": "Headless Cleric Wand",
+          "required_level": 86,
+          "armor": null,
+          "implicits": [
+            "500 Critical Strike Rating",
+            "1.2 Attack Speed",
+            "+40 % Spell Damage"
+          ]
+        }
+      ]
+    }
+  ]
+}

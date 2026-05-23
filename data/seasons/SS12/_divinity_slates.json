@@ -1,0 +1,193 @@
+{
+  "season": "SS12",
+  "item_count": 4,
+  "items": [
+    {
+      "item_id": "a_corner_of_divinity",
+      "name": "A Corner of Divinity",
+      "internal_id": 1005,
+      "base_type": "",
+      "required_level": 1,
+      "drop_level": 60,
+      "flavor_text": null,
+      "drop_sources": [
+        "Has a chance of dropping after defeating a Desire Incarnation"
+      ],
+      "glossary": {},
+      "variants": {
+        "base": {
+          "implicits": [],
+          "explicits": [
+            {
+              "raw_text": "<Legendary Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Legendary Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Legendary Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Legendary Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            }
+          ]
+        }
+      },
+      "random_affixes": {}
+    },
+    {
+      "item_id": "fallen_starlight",
+      "name": "Fallen Starlight",
+      "internal_id": 1003,
+      "base_type": "",
+      "required_level": 1,
+      "drop_level": 60,
+      "flavor_text": null,
+      "drop_sources": [
+        "Has a chance of dropping after defeating the Law Bearer at the High Court of Desire"
+      ],
+      "glossary": {},
+      "variants": {
+        "base": {
+          "implicits": [],
+          "explicits": [
+            {
+              "raw_text": "<Micro Talent>",
+              "modifier_id": null,
+              "expression": "<Micro Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Micro Talent>",
+              "modifier_id": null,
+              "expression": "<Micro Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Micro Talent or Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Micro Talent or Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            }
+          ]
+        }
+      },
+      "random_affixes": {}
+    },
+    {
+      "item_id": "pedigree_of_gods",
+      "name": "Pedigree of Gods",
+      "internal_id": 1010,
+      "base_type": "",
+      "required_level": 1,
+      "drop_level": 72,
+      "flavor_text": null,
+      "drop_sources": [
+        "Has a chance of dropping after defeating the Realm Lord in Primeval Core",
+        "Echo of the Gods",
+        "Second Divinity"
+      ],
+      "glossary": {},
+      "variants": {
+        "base": {
+          "implicits": [],
+          "explicits": [
+            {
+              "raw_text": "<Micro Talent or Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Micro Talent or Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Micro Talent or Medium Talent>",
+              "modifier_id": null,
+              "expression": "<Micro Talent or Medium Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Medium Talent or Lv.1 Core Talent>",
+              "modifier_id": null,
+              "expression": "<Medium Talent or Lv.1 Core Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "<Lv.2 Core Talent>",
+              "modifier_id": null,
+              "expression": "<Lv.2 Core Talent>",
+              "condition": null,
+              "affix_kind": "placeholder",
+              "numeric_values": []
+            }
+          ]
+        }
+      },
+      "random_affixes": {}
+    },
+    {
+      "item_id": "space_rift",
+      "name": "Space Rift",
+      "internal_id": 1009,
+      "base_type": "",
+      "required_level": 1,
+      "drop_level": 83,
+      "flavor_text": null,
+      "drop_sources": [
+        "Cube Gameplay Exclusive Drops"
+      ],
+      "glossary": {
+        "758": {
+          "name": "Replicate",
+          "description": "Additionally gains a copied Talent. When copying a devoured Talent, the duplicate Talent will become take effect normally. You can only copy the original Talents on the Divinity Slate and cannot copy Talents obtained via other replication effects."
+        }
+      },
+      "variants": {
+        "base": {
+          "implicits": [],
+          "explicits": [
+            {
+              "raw_text": "Copies the Medium Talents on the adjacent slate on the left to this slate",
+              "modifier_id": null,
+              "expression": "Copies the Medium Talents on the adjacent slate on the left to this slate",
+              "condition": null,
+              "affix_kind": "special",
+              "numeric_values": []
+            },
+            {
+              "raw_text": "Copies the Medium Talents on the adjacent slate on the right of this slate",
+              "modifier_id": null,
+              "expression": "Copies the Medium Talents on the adjacent slate on the right of this slate",
+              "condition": null,
+              "affix_kind": "special",
+              "numeric_values": []
+            }
+          ]
+        }
+      },
+      "random_affixes": {}
+    }
+  ]
+}

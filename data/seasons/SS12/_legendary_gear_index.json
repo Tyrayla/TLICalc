@@ -1,0 +1,1967 @@
+{
+  "season": "SS12",
+  "items": [
+    {
+      "item_id": "aeterna_martyr",
+      "name": "Aeterna Martyr",
+      "required_level": 58,
+      "base_type": "All Magic Grip"
+    },
+    {
+      "item_id": "agony_of_lost_self",
+      "name": "Agony of Lost Self",
+      "required_level": 50,
+      "base_type": "Imperishable Black Robe"
+    },
+    {
+      "item_id": "agony_s_embrace",
+      "name": "Agony's Embrace",
+      "required_level": 58,
+      "base_type": "All Magic Secret Robe"
+    },
+    {
+      "item_id": "air_treaders",
+      "name": "Air Treaders",
+      "required_level": 16,
+      "base_type": "Scribe's Boots"
+    },
+    {
+      "item_id": "alloy_covenant",
+      "name": "Alloy Covenant",
+      "required_level": 45,
+      "base_type": "Old King's Rerebraces"
+    },
+    {
+      "item_id": "arcane_shield",
+      "name": "Arcane Shield",
+      "required_level": 58,
+      "base_type": "Twilight Square Shield"
+    },
+    {
+      "item_id": "archmage_s_hands",
+      "name": "Archmage's Hands",
+      "required_level": 58,
+      "base_type": "Imperishable Touch"
+    },
+    {
+      "item_id": "ardor",
+      "name": "Ardor",
+      "required_level": 58,
+      "base_type": "Dragon Guardian Handguards"
+    },
+    {
+      "item_id": "arminius_guillotine",
+      "name": "Arminius Guillotine",
+      "required_level": 58,
+      "base_type": "Black Pass Board Axe"
+    },
+    {
+      "item_id": "arrival_of_the_polar_night",
+      "name": "Arrival of the Polar Night",
+      "required_level": 58,
+      "base_type": "Old King's Armor"
+    },
+    {
+      "item_id": "awaiting",
+      "name": "Awaiting",
+      "required_level": 1,
+      "base_type": "Scribe's Boots"
+    },
+    {
+      "item_id": "awakening_skull",
+      "name": "Awakening Skull",
+      "required_level": 58,
+      "base_type": "Old King's Crown"
+    },
+    {
+      "item_id": "berserker_bracer",
+      "name": "Berserker Bracer",
+      "required_level": 20,
+      "base_type": "Hunter's Gloves"
+    },
+    {
+      "item_id": "blade_dancer_s_edges",
+      "name": "Blade-Dancer's Edges",
+      "required_level": 58,
+      "base_type": "Ranger's Rusted Gauntlets"
+    },
+    {
+      "item_id": "blade_dancer_s_fingers",
+      "name": "Blade-dancer's Fingers",
+      "required_level": 58,
+      "base_type": "Ranger's Rusted Gauntlets"
+    },
+    {
+      "item_id": "blade_dancer_s_steps",
+      "name": "Blade-dancer's Steps",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Shoes"
+    },
+    {
+      "item_id": "blessing_pendant",
+      "name": "Blessing Pendant",
+      "required_level": 10,
+      "base_type": "Cinnabar Pendant"
+    },
+    {
+      "item_id": "blight",
+      "name": "Blight",
+      "required_level": 58,
+      "base_type": "All Magic Secret Robe"
+    },
+    {
+      "item_id": "blind_vision",
+      "name": "Blind Vision",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Mask"
+    },
+    {
+      "item_id": "blinding_bracers",
+      "name": "Blinding Bracers",
+      "required_level": 58,
+      "base_type": "Wild Dominator Handguards"
+    },
+    {
+      "item_id": "bodhi_girdle",
+      "name": "Bodhi Girdle",
+      "required_level": 58,
+      "base_type": "Wind Blade Waistguard"
+    },
+    {
+      "item_id": "boom_gloves",
+      "name": "Boom Gloves",
+      "required_level": 38,
+      "base_type": "Packleader Handguards"
+    },
+    {
+      "item_id": "boor_s_iron_crown",
+      "name": "Boor's Iron Crown",
+      "required_level": 25,
+      "base_type": "Packleader Helmet"
+    },
+    {
+      "item_id": "boots_of_devastation",
+      "name": "Boots of Devastation",
+      "required_level": 58,
+      "base_type": "Old King's Sabatons"
+    },
+    {
+      "item_id": "boots_of_sinned_fire",
+      "name": "Boots of Sinned Fire",
+      "required_level": 15,
+      "base_type": "Paladin's Iron Greaves"
+    },
+    {
+      "item_id": "born_in_fire",
+      "name": "Born in Fire",
+      "required_level": 18,
+      "base_type": "Burning Flame Ring"
+    },
+    {
+      "item_id": "bow_of_endless_dusk",
+      "name": "Bow of Endless Dusk",
+      "required_level": 58,
+      "base_type": "Black Feather Long Bow"
+    },
+    {
+      "item_id": "brainwave_emitter",
+      "name": "Brainwave Emitter",
+      "required_level": 24,
+      "base_type": "Witchdoctor's Mask"
+    },
+    {
+      "item_id": "broken_sun_ring",
+      "name": "Broken Sun Ring",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "burning_ice",
+      "name": "Burning Ice",
+      "required_level": 58,
+      "base_type": "Sealed Ice Ring"
+    },
+    {
+      "item_id": "buzzing",
+      "name": "Buzzing",
+      "required_level": 58,
+      "base_type": "Rottenbone Zapper"
+    },
+    {
+      "item_id": "call_of_souls",
+      "name": "Call of Souls",
+      "required_level": 32,
+      "base_type": "Wind Blade Waistguard"
+    },
+    {
+      "item_id": "chain_behind_the_curtain",
+      "name": "Chain behind the Curtain",
+      "required_level": 58,
+      "base_type": "Tortoiseshell Amulet"
+    },
+    {
+      "item_id": "chain_of_resistance",
+      "name": "Chain of Resistance",
+      "required_level": 36,
+      "base_type": "Tortoiseshell Amulet"
+    },
+    {
+      "item_id": "chaos_abyss",
+      "name": "Chaos Abyss",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Wrists"
+    },
+    {
+      "item_id": "chaotic_ending",
+      "name": "Chaotic Ending",
+      "required_level": 58,
+      "base_type": "Abyss Darkness Ring"
+    },
+    {
+      "item_id": "cicada_shell",
+      "name": "Cicada Shell",
+      "required_level": 58,
+      "base_type": "Scribe's Coat"
+    },
+    {
+      "item_id": "circular_clearing",
+      "name": "Circular Clearing",
+      "required_level": 58,
+      "base_type": "Griffin Greatsword"
+    },
+    {
+      "item_id": "clarity",
+      "name": "Clarity",
+      "required_level": 58,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "clay_doll_s_broken_finger",
+      "name": "Clay Doll's Broken Finger",
+      "required_level": 35,
+      "base_type": "Abyss Darkness Ring"
+    },
+    {
+      "item_id": "clenched_spring",
+      "name": "Clenched Spring",
+      "required_level": 58,
+      "base_type": "Ranger's Rusted Gauntlets"
+    },
+    {
+      "item_id": "cold_breath",
+      "name": "Cold Breath",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "cold_sanctuary_prosthetics",
+      "name": "Cold Sanctuary Prosthetics",
+      "required_level": 12,
+      "base_type": "Scribe's Boots"
+    },
+    {
+      "item_id": "coldness_tracer_s_tear",
+      "name": "Coldness Tracer's Tear",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "compensatory_life",
+      "name": "Compensatory Life",
+      "required_level": 58,
+      "base_type": "Rock Waistguard"
+    },
+    {
+      "item_id": "confusion_elemental_belt",
+      "name": "Confusion Elemental Belt",
+      "required_level": 58,
+      "base_type": "Rock Waistguard"
+    },
+    {
+      "item_id": "corrosion_of_manifolds",
+      "name": "Corrosion of Manifolds",
+      "required_level": 58,
+      "base_type": "God's Grace Girdle"
+    },
+    {
+      "item_id": "corrupted_bulwark",
+      "name": "Corrupted Bulwark",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "corrupted_marrow",
+      "name": "Corrupted Marrow",
+      "required_level": 35,
+      "base_type": "Wild Dominator Headdress"
+    },
+    {
+      "item_id": "cover_the_sun",
+      "name": "Cover the Sun",
+      "required_level": 20,
+      "base_type": "Red Pegasus Kite Shield"
+    },
+    {
+      "item_id": "crimson_king",
+      "name": "Crimson King",
+      "required_level": 58,
+      "base_type": "Ranger's Rag"
+    },
+    {
+      "item_id": "crosser",
+      "name": "Crosser",
+      "required_level": 1,
+      "base_type": "Rock Claymore"
+    },
+    {
+      "item_id": "crow_s_plume",
+      "name": "Crow's Plume",
+      "required_level": 58,
+      "base_type": "Boots of Calamity"
+    },
+    {
+      "item_id": "cry_of_divinity",
+      "name": "Cry of Divinity",
+      "required_level": 32,
+      "base_type": "Rock Waistguard"
+    },
+    {
+      "item_id": "cursed_flame",
+      "name": "Cursed Flame",
+      "required_level": 58,
+      "base_type": "Conflict Greatsword"
+    },
+    {
+      "item_id": "dawn_break",
+      "name": "Dawn Break",
+      "required_level": 58,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "death_s_touch",
+      "name": "Death's Touch",
+      "required_level": 58,
+      "base_type": "Ranger's Rusted Gauntlets"
+    },
+    {
+      "item_id": "decayed_mind",
+      "name": "Decayed Mind",
+      "required_level": 58,
+      "base_type": "Command Spirit Ring"
+    },
+    {
+      "item_id": "decaying_blessing",
+      "name": "Decaying Blessing",
+      "required_level": 58,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "demons_touch",
+      "name": "Demons' Touch",
+      "required_level": 58,
+      "base_type": "Ranger's Rusted Gauntlets"
+    },
+    {
+      "item_id": "desire_of_survival",
+      "name": "Desire of Survival",
+      "required_level": 12,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "despised_shadow",
+      "name": "Despised Shadow",
+      "required_level": 15,
+      "base_type": "Sunlight Amulet"
+    },
+    {
+      "item_id": "devouring_tide",
+      "name": "Devouring Tide",
+      "required_level": 58,
+      "base_type": "Old King's Armor"
+    },
+    {
+      "item_id": "divine_ember",
+      "name": "Divine Ember",
+      "required_level": 58,
+      "base_type": "Old King's Crown"
+    },
+    {
+      "item_id": "double_rainbow",
+      "name": "Double Rainbow",
+      "required_level": 58,
+      "base_type": "Scout's Tight Vest"
+    },
+    {
+      "item_id": "dragon_breath_armor",
+      "name": "Dragon Breath Armor",
+      "required_level": 58,
+      "base_type": "Fallen Knight's Armor"
+    },
+    {
+      "item_id": "dragon_scale_shoes",
+      "name": "Dragon Scale Shoes",
+      "required_level": 10,
+      "base_type": "Footman's Boots"
+    },
+    {
+      "item_id": "dumb_voice",
+      "name": "Dumb Voice",
+      "required_level": 58,
+      "base_type": "Blue Sea War Crossbow"
+    },
+    {
+      "item_id": "electricity_amplifier",
+      "name": "Electricity Amplifier",
+      "required_level": 58,
+      "base_type": "Thunder Light Shield"
+    },
+    {
+      "item_id": "elegy_of_immortality",
+      "name": "Elegy of Immortality",
+      "required_level": 58,
+      "base_type": "Sage's Necklace"
+    },
+    {
+      "item_id": "elemental_whirl",
+      "name": "Elemental Whirl",
+      "required_level": 58,
+      "base_type": "Primeval War Claw"
+    },
+    {
+      "item_id": "elemental_whisper_belt",
+      "name": "Elemental Whisper Belt",
+      "required_level": 10,
+      "base_type": "Radiant Lunar Girdle"
+    },
+    {
+      "item_id": "embrace_of_the_dark_surge",
+      "name": "Embrace of the Dark Surge",
+      "required_level": 58,
+      "base_type": "Wind Blade Waistguard"
+    },
+    {
+      "item_id": "enamor",
+      "name": "Enamor",
+      "required_level": 1,
+      "base_type": "God's Grace Girdle"
+    },
+    {
+      "item_id": "end_night_banquet",
+      "name": "End Night Banquet",
+      "required_level": 58,
+      "base_type": "Frenzy Battle Axe"
+    },
+    {
+      "item_id": "endless_fortress",
+      "name": "Endless Fortress",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "entangled_root",
+      "name": "Entangled Root",
+      "required_level": 40,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "eternal_moon",
+      "name": "Eternal Moon",
+      "required_level": 10,
+      "base_type": "Pickaxe Claw"
+    },
+    {
+      "item_id": "eternal_sea_fog",
+      "name": "Eternal Sea Fog",
+      "required_level": 58,
+      "base_type": "Wind Blade Waistguard"
+    },
+    {
+      "item_id": "eternal_sun",
+      "name": "Eternal Sun",
+      "required_level": 58,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "eternity",
+      "name": "Eternity",
+      "required_level": 66,
+      "base_type": "Wayfarer Waistguard"
+    },
+    {
+      "item_id": "everburn_thunderfire",
+      "name": "Everburn Thunderfire",
+      "required_level": 58,
+      "base_type": "God's Grace Girdle"
+    },
+    {
+      "item_id": "evil_heart_armor",
+      "name": "Evil Heart Armor",
+      "required_level": 58,
+      "base_type": "Eternal Night Stalker's Chestguard"
+    },
+    {
+      "item_id": "exemption_thunderhell",
+      "name": "Exemption Thunderhell",
+      "required_level": 58,
+      "base_type": "High Heavens Lightning Ring"
+    },
+    {
+      "item_id": "false_god_s_skin",
+      "name": "False God's Skin",
+      "required_level": 58,
+      "base_type": "Flare Amulet"
+    },
+    {
+      "item_id": "farewell_desire",
+      "name": "Farewell Desire",
+      "required_level": 58,
+      "base_type": "Bone Stinger Sword"
+    },
+    {
+      "item_id": "feline_gloves",
+      "name": "Feline Gloves",
+      "required_level": 24,
+      "base_type": "Skirmisher's Gloves"
+    },
+    {
+      "item_id": "feline_steps",
+      "name": "Feline Steps",
+      "required_level": 58,
+      "base_type": "Eternal Night Stalker's Long Boots"
+    },
+    {
+      "item_id": "fiend_crown",
+      "name": "Fiend Crown",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "fiery_oath",
+      "name": "Fiery Oath",
+      "required_level": 58,
+      "base_type": "Wiseman's Wand"
+    },
+    {
+      "item_id": "fighting_stompers",
+      "name": "Fighting Stompers",
+      "required_level": 24,
+      "base_type": "Witchdoctor's Slippers"
+    },
+    {
+      "item_id": "final_bastion",
+      "name": "Final Bastion",
+      "required_level": 58,
+      "base_type": "Ranger's Dirty Boots"
+    },
+    {
+      "item_id": "fire_lord_s_promise",
+      "name": "Fire Lord's Promise",
+      "required_level": 30,
+      "base_type": "White Crystal Wand"
+    },
+    {
+      "item_id": "fire_lord_s_pyric_stride",
+      "name": "Fire Lord's Pyric Stride",
+      "required_level": 58,
+      "base_type": "Old King's Sabatons"
+    },
+    {
+      "item_id": "fire_shielding_prosthetics",
+      "name": "Fire Shielding Prosthetics",
+      "required_level": 12,
+      "base_type": "Footman's Boots"
+    },
+    {
+      "item_id": "flaming_evil",
+      "name": "Flaming Evil",
+      "required_level": 58,
+      "base_type": "Scribe's Coat"
+    },
+    {
+      "item_id": "fleeting_regret",
+      "name": "Fleeting Regret",
+      "required_level": 58,
+      "base_type": "Gilt Longsword"
+    },
+    {
+      "item_id": "fleeting_sky",
+      "name": "Fleeting Sky",
+      "required_level": 58,
+      "base_type": "Scribe's Coat"
+    },
+    {
+      "item_id": "flying_bird",
+      "name": "Flying Bird",
+      "required_level": 58,
+      "base_type": "Primeval War Claw"
+    },
+    {
+      "item_id": "flying_light_at_daybreak",
+      "name": "Flying Light at Daybreak",
+      "required_level": 58,
+      "base_type": "Mask of Calamity"
+    },
+    {
+      "item_id": "folklore_of_locking_fingers",
+      "name": "Folklore of Locking Fingers",
+      "required_level": 58,
+      "base_type": "Rotten Darkness Ring"
+    },
+    {
+      "item_id": "fool_s_crown",
+      "name": "Fool's Crown",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "forlorn_crystal",
+      "name": "Forlorn Crystal",
+      "required_level": 58,
+      "base_type": "Cataclysm Amulet"
+    },
+    {
+      "item_id": "formation_breaker",
+      "name": "Formation Breaker",
+      "required_level": 58,
+      "base_type": "Radiant Lunar Girdle"
+    },
+    {
+      "item_id": "frantic_shadow",
+      "name": "Frantic Shadow",
+      "required_level": 58,
+      "base_type": "Godslaughter Short Dagger"
+    },
+    {
+      "item_id": "friend_nemesis",
+      "name": "Friend Nemesis",
+      "required_level": 58,
+      "base_type": "Ranger's Rag"
+    },
+    {
+      "item_id": "frostbolt",
+      "name": "Frostbolt",
+      "required_level": 50,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "frozen_flame",
+      "name": "Frozen Flame",
+      "required_level": 58,
+      "base_type": "Torched Flame Ring"
+    },
+    {
+      "item_id": "frozen_lightning",
+      "name": "Frozen Lightning",
+      "required_level": 35,
+      "base_type": "Blight Ice Ring"
+    },
+    {
+      "item_id": "frozen_path",
+      "name": "Frozen Path",
+      "required_level": 58,
+      "base_type": "Scribe's Coat"
+    },
+    {
+      "item_id": "frozen_ripples",
+      "name": "Frozen Ripples",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Boots"
+    },
+    {
+      "item_id": "frozen_sight",
+      "name": "Frozen Sight",
+      "required_level": 1,
+      "base_type": "Pocket Boomstick"
+    },
+    {
+      "item_id": "frozen_will",
+      "name": "Frozen Will",
+      "required_level": 30,
+      "base_type": "Thorny Hammer"
+    },
+    {
+      "item_id": "furious_man_s_body",
+      "name": "Furious Man's Body",
+      "required_level": 30,
+      "base_type": "Old King's Armor"
+    },
+    {
+      "item_id": "fury_heart",
+      "name": "Fury Heart",
+      "required_level": 58,
+      "base_type": "Raging Boil Flame Ring"
+    },
+    {
+      "item_id": "futile_tradeoff",
+      "name": "Futile Tradeoff",
+      "required_level": 58,
+      "base_type": "Footman's Chestguard"
+    },
+    {
+      "item_id": "gauze_of_phantom_sin",
+      "name": "Gauze of Phantom Sin",
+      "required_level": 45,
+      "base_type": "Shaman's Short Robe"
+    },
+    {
+      "item_id": "genius_battlegear",
+      "name": "Genius Battlegear",
+      "required_level": 30,
+      "base_type": "Disciple's Coat"
+    },
+    {
+      "item_id": "ghost_slaughter",
+      "name": "Ghost Slaughter",
+      "required_level": 58,
+      "base_type": "Old King's Rerebraces"
+    },
+    {
+      "item_id": "glacial_abyss_arrow",
+      "name": "Glacial Abyss Arrow",
+      "required_level": 58,
+      "base_type": "Black Feather Long Bow"
+    },
+    {
+      "item_id": "glacier_caster_shield",
+      "name": "Glacier Caster Shield",
+      "required_level": 58,
+      "base_type": "Twilight Square Shield"
+    },
+    {
+      "item_id": "glorious_journey",
+      "name": "Glorious Journey",
+      "required_level": 1,
+      "base_type": "Brute's Chestguard"
+    },
+    {
+      "item_id": "golden_touch",
+      "name": "Golden Touch",
+      "required_level": 45,
+      "base_type": "Hunter's Gloves"
+    },
+    {
+      "item_id": "grace_boots",
+      "name": "Grace Boots",
+      "required_level": 16,
+      "base_type": "Disciple's Cloth Boots"
+    },
+    {
+      "item_id": "grandmaster_s_hands",
+      "name": "Grandmaster's Hands",
+      "required_level": 58,
+      "base_type": "Dragon Guardian Handguards"
+    },
+    {
+      "item_id": "grasp_of_truth",
+      "name": "Grasp of Truth",
+      "required_level": 58,
+      "base_type": "All Magic Grip"
+    },
+    {
+      "item_id": "gravel",
+      "name": "Gravel",
+      "required_level": 58,
+      "base_type": "Swarm Pistol"
+    },
+    {
+      "item_id": "guild_guard_boots",
+      "name": "Guild Guard Boots",
+      "required_level": 58,
+      "base_type": "Imperishable Feet"
+    },
+    {
+      "item_id": "hand_of_malice",
+      "name": "Hand of Malice",
+      "required_level": 45,
+      "base_type": "Shaman's Hands"
+    },
+    {
+      "item_id": "hanging_two_tone_mask",
+      "name": "Hanging Two-Tone Mask",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Mask"
+    },
+    {
+      "item_id": "harbinger_s_reversed_plumes",
+      "name": "Harbinger's Reversed Plumes",
+      "required_level": 58,
+      "base_type": "Wolfsoul Claymore"
+    },
+    {
+      "item_id": "headless_crown",
+      "name": "Headless Crown",
+      "required_level": 58,
+      "base_type": "Scribe's Headscarf"
+    },
+    {
+      "item_id": "heart_of_animitta",
+      "name": "Heart of Animitta",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "heart_of_magic",
+      "name": "Heart of Magic",
+      "required_level": 58,
+      "base_type": "Chilling Lightning Ring"
+    },
+    {
+      "item_id": "heart_of_rock",
+      "name": "Heart of Rock",
+      "required_level": 58,
+      "base_type": "Snow Ice Ring"
+    },
+    {
+      "item_id": "heart_of_the_storm",
+      "name": "Heart of the Storm",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "heavy_soul",
+      "name": "Heavy Soul",
+      "required_level": 58,
+      "base_type": "Falling Star Tower Shield"
+    },
+    {
+      "item_id": "heavyware",
+      "name": "Heavyware",
+      "required_level": 58,
+      "base_type": "Old King's Armor"
+    },
+    {
+      "item_id": "heels_of_hands",
+      "name": "Heels of Hands",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Shoes"
+    },
+    {
+      "item_id": "hekate_s_vision",
+      "name": "Hekate's Vision",
+      "required_level": 58,
+      "base_type": "Imperishable Miter"
+    },
+    {
+      "item_id": "highest_glance",
+      "name": "Highest Glance",
+      "required_level": 58,
+      "base_type": "Blue Sea Greataxe"
+    },
+    {
+      "item_id": "horn_ring",
+      "name": "Horn Ring",
+      "required_level": 58,
+      "base_type": "Harvest Spirit Ring"
+    },
+    {
+      "item_id": "hot_night_s_embrace",
+      "name": "Hot Night's Embrace",
+      "required_level": 58,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "howling_wind",
+      "name": "Howling Wind",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "hunting_the_eye_of_the_kraken",
+      "name": "Hunting the Eye of the Kraken",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Mask"
+    },
+    {
+      "item_id": "ice_and_fire",
+      "name": "Ice and Fire",
+      "required_level": 50,
+      "base_type": "Long Night Sorcerer's Wristband"
+    },
+    {
+      "item_id": "ice_pulse",
+      "name": "Ice Pulse",
+      "required_level": 14,
+      "base_type": "Scribe Handguards"
+    },
+    {
+      "item_id": "iced_drinker_s_cage",
+      "name": "Iced Drinker's Cage",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "illusory_ocean_silk_ash",
+      "name": "Illusory Ocean Silk - Ash",
+      "required_level": 58,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "illusory_ocean_silk_chilly",
+      "name": "Illusory Ocean Silk - Chilly",
+      "required_level": 58,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "illusory_ocean_silk_iron_rain",
+      "name": "Illusory Ocean Silk - Iron Rain",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "illusory_ocean_silk_thunder",
+      "name": "Illusory Ocean Silk - Thunder",
+      "required_level": 58,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "illusory_ocean_silk_unreal",
+      "name": "Illusory Ocean Silk - Unreal",
+      "required_level": 58,
+      "base_type": "Tortoiseshell Amulet"
+    },
+    {
+      "item_id": "imperial_iron_sentry",
+      "name": "Imperial Iron Sentry",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "imperious_verdict",
+      "name": "Imperious Verdict",
+      "required_level": 48,
+      "base_type": "Respected Tutor's Robe"
+    },
+    {
+      "item_id": "imploration_dagger",
+      "name": "Imploration Dagger",
+      "required_level": 30,
+      "base_type": "Poisoned Dagger"
+    },
+    {
+      "item_id": "incorrect_arbitration",
+      "name": "Incorrect Arbitration",
+      "required_level": 58,
+      "base_type": "A Corner of Divinity"
+    },
+    {
+      "item_id": "insulation",
+      "name": "Insulation",
+      "required_level": 58,
+      "base_type": "Spring Source Girdle"
+    },
+    {
+      "item_id": "interlocking_soul",
+      "name": "Interlocking Soul",
+      "required_level": 13,
+      "base_type": "Prayer Hammer"
+    },
+    {
+      "item_id": "iron_and_bloom",
+      "name": "Iron and Bloom",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "iron_nest",
+      "name": "Iron Nest",
+      "required_level": 58,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "israfel_s_laws",
+      "name": "Israfel's Laws",
+      "required_level": 58,
+      "base_type": "All Magic Grip"
+    },
+    {
+      "item_id": "israfel_s_sorrow",
+      "name": "Israfel's Sorrow",
+      "required_level": 30,
+      "base_type": "All Magic Secret Robe"
+    },
+    {
+      "item_id": "jumble_ice",
+      "name": "Jumble Ice",
+      "required_level": 58,
+      "base_type": "Sage Wand"
+    },
+    {
+      "item_id": "kaleidoscope",
+      "name": "Kaleidoscope",
+      "required_level": 58,
+      "base_type": "Agony Darkness Ring"
+    },
+    {
+      "item_id": "king_lionheart_s_ambition",
+      "name": "King Lionheart's Ambition",
+      "required_level": 58,
+      "base_type": "War Rifle"
+    },
+    {
+      "item_id": "kingly_armor",
+      "name": "Kingly Armor",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "king_s_boon",
+      "name": "King's Boon",
+      "required_level": 58,
+      "base_type": "Elder Sage's Treads"
+    },
+    {
+      "item_id": "kragol_s_roar",
+      "name": "Kragol's Roar",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "lady_s_tears",
+      "name": "Lady's Tears",
+      "required_level": 30,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "last_stand",
+      "name": "Last Stand",
+      "required_level": 10,
+      "base_type": "Warlord's Kite Shield"
+    },
+    {
+      "item_id": "last_words_of_chaos",
+      "name": "Last Words of Chaos",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "law_of_greed",
+      "name": "Law of Greed",
+      "required_level": 58,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "legendary_soldier_spectacles",
+      "name": "Legendary Soldier Spectacles",
+      "required_level": 58,
+      "base_type": "Mask of Calamity"
+    },
+    {
+      "item_id": "legless_bird_s_lament",
+      "name": "Legless Bird's Lament",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Mask"
+    },
+    {
+      "item_id": "light_hunter_belt",
+      "name": "Light Hunter Belt",
+      "required_level": 58,
+      "base_type": "Radiant Lunar Girdle"
+    },
+    {
+      "item_id": "lightning_striker_s_sacrum",
+      "name": "Lightning Striker's Sacrum",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Protection"
+    },
+    {
+      "item_id": "lone_survivor",
+      "name": "Lone Survivor",
+      "required_level": 5,
+      "base_type": "Burning Flame Ring"
+    },
+    {
+      "item_id": "lone_walker_s_boots",
+      "name": "Lone Walker's Boots",
+      "required_level": 58,
+      "base_type": "Boots of Calamity"
+    },
+    {
+      "item_id": "lonesome",
+      "name": "Lonesome",
+      "required_level": 5,
+      "base_type": "Biting Wind Ice Ring"
+    },
+    {
+      "item_id": "machine_lord",
+      "name": "Machine Lord",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Mask"
+    },
+    {
+      "item_id": "mad_doctor_s_silver_plated_lung",
+      "name": "Mad Doctor's Silver-Plated Lung",
+      "required_level": 58,
+      "base_type": "Demon Slayer's Skin"
+    },
+    {
+      "item_id": "magmaskull",
+      "name": "Magmaskull",
+      "required_level": 58,
+      "base_type": "Old King's Crown"
+    },
+    {
+      "item_id": "magnus_jealousy",
+      "name": "Magnus' Jealousy",
+      "required_level": 30,
+      "base_type": "Old King's Armor"
+    },
+    {
+      "item_id": "magnus_laws",
+      "name": "Magnus' Laws",
+      "required_level": 58,
+      "base_type": "Old King's Rerebraces"
+    },
+    {
+      "item_id": "magnus_mindflame",
+      "name": "Magnus' Mindflame",
+      "required_level": 58,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "magnus_scar",
+      "name": "Magnus' Scar",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "malevolent_hand",
+      "name": "Malevolent Hand",
+      "required_level": 58,
+      "base_type": "Respected Tutor's Gloves"
+    },
+    {
+      "item_id": "malign_embrace",
+      "name": "Malign Embrace",
+      "required_level": 58,
+      "base_type": "All Magic Crown"
+    },
+    {
+      "item_id": "marksman_bracers",
+      "name": "Marksman Bracers",
+      "required_level": 33,
+      "base_type": "Prospector Handguards"
+    },
+    {
+      "item_id": "martyr_s_staff",
+      "name": "Martyr's Staff",
+      "required_level": 58,
+      "base_type": "Ranger's Rag"
+    },
+    {
+      "item_id": "mask_of_infernal_iron",
+      "name": "Mask of Infernal Iron",
+      "required_level": 58,
+      "base_type": "Ranger's Broken Mask"
+    },
+    {
+      "item_id": "master_defender_pendant",
+      "name": "Master Defender Pendant",
+      "required_level": 58,
+      "base_type": "Sunlight Pendant"
+    },
+    {
+      "item_id": "memory",
+      "name": "Memory",
+      "required_level": 58,
+      "base_type": "Hatred Dirk"
+    },
+    {
+      "item_id": "mercurial_torment",
+      "name": "Mercurial Torment",
+      "required_level": 36,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "mere_eternity",
+      "name": "Mere Eternity",
+      "required_level": 58,
+      "base_type": "Ranger's Rag"
+    },
+    {
+      "item_id": "mind_infusion",
+      "name": "Mind Infusion",
+      "required_level": 58,
+      "base_type": "Ranger's Dirty Boots"
+    },
+    {
+      "item_id": "miniature_void_sea",
+      "name": "Miniature Void Sea",
+      "required_level": 58,
+      "base_type": "Elder Sage's Long Gloves"
+    },
+    {
+      "item_id": "misube_s_refusal",
+      "name": "Misube's Refusal",
+      "required_level": 36,
+      "base_type": "Oblivion Maul"
+    },
+    {
+      "item_id": "mortal_s_reverie",
+      "name": "Mortal's Reverie",
+      "required_level": 58,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "mother_goddess_paddock",
+      "name": "Mother Goddess' Paddock",
+      "required_level": 58,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "mountain_howling",
+      "name": "Mountain Howling",
+      "required_level": 58,
+      "base_type": "Unholy Hunting Bow"
+    },
+    {
+      "item_id": "necklace_of_firebird",
+      "name": "Necklace of Firebird",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "necklace_of_inverse",
+      "name": "Necklace of Inverse",
+      "required_level": 50,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "oathkeeper",
+      "name": "Oathkeeper",
+      "required_level": 45,
+      "base_type": "Hero's Longsword"
+    },
+    {
+      "item_id": "ocean_of_rock",
+      "name": "Ocean of Rock",
+      "required_level": 58,
+      "base_type": "Cataclysm Amulet"
+    },
+    {
+      "item_id": "old_grudge",
+      "name": "Old Grudge",
+      "required_level": 58,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "ominous_gift",
+      "name": "Ominous Gift",
+      "required_level": 58,
+      "base_type": "Scarlet Axe"
+    },
+    {
+      "item_id": "omni_elixir_notes",
+      "name": "Omni-Elixir Notes",
+      "required_level": 58,
+      "base_type": "Wayfarer Waistguard"
+    },
+    {
+      "item_id": "omniscient_prototype",
+      "name": "Omniscient Prototype",
+      "required_level": 1,
+      "base_type": "Divine Body"
+    },
+    {
+      "item_id": "opening_heart",
+      "name": "Opening Heart",
+      "required_level": 58,
+      "base_type": "Mask of Calamity"
+    },
+    {
+      "item_id": "oversight",
+      "name": "Oversight",
+      "required_level": 58,
+      "base_type": "Wraith Wand"
+    },
+    {
+      "item_id": "ownerless",
+      "name": "Ownerless",
+      "required_level": 22,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "pale_mist_s_embrace",
+      "name": "Pale Mist's Embrace",
+      "required_level": 58,
+      "base_type": "Wind Blade Waistguard"
+    },
+    {
+      "item_id": "passing_of_time",
+      "name": "Passing of Time",
+      "required_level": 58,
+      "base_type": "Sealed Ice Ring"
+    },
+    {
+      "item_id": "pathfinder_s_path",
+      "name": "Pathfinder's Path",
+      "required_level": 50,
+      "base_type": "Demon Slayer's Feet"
+    },
+    {
+      "item_id": "pentagram_astrolabe",
+      "name": "Pentagram Astrolabe",
+      "required_level": 12,
+      "base_type": "Sunlight Pendant"
+    },
+    {
+      "item_id": "phantasm",
+      "name": "Phantasm",
+      "required_level": 10,
+      "base_type": "Grand Explorer Outerwear"
+    },
+    {
+      "item_id": "phantom",
+      "name": "Phantom",
+      "required_level": 58,
+      "base_type": "Obsidian Necklace"
+    },
+    {
+      "item_id": "photophobia",
+      "name": "Photophobia",
+      "required_level": 25,
+      "base_type": "Cinnabar Pendant"
+    },
+    {
+      "item_id": "plain_echo",
+      "name": "Plain Echo",
+      "required_level": 24,
+      "base_type": "Beastfang Light Crossbow"
+    },
+    {
+      "item_id": "polygonal_enclosure",
+      "name": "Polygonal Enclosure",
+      "required_level": 58,
+      "base_type": "Spring Source Girdle"
+    },
+    {
+      "item_id": "powered_battle_greaves",
+      "name": "Powered Battle Greaves",
+      "required_level": 58,
+      "base_type": "All Magic Shoes"
+    },
+    {
+      "item_id": "praise_for_injury",
+      "name": "Praise for Injury",
+      "required_level": 58,
+      "base_type": "Old King's Rerebraces"
+    },
+    {
+      "item_id": "prayer_bead_of_evil",
+      "name": "Prayer Bead of Evil",
+      "required_level": 45,
+      "base_type": "Moonstone Necklace"
+    },
+    {
+      "item_id": "providential_grace",
+      "name": "Providential Grace",
+      "required_level": 45,
+      "base_type": "All Magic Grip"
+    },
+    {
+      "item_id": "quantum_convergence",
+      "name": "Quantum Convergence",
+      "required_level": 58,
+      "base_type": "Old King's Rerebraces"
+    },
+    {
+      "item_id": "ralph_s_ambition",
+      "name": "Ralph's Ambition",
+      "required_level": 12,
+      "base_type": "Muddy Long Crossbow"
+    },
+    {
+      "item_id": "ralph_s_burial",
+      "name": "Ralph's Burial",
+      "required_level": 30,
+      "base_type": "Demon Slayer's Skin"
+    },
+    {
+      "item_id": "ralph_s_dreadcrest",
+      "name": "Ralph's Dreadcrest",
+      "required_level": 58,
+      "base_type": "Old King's Crown"
+    },
+    {
+      "item_id": "ralph_s_footsteps",
+      "name": "Ralph's Footsteps",
+      "required_level": 58,
+      "base_type": "Boots of Calamity"
+    },
+    {
+      "item_id": "ralph_s_journey",
+      "name": "Ralph's Journey",
+      "required_level": 25,
+      "base_type": "Secret Shadow's Shoes"
+    },
+    {
+      "item_id": "ralph_s_laws",
+      "name": "Ralph's Laws",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Wrists"
+    },
+    {
+      "item_id": "rat_herder_s_golden_rein",
+      "name": "Rat Herder's Golden Rein",
+      "required_level": 58,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "rat_king_s_escape_show",
+      "name": "Rat King's Escape Show",
+      "required_level": 58,
+      "base_type": "Eternal Night Stalker's Long Boots"
+    },
+    {
+      "item_id": "rat_king_s_megagon_dice",
+      "name": "Rat King's Megagon Dice",
+      "required_level": 58,
+      "base_type": "Ripple Pendant"
+    },
+    {
+      "item_id": "residence_of_stars",
+      "name": "Residence of Stars",
+      "required_level": 1,
+      "base_type": ""
+    },
+    {
+      "item_id": "resolution_steps",
+      "name": "Resolution Steps",
+      "required_level": 58,
+      "base_type": "Ranger's Dirty Boots"
+    },
+    {
+      "item_id": "restless_glacier",
+      "name": "Restless Glacier",
+      "required_level": 58,
+      "base_type": "Frozen Ring"
+    },
+    {
+      "item_id": "revered_light",
+      "name": "Revered Light",
+      "required_level": 15,
+      "base_type": "Dazzling Lightning Ring"
+    },
+    {
+      "item_id": "reverse_reverse_reverse_mirror",
+      "name": "Reverse-Reverse-Reverse Mirror",
+      "required_level": 20,
+      "base_type": "Hunter's Buckler"
+    },
+    {
+      "item_id": "rock_lizard_s_skull",
+      "name": "Rock Lizard's Skull",
+      "required_level": 4,
+      "base_type": "Footman Helmet"
+    },
+    {
+      "item_id": "royal_cycle",
+      "name": "Royal Cycle",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Protection"
+    },
+    {
+      "item_id": "royal_guard_s_boots",
+      "name": "Royal Guard's Boots",
+      "required_level": 36,
+      "base_type": "Prospector's Short Boots"
+    },
+    {
+      "item_id": "ruinous_star",
+      "name": "Ruinous Star",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "sage_s_foresight",
+      "name": "Sage's Foresight",
+      "required_level": 16,
+      "base_type": "Ivory Staff"
+    },
+    {
+      "item_id": "sage_s_insight",
+      "name": "Sage's Insight",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Wristband"
+    },
+    {
+      "item_id": "sage_s_shackle",
+      "name": "Sage's Shackle",
+      "required_level": 40,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "scarlet_decree",
+      "name": "Scarlet Decree",
+      "required_level": 26,
+      "base_type": "Paladin's Heavy Helm"
+    },
+    {
+      "item_id": "scepter_of_excommunication",
+      "name": "Scepter of Excommunication",
+      "required_level": 18,
+      "base_type": "Voodoo Wand"
+    },
+    {
+      "item_id": "scorching_tempo",
+      "name": "Scorching Tempo",
+      "required_level": 40,
+      "base_type": "Voodoo Staff"
+    },
+    {
+      "item_id": "scorching_wave",
+      "name": "Scorching Wave",
+      "required_level": 12,
+      "base_type": "Recruit's Musket"
+    },
+    {
+      "item_id": "scorching_words",
+      "name": "Scorching Words",
+      "required_level": 10,
+      "base_type": "Rusted Wooden Hammer"
+    },
+    {
+      "item_id": "sea_splitter",
+      "name": "Sea Splitter",
+      "required_level": 45,
+      "base_type": "Wild Dominator Handguards"
+    },
+    {
+      "item_id": "searing_finger_bone",
+      "name": "Searing Finger Bone",
+      "required_level": 30,
+      "base_type": "Firestorm Flame Ring"
+    },
+    {
+      "item_id": "severed_wrist",
+      "name": "Severed Wrist",
+      "required_level": 58,
+      "base_type": "Shadow Boomstick"
+    },
+    {
+      "item_id": "shadow_dance",
+      "name": "Shadow Dance",
+      "required_level": 58,
+      "base_type": "Scribe's Boots"
+    },
+    {
+      "item_id": "shadow_of_thunderlight_s_eyes",
+      "name": "Shadow of Thunderlight's Eyes",
+      "required_level": 58,
+      "base_type": "Poisoned Dagger"
+    },
+    {
+      "item_id": "shadow_of_thunderlight_s_fury",
+      "name": "Shadow of Thunderlight's Fury",
+      "required_level": 58,
+      "base_type": "Wiseman's Wand"
+    },
+    {
+      "item_id": "shadow_of_thunderlight_s_touch",
+      "name": "Shadow of Thunderlight's Touch",
+      "required_level": 24,
+      "base_type": "Bonewood Hunting Bow"
+    },
+    {
+      "item_id": "shamed",
+      "name": "Shamed",
+      "required_level": 10,
+      "base_type": "Iron Greatsword"
+    },
+    {
+      "item_id": "shattered_moonlight",
+      "name": "Shattered Moonlight",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Robe"
+    },
+    {
+      "item_id": "shield_of_judgment",
+      "name": "Shield of Judgment",
+      "required_level": 10,
+      "base_type": "Callous Kite Shield"
+    },
+    {
+      "item_id": "silent_avowal",
+      "name": "Silent Avowal",
+      "required_level": 58,
+      "base_type": "Ranger's Rag"
+    },
+    {
+      "item_id": "silent_observer",
+      "name": "Silent Observer",
+      "required_level": 58,
+      "base_type": "Wayfarer Waistguard"
+    },
+    {
+      "item_id": "silent_sentry_shield",
+      "name": "Silent Sentry Shield",
+      "required_level": 22,
+      "base_type": "Hunter's Buckler"
+    },
+    {
+      "item_id": "silver_frost",
+      "name": "Silver Frost",
+      "required_level": 24,
+      "base_type": "Blight Ice Ring"
+    },
+    {
+      "item_id": "siren_faceguard",
+      "name": "Siren Faceguard",
+      "required_level": 4,
+      "base_type": "Acolyte's Crown"
+    },
+    {
+      "item_id": "solid_river",
+      "name": "Solid River",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "sparks_of_moth_fire",
+      "name": "Sparks of Moth Fire",
+      "required_level": 1,
+      "base_type": ""
+    },
+    {
+      "item_id": "spring_resurrection",
+      "name": "Spring Resurrection",
+      "required_level": 6,
+      "base_type": "Rambone Wand"
+    },
+    {
+      "item_id": "steel_stagnation",
+      "name": "Steel Stagnation",
+      "required_level": 58,
+      "base_type": "Redgold Hammer"
+    },
+    {
+      "item_id": "steel_s_lament",
+      "name": "Steel's Lament",
+      "required_level": 20,
+      "base_type": "Rock Waistguard"
+    },
+    {
+      "item_id": "stellar_vestment_of_eminence",
+      "name": "Stellar Vestment of Eminence",
+      "required_level": 58,
+      "base_type": "Imperishable Black Robe"
+    },
+    {
+      "item_id": "strange_snow",
+      "name": "Strange Snow",
+      "required_level": 58,
+      "base_type": "Flare Amulet"
+    },
+    {
+      "item_id": "stray_bird_s_return",
+      "name": "Stray Bird's Return",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Wrists"
+    },
+    {
+      "item_id": "strayed_healer_s_waistguard",
+      "name": "Strayed Healer's Waistguard",
+      "required_level": 58,
+      "base_type": "God's Grace Girdle"
+    },
+    {
+      "item_id": "stream_of_steel",
+      "name": "Stream of Steel",
+      "required_level": 58,
+      "base_type": "Firestorm Flame Ring"
+    },
+    {
+      "item_id": "sun_s_embrace",
+      "name": "Sun's Embrace",
+      "required_level": 58,
+      "base_type": "Fallen Knight Helmet"
+    },
+    {
+      "item_id": "sun_shooter_long_bow",
+      "name": "Sun-shooter Long Bow",
+      "required_level": 30,
+      "base_type": "Beastbone Bow"
+    },
+    {
+      "item_id": "supreme_throne",
+      "name": "Supreme Throne",
+      "required_level": 58,
+      "base_type": "Deception Scepter"
+    },
+    {
+      "item_id": "surging_inspiration",
+      "name": "Surging Inspiration",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "the_coward_s_counterfire",
+      "name": "The Coward's Counterfire",
+      "required_level": 58,
+      "base_type": "Ninth Apostle's Magic Shield"
+    },
+    {
+      "item_id": "throat_slasher",
+      "name": "Throat-Slasher",
+      "required_level": 46,
+      "base_type": "Scarlet River Claw"
+    },
+    {
+      "item_id": "thunder_branch",
+      "name": "Thunder Branch",
+      "required_level": 30,
+      "base_type": "Battlefield Longsword"
+    },
+    {
+      "item_id": "thunder_channeling_prosthetics",
+      "name": "Thunder Channeling Prosthetics",
+      "required_level": 12,
+      "base_type": "Scout's Short Boots"
+    },
+    {
+      "item_id": "thunder_jawbone",
+      "name": "Thunder Jawbone",
+      "required_level": 58,
+      "base_type": "Mask of Calamity"
+    },
+    {
+      "item_id": "thunder_manipulator",
+      "name": "Thunder Manipulator",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Wrists"
+    },
+    {
+      "item_id": "tide_of_the_styx",
+      "name": "Tide of the Styx",
+      "required_level": 58,
+      "base_type": "Old King's Crown"
+    },
+    {
+      "item_id": "time_of_vow",
+      "name": "Time of Vow",
+      "required_level": 58,
+      "base_type": "Punished Lightning Ring"
+    },
+    {
+      "item_id": "torturer_s_touch",
+      "name": "Torturer's Touch",
+      "required_level": 58,
+      "base_type": "Demon Slayer's Hands"
+    },
+    {
+      "item_id": "traceless_pain",
+      "name": "Traceless Pain",
+      "required_level": 58,
+      "base_type": "Rotten Darkness Ring"
+    },
+    {
+      "item_id": "tranquil_stir",
+      "name": "Tranquil Stir",
+      "required_level": 58,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "trickster_s_tread",
+      "name": "Trickster's Tread",
+      "required_level": 36,
+      "base_type": "Prospector's Short Boots"
+    },
+    {
+      "item_id": "trinity",
+      "name": "Trinity",
+      "required_level": 58,
+      "base_type": "Demon Slayer's Skin"
+    },
+    {
+      "item_id": "troublemaker",
+      "name": "Troublemaker",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "truth",
+      "name": "Truth",
+      "required_level": 58,
+      "base_type": "Shaman's Necklace"
+    },
+    {
+      "item_id": "twilight_vestment",
+      "name": "Twilight Vestment",
+      "required_level": 58,
+      "base_type": "All Magic Secret Robe"
+    },
+    {
+      "item_id": "twisted_branch",
+      "name": "Twisted Branch",
+      "required_level": 58,
+      "base_type": "Fallen Pactspirital Short Staff"
+    },
+    {
+      "item_id": "tyrant_s_iron_fist",
+      "name": "Tyrant's Iron Fist",
+      "required_level": 58,
+      "base_type": "Imperishable Touch"
+    },
+    {
+      "item_id": "tyrant_s_smoldering_hold",
+      "name": "Tyrant's Smoldering Hold",
+      "required_level": 45,
+      "base_type": "Demon Slayer's Hands"
+    },
+    {
+      "item_id": "unbreakable_armor",
+      "name": "Unbreakable Armor",
+      "required_level": 58,
+      "base_type": "Fallen Knight's Armor"
+    },
+    {
+      "item_id": "undying_faith",
+      "name": "Undying Faith",
+      "required_level": 58,
+      "base_type": "All Magic Secret Robe"
+    },
+    {
+      "item_id": "unholy_prayer",
+      "name": "Unholy Prayer",
+      "required_level": 30,
+      "base_type": "Dazzling Lightning Ring"
+    },
+    {
+      "item_id": "vajra_handguards",
+      "name": "Vajra Handguards",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Wrists"
+    },
+    {
+      "item_id": "valerie_s_night_stroll",
+      "name": "Valerie's Night Stroll",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Shoes"
+    },
+    {
+      "item_id": "varagon_shroud",
+      "name": "Varagon Shroud",
+      "required_level": 58,
+      "base_type": "Fallen Knight Handguards"
+    },
+    {
+      "item_id": "varagon_s_attack",
+      "name": "Varagon's Attack",
+      "required_level": 30,
+      "base_type": "Doomsday Board Axe"
+    },
+    {
+      "item_id": "varagon_s_lament",
+      "name": "Varagon's Lament",
+      "required_level": 45,
+      "base_type": "Divine Arbiter's Defense"
+    },
+    {
+      "item_id": "vendetta_s_sleeve_blade",
+      "name": "Vendetta's Sleeve-Blade",
+      "required_level": 30,
+      "base_type": "Hunter's Gloves"
+    },
+    {
+      "item_id": "verdant_steps",
+      "name": "Verdant Steps",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Boots"
+    },
+    {
+      "item_id": "vestment_of_song",
+      "name": "Vestment of Song",
+      "required_level": 35,
+      "base_type": "Packleader Chest Armor"
+    },
+    {
+      "item_id": "void_embankment",
+      "name": "Void Embankment",
+      "required_level": 58,
+      "base_type": "Footman's Chestguard"
+    },
+    {
+      "item_id": "vortex_heart",
+      "name": "Vortex Heart",
+      "required_level": 58,
+      "base_type": "Flare Amulet"
+    },
+    {
+      "item_id": "vow_s_grasp",
+      "name": "Vow's Grasp",
+      "required_level": 45,
+      "base_type": "All Magic Grip"
+    },
+    {
+      "item_id": "warden_s_breastpin",
+      "name": "Warden's Breastpin",
+      "required_level": 58,
+      "base_type": "Lunar Corona Necklace"
+    },
+    {
+      "item_id": "webbed_arcane_headscarf",
+      "name": "Webbed Arcane Headscarf",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "when_sparks_set_the_prairie_ablaze",
+      "name": "When Sparks Set the Prairie Ablaze",
+      "required_level": 1,
+      "base_type": ""
+    },
+    {
+      "item_id": "when_winter_comes",
+      "name": "When Winter Comes",
+      "required_level": 58,
+      "base_type": "Long Night Sorcerer's Mask"
+    },
+    {
+      "item_id": "will",
+      "name": "Will",
+      "required_level": 36,
+      "base_type": "Wolfsoul Claymore"
+    },
+    {
+      "item_id": "wind_chasers",
+      "name": "Wind Chasers",
+      "required_level": 20,
+      "base_type": "Wild Dominator Long Boots"
+    },
+    {
+      "item_id": "windbreath_convergence",
+      "name": "Windbreath Convergence",
+      "required_level": 58,
+      "base_type": "Agony Darkness Ring"
+    },
+    {
+      "item_id": "windbreath_dispersion",
+      "name": "Windbreath Dispersion",
+      "required_level": 58,
+      "base_type": "Agony Darkness Ring"
+    },
+    {
+      "item_id": "wings_of_light",
+      "name": "Wings of Light",
+      "required_level": 58,
+      "base_type": "Hands of Calamity"
+    },
+    {
+      "item_id": "winter_of_origin",
+      "name": "Winter of Origin",
+      "required_level": 58,
+      "base_type": "God's Grace Girdle"
+    },
+    {
+      "item_id": "witchdoctor_s_herb_bag",
+      "name": "Witchdoctor's Herb Bag",
+      "required_level": 38,
+      "base_type": "Dragon Scale Waistguard"
+    },
+    {
+      "item_id": "wriggling_tango",
+      "name": "Wriggling Tango",
+      "required_level": 58,
+      "base_type": "Secret Shadow's Shoes"
+    }
+  ]
+}
