@@ -1,0 +1,1638 @@
+{
+  "season": "SS12",
+  "entry_count": 408,
+  "entries": [
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Claw"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Cane"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Claw"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Cane"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Claw"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Cane"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+10 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % additional damage for Main-Hand Weapons Intermediate Sequence 1|2|6",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Bow"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Musket"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+8 % gear Attack Speed Intermediate Sequence 3|6|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+20 % Attack Critical Strike Rating for this gear Intermediate Sequence 1|4|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Bow"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Musket"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Bow"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Musket"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+8 % additional Spell Damage Intermediate Sequence 1|2|6",
+      "source": "Wand"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Wand"
+    },
+    {
+      "affix": "+8 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+8 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Wand"
+    },
+    {
+      "affix": "+8 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Wand"
+    },
+    {
+      "affix": "+8 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+16 % Cast Speed Intermediate Sequence 3|6|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+55 Spell Critical Strike Rating Intermediate Sequence 1|4|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+10 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Wand"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Wand"
+    },
+    {
+      "affix": "+16 % additional Spell Damage Intermediate Sequence 1|2|6",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+12 % Armor DMG Mitigation Penetration Intermediate Sequence 2|3|4",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+16 % Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+16 % Cold Penetration Intermediate Sequence 4|5|6",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+16 % Lightning Penetration Intermediate Sequence 1|3|5",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+16 % Erosion Resistance Penetration Intermediate Sequence 5|6|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+32 % Cast Speed Intermediate Sequence 3|6|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+110 Spell Critical Strike Rating Intermediate Sequence 1|4|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+20 % additional damage on Critical Strike Intermediate Sequence 1|2|5",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+16 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+8 % additional Damage Over Time Intermediate Sequence 1|2|6",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+16 Affliction inflicted per second +24 % Affliction Effect Intermediate Sequence 2|3|4",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+25 % Reaping Recovery Speed Intermediate Sequence 3|4|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+30 % Reaping Duration Intermediate Sequence 4|5|6",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+10 % Movement Speed Intermediate Sequence 1|3|5",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+12 % Ailment Duration Intermediate Sequence 5|6|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "Max Terra Charge Stacks -1 Max Terra Quantity +1 Intermediate Sequence 3|6|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+16 % Blur Effect Intermediate Sequence 1|4|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "-10 % All Resistance when the enemy has max Affliction Intermediate Sequence 1|2|5",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+8 % additional Minion Damage Intermediate Sequence 1|2|6",
+      "source": "Rod"
+    },
+    {
+      "affix": "+6 % Armor DMG Mitigation Penetration for Minions Intermediate Sequence 2|3|4",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Minion Fire Penetration Intermediate Sequence 3|4|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Cold Penetration for Minions Intermediate Sequence 4|5|6",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Lightning Penetration for Minions Intermediate Sequence 1|3|5",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Erosion Penetration for Minions Intermediate Sequence 5|6|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "+16 % Minion Attack and Cast Speed Intermediate Sequence 3|6|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "+55 Minion Critical Strike Rating Intermediate Sequence 1|4|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "+40 % Minion Critical Strike Damage Intermediate Sequence 1|2|5",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Elemental Resistance Intermediate Sequence 1|2|6",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+8 % Elemental Resistance Intermediate Sequence 1|2|6",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+8 % Elemental Resistance Intermediate Sequence 1|2|6",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+15 % Max Life and Max Mana Intermediate Sequence 2|3|4",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+15 % Max Life and Max Mana Intermediate Sequence 2|3|4",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+15 % Max Life and Max Mana Intermediate Sequence 2|3|4",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+40 % Defense from Shield Intermediate Sequence 3|4|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+40 % Defense from Shield Intermediate Sequence 3|4|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+40 % Defense from Shield Intermediate Sequence 3|4|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+10 % Attack and Spell Block Chance Intermediate Sequence 4|5|6",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+10 % Attack and Spell Block Chance Intermediate Sequence 4|5|6",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+10 % Attack and Spell Block Chance Intermediate Sequence 4|5|6",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+10 % Movement Speed Intermediate Sequence 1|3|5",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+10 % Movement Speed Intermediate Sequence 1|3|5",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+10 % Movement Speed Intermediate Sequence 1|3|5",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+80 % Critical Strike Rating Intermediate Sequence 5|6|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+80 % Critical Strike Rating Intermediate Sequence 5|6|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+80 % Critical Strike Rating Intermediate Sequence 5|6|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+40 % Critical Strike Damage Intermediate Sequence 3|6|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+40 % Critical Strike Damage Intermediate Sequence 3|6|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+40 % Critical Strike Damage Intermediate Sequence 3|6|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Restores 3 % Life on Block. Interval: 0.3s Intermediate Sequence 1|4|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Restores 3 % Life on Block. Interval: 0.3s Intermediate Sequence 1|4|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Restores 3 % Life on Block. Interval: 0.3s Intermediate Sequence 1|4|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Restores 3 % Energy Shield on Block. Interval: 0.3s Intermediate Sequence 1|2|5",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Restores 3 % Energy Shield on Block. Interval: 0.3s Intermediate Sequence 1|2|5",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Restores 3 % Energy Shield on Block. Interval: 0.3s Intermediate Sequence 1|2|5",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+8 % All Stats Intermediate Sequence 1|2|3",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Claw"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Dagger"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll Advanced Sequence 2|2|2|3",
+      "source": "Claw"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll Advanced Sequence 2|2|2|3",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll Advanced Sequence 2|2|2|3",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll Advanced Sequence 2|2|2|3",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll Advanced Sequence 2|2|2|3",
+      "source": "Dagger"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+120 % Fearless Aura -20 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Claw"
+    },
+    {
+      "affix": "+120 % Fearless Aura -20 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+120 % Fearless Aura -20 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+120 % Fearless Aura -20 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+120 % Fearless Aura -20 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Claw"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Dagger"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Claw"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "One-Handed Hammer"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "One-Handed Sword"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "One-Handed Axe"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Dagger"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll +25 % additional Melee Damage Advanced Sequence 2|2|2|3",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll +25 % additional Melee Damage Advanced Sequence 2|2|2|3",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll +25 % additional Melee Damage Advanced Sequence 2|2|2|3",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Steamroll +25 % additional Melee Damage Advanced Sequence 2|2|2|3",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "Adds 2 - 2 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "Adds 2 - 2 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "Adds 2 - 2 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "Adds 2 - 2 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+200 % Fearless Aura -30 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+200 % Fearless Aura -30 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+200 % Fearless Aura -30 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+200 % Fearless Aura -30 % additional Fearless Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+120 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+120 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+120 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+120 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Two-Handed Sword"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Two-Handed Hammer"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Two-Handed Axe"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Cudgel"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Cane"
+    },
+    {
+      "affix": "Adds 1 - 3 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Pistol"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "Adds 2 - 2 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles Advanced Sequence 2|2|2|3",
+      "source": "Cane"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles Advanced Sequence 2|2|2|3",
+      "source": "Pistol"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "Adds 1 - 1 Physical Damage to Attacks per 2260 Armor Advanced Sequence 3|3|6|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+120 % Precise Projectiles Aura effect -20 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Cane"
+    },
+    {
+      "affix": "+120 % Precise Projectiles Aura effect -20 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Cane"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Pistol"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Cane"
+    },
+    {
+      "affix": "+25 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Pistol"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|5|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Bow"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Musket"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "Adds 1 - 7 Lightning Damage to Attacks per 10 Dexterity Advanced Sequence 1|1|1|5",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "Adds 3 - 5 Fire Damage to Attacks per 10 Strength Advanced Sequence 6|6|6|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles +25 % additional Projectile Damage Advanced Sequence 2|2|2|3",
+      "source": "Bow"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles +25 % additional Projectile Damage Advanced Sequence 2|2|2|3",
+      "source": "Musket"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles +25 % additional Projectile Damage Advanced Sequence 2|2|2|3",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Multiple Projectiles +25 % additional Projectile Damage Advanced Sequence 2|2|2|3",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "After reaching their max range, Projectiles will return and travel an additional 0 % of that distance, hitting the enemies on their path again -30 % additional Projectile Damage Advanced Sequence 3|3|6|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "After reaching their max range, Projectiles will return and travel an additional 0 % of that distance, hitting the enemies on their path again -30 % additional Projectile Damage Advanced Sequence 3|3|6|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "After reaching their max range, Projectiles will return and travel an additional 0 % of that distance, hitting the enemies on their path again -30 % additional Projectile Damage Advanced Sequence 3|3|6|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "After reaching their max range, Projectiles will return and travel an additional 0 % of that distance, hitting the enemies on their path again -30 % additional Projectile Damage Advanced Sequence 3|3|6|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+200 % Precise Projectiles Aura effect -30 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Bow"
+    },
+    {
+      "affix": "+200 % Precise Projectiles Aura effect -30 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Musket"
+    },
+    {
+      "affix": "+200 % Precise Projectiles Aura effect -30 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+200 % Precise Projectiles Aura effect -30 % additional Precise Projectiles Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+80 % Gear Physical Damage -20 % Attack Critical Strike Rating for this gear Advanced Sequence 1|3|5|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Bow"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Musket"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|4|5|7",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Bow"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Musket"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Fire Cannon"
+    },
+    {
+      "affix": "+50 % Gear Elemental Damage -25 % Gear Physical Damage Advanced Sequence 1|2|3|4",
+      "source": "Crossbow"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|6|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+25 % additional Hit Damage for skills cast by Spell Burst Advanced Sequence 1|3|5|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "Adds 200 - 220 Cold Damage to Spells when having at least 800 Intelligence Advanced Sequence 1|1|1|5",
+      "source": "Wand"
+    },
+    {
+      "affix": "The Main Skill is supported by Lv. 25 Control Spell Advanced Sequence 2|2|2|4",
+      "source": "Wand"
+    },
+    {
+      "affix": "+120 % Spell Amplification Aura -20 % additional Spell Amplification Sealed Mana Compensation Advanced Sequence 3|3|6|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "+35 % additional damage -10 % additional Cast Speed Advanced Sequence 4|4|5|6",
+      "source": "Wand"
+    },
+    {
+      "affix": "+15 % additional Deterioration Damage 10 % chance to inflict 1 additional stack(s) of Deterioration Advanced Sequence 2|5|6|7",
+      "source": "Wand"
+    },
+    {
+      "affix": "-1 to Max Tenacity Blessing Stacks +1 to Max Focus Blessing Stacks +1 to Max Agility Blessing Stacks Advanced Sequence 2|3|5|6",
+      "source": "Wand"
+    },
+    {
+      "affix": "Enemies have a 30 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|6|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+50 % additional Hit Damage for skills cast by Spell Burst Advanced Sequence 1|3|5|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "Adds 420 - 440 Cold Damage to Spells when having at least 800 Intelligence Advanced Sequence 1|1|1|5",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "The Main Skill is supported by Lv. 25 Control Spell +25 % additional Spell Damage Advanced Sequence 2|2|2|4",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+200 % Spell Amplification Aura -30 % additional Spell Amplification Sealed Mana Compensation Advanced Sequence 3|3|6|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+70 % additional damage -10 % additional Cast Speed Advanced Sequence 4|4|5|6",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "+30 % additional Deterioration Damage 10 % chance to inflict 2 additional stack(s) of Deterioration Advanced Sequence 2|5|6|7",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "-2 to Max Tenacity Blessing Stacks +2 to Max Focus Blessing Stacks +2 to Max Agility Blessing Stacks Advanced Sequence 2|3|5|6",
+      "source": "Tin Staff"
+    },
+    {
+      "affix": "Enemies have a 15 % chance to explode when defeated by an Attack or Spell, dealing True Damage equal to 250 % of their Max Life to enemies within a 6 m radius Advanced Sequence 1|4|6|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "Triggers Lv. 30 Black Hole when moving. Interval: 1.5 s Advanced Sequence 1|1|1|5",
+      "source": "Scepter"
+    },
+    {
+      "affix": "Main Skill is supported by Lv. 25 Cataclysm Advanced Sequence 2|2|2|4",
+      "source": "Scepter"
+    },
+    {
+      "affix": "Upon inflicting damage, +8 % additional Ailment Damage (multiplies) for every type of Ailment the enemy has Advanced Sequence 3|3|6|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+120 % Deep Pain Aura -20 % additional Deep Pain Sealed Mana Compensation Advanced Sequence 4|4|5|6",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+20 % Movement Speed when standing on a Terra Skill. The effect lasts 2 s. +100 % Skill Area when standing on a Terra Skill. Lasts for 2 s Advanced Sequence 1|3|5|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+160 Affliction inflicted per second Advanced Sequence 2|5|6|7",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+1 to Max Tenacity Blessing Stacks -1 to Max Focus Blessing Stacks +1 to Max Agility Blessing Stacks Advanced Sequence 2|3|5|6",
+      "source": "Scepter"
+    },
+    {
+      "affix": "+80 initial Growth for Spirit Magi Advanced Sequence 1|4|6|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "+ 10 Command per second Advanced Sequence 1|3|5|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "Triggers Lv. 10 Entangled Pain Curse and Timid Curse when a Minion deals damage. Cooldown: 1 s Minions can cast 1 additional Curse(s) Advanced Sequence 2|2|2|4",
+      "source": "Rod"
+    },
+    {
+      "affix": "The Main Skill is supported by a Lv. 25 Servant Damage Advanced Sequence 1|1|1|5",
+      "source": "Rod"
+    },
+    {
+      "affix": "-80 Minion Critical Strike Rating +200 % Minion Critical Strike Damage Advanced Sequence 4|4|5|6",
+      "source": "Rod"
+    },
+    {
+      "affix": "+120 % Radical Order Aura Effect -20 % additional Radical Order Sealed Mana Compensation Advanced Sequence 3|3|6|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "Triggers Lv. 20 Dark Gate when moving. Interval: 4 s Advanced Sequence 2|5|6|7",
+      "source": "Rod"
+    },
+    {
+      "affix": "When Minions deal damage, inflicts Fire Infiltration . Interval for each enemy: 1 s When Minions deal damage, inflicts Lightning Infiltration . Interval for each enemy: 1 s When Minions deal damage, inflicts Cold Infiltration . Interval for each enemy: 1 s Advanced Sequence 2|3|5|6",
+      "source": "Rod"
+    },
+    {
+      "affix": "+8 % Block Ratio Upper limit Advanced Sequence 1|1|1|5",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+8 % Block Ratio Upper limit Advanced Sequence 1|1|1|5",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+8 % Block Ratio Upper limit Advanced Sequence 1|1|1|5",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "All Passive Skill slots are supported by Lv. 30 Precise: Restrain Advanced Sequence 2|2|2|4",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "All Passive Skill slots are supported by Lv. 30 Precise: Restrain Advanced Sequence 2|2|2|4",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "All Passive Skill slots are supported by Lv. 30 Precise: Restrain Advanced Sequence 2|2|2|4",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Immune to crowd control effects Advanced Sequence 3|3|6|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Immune to crowd control effects Advanced Sequence 3|3|6|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Immune to crowd control effects Advanced Sequence 3|3|6|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Converts 25 % of Physical Damage taken to random Elemental Damage -25 % Defense Advanced Sequence 4|4|5|6",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Converts 25 % of Physical Damage taken to random Elemental Damage -25 % Defense Advanced Sequence 4|4|5|6",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Converts 25 % of Physical Damage taken to random Elemental Damage -25 % Defense Advanced Sequence 4|4|5|6",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "+15 % Armor Effective Rate for Non-Physical Damage +2400 Gear Armor Advanced Sequence 1|4|6|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "+15 % Armor Effective Rate for Non-Physical Damage +2400 Gear Armor Advanced Sequence 1|4|6|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "+15 % Armor Effective Rate for Non-Physical Damage +2400 Gear Armor Advanced Sequence 1|4|6|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Spell Damage will not further reduce Evasion by default +1680 gear Evasion Advanced Sequence 1|3|5|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Spell Damage will not further reduce Evasion by default +1680 gear Evasion Advanced Sequence 1|3|5|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Spell Damage will not further reduce Evasion by default +1680 gear Evasion Advanced Sequence 1|3|5|7",
+      "source": "INT Shield"
+    },
+    {
+      "affix": "Energy Shield starts to Charge when Blocking +40 % Energy Shield Charge Speed Advanced Sequence 2|5|6|7",
+      "source": "STR Shield"
+    },
+    {
+      "affix": "Energy Shield starts to Charge when Blocking +40 % Energy Shield Charge Speed Advanced Sequence 2|5|6|7",
+      "source": "DEX Shield"
+    },
+    {
+      "affix": "Energy Shield starts to Charge when Blocking +40 % Energy Shield Charge Speed Advanced Sequence 2|5|6|7",
+      "source": "INT Shield"
+    }
+  ]
+}

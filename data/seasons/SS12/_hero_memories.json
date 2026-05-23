@@ -1,0 +1,1146 @@
+{
+  "season": "SS12",
+  "affix_count": 228,
+  "affixes": [
+    {
+      "effect": "+90 Strength",
+      "source": "Memory of Origin",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+90 Dexterity",
+      "source": "Memory of Origin",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+90 Intelligence",
+      "source": "Memory of Origin",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+330 Max Life",
+      "source": "Memory of Discipline",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+180 Max Mana",
+      "source": "Memory of Discipline",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+4320 Armor",
+      "source": "Memory of Discipline",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+4320 Evasion",
+      "source": "Memory of Discipline",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+525 Max Energy Shield",
+      "source": "Memory of Discipline",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+36 % Attack Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+36 % Cast Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+30 % Movement Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+90 % damage",
+      "source": "Memory of Origin",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+90 % Minion Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+36 % Minion Attack Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+36 % Minion Cast Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Base Stats"
+    },
+    {
+      "effect": "+2 to Hero Trait Level",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(18\u201322) % Movement Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Fire Resistance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Cold Resistance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Lightning Resistance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Erosion Resistance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+32 % Skill Area",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(38\u201342) % Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+30 % Projectile Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Critical Strike Rating",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Attack Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Cast Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(20\u201330) % Affliction Effect",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(24\u201332) % Reaping Recovery Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Life",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Energy Shield",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Armor",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Evasion",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+2 to Hero Trait Level",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(18\u201322) % Movement Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Fire Resistance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Cold Resistance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Lightning Resistance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Erosion Resistance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+32 % Skill Area",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(38\u201342) % Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+30 % Projectile Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Critical Strike Rating",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Attack Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Cast Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(20\u201330) % Affliction Effect",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(24\u201332) % Reaping Recovery Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Life",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Energy Shield",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Armor",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Evasion",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+2 to Hero Trait Level",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(18\u201322) % Movement Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Fire Resistance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Cold Resistance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Lightning Resistance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(2\u20134) % Max Erosion Resistance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+32 % Skill Area",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(38\u201342) % Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+30 % Projectile Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Critical Strike Rating",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Attack Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Cast Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(20\u201330) % Affliction Effect",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(24\u201332) % Reaping Recovery Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Life",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(10\u201314) % Max Energy Shield",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Armor",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % Evasion",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(28\u201331) % Minion Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Minion Critical Strike Rating",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Attack Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Cast Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % Minion Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Attack Block Chance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(28\u201331) % Minion Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Minion Critical Strike Rating",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Attack Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Cast Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % Minion Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Attack Block Chance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Spell Block Chance",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(28\u201331) % Minion Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+80 % Minion Critical Strike Rating",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Attack Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+16 % Minion Cast Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(44\u201352) % Minion Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Attack Block Chance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Spell Block Chance",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(15\u201321) % Spell Block Chance",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % chance to avoid Elemental Ailments",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Slow",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Blinding",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Weaken",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Paralysis",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "(-60\u2013-40) % Curse effect against you",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % chance to avoid Elemental Ailments",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Slow",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Blinding",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Weaken",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Paralysis",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "(-60\u2013-40) % Curse effect against you",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(26\u201330) % chance to avoid Elemental Ailments",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Slow",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Blinding",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Weaken",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Paralysis",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "(-60\u2013-40) % Curse effect against you",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+10 % Cooldown Recovery Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+10 % Cooldown Recovery Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+10 % Cooldown Recovery Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Ignite Damage -100 % Ignite Effect received",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Wilt Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Trauma Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Ignite Damage -100 % Ignite Effect received",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Wilt Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Trauma Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Ignite Damage -100 % Ignite Effect received",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Wilt Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "Immune to Trauma Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Fixed Affix"
+    },
+    {
+      "effect": "+(39\u201345) % Skill Area",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+52 % Projectile Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Affliction Effect",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Reaping Recovery Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Life",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Energy Shield",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Armor",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Evasion",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(39\u201345) % Skill Area",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+52 % Projectile Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Affliction Effect",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Reaping Recovery Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Life",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Energy Shield",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Armor",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Evasion",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(39\u201345) % Skill Area",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+52 % Projectile Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Affliction Effect",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(26\u201340) % Reaping Recovery Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Life",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(14\u201320) % Max Energy Shield",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Armor",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(40\u201346) % Evasion",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % attack Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % Spell Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Physical Skill Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Fire Skill Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Cold Skill Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Lightning Skill Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Erosion Skill Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Minion Critical Strike Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Attack Critical Strike Rating",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Spell Critical Strike Rating",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Minion Critical Strike Rating",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+18 % Attack and Cast Speed +18 % Minion Attack and Cast Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Attack Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Spell Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Physical Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Cold Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Fire Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Lightning Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Erosion Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Damage Over Time",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Minion Damage",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Attack Block Chance",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Spell Block Chance",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % attack Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % Spell Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Physical Skill Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Fire Skill Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Cold Skill Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Lightning Skill Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Erosion Skill Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Minion Critical Strike Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Attack Critical Strike Rating",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Spell Critical Strike Rating",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Minion Critical Strike Rating",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+18 % Attack and Cast Speed +18 % Minion Attack and Cast Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Attack Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Spell Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Physical Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Cold Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Fire Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Lightning Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Erosion Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Damage Over Time",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Minion Damage",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Attack Block Chance",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Spell Block Chance",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % attack Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(46\u201358) % Spell Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Physical Skill Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Fire Skill Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Cold Skill Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Lightning Skill Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Erosion Skill Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(55\u201365) % Minion Critical Strike Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Attack Critical Strike Rating",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Spell Critical Strike Rating",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+104 % Minion Critical Strike Rating",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+18 % Attack and Cast Speed +18 % Minion Attack and Cast Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Attack Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Spell Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Physical Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Cold Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Fire Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Lightning Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Erosion Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Damage Over Time",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(58\u201368) % Minion Damage",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Attack Block Chance",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201331) % Spell Block Chance",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(18\u201323) % Origin of Spirit Magus effect",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(18\u201323) % Origin of Spirit Magus effect",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(18\u201323) % Origin of Spirit Magus effect",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(22\u201327) % Max Mana",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201332) % Focus Speed",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201332) % Focus Speed",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(25\u201332) % Focus Speed",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(22\u201327) % Max Mana",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(22\u201327) % Max Mana",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(10\u201312) % additional Attack and Cast Speed for Combo Starters +(31\u201340) % Critical Strike Damage for Combo Finishers",
+      "source": "Memory of Origin",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(10\u201312) % additional Attack and Cast Speed for Combo Starters +(31\u201340) % Critical Strike Damage for Combo Finishers",
+      "source": "Memory of Discipline",
+      "affix_type": "Random Affix"
+    },
+    {
+      "effect": "+(10\u201312) % additional Attack and Cast Speed for Combo Starters +(31\u201340) % Critical Strike Damage for Combo Finishers",
+      "source": "Memory of Progress",
+      "affix_type": "Random Affix"
+    }
+  ]
+}

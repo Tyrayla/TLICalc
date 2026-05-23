@@ -1,0 +1,774 @@
+{
+  "season": "SS12",
+  "item_count": 192,
+  "items": [
+    {
+      "name": "Micro Fate: Fire Resistance",
+      "text": "Micro Fate: Fire Resistance +(5\u20137) % Fire Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Cold Resistance",
+      "text": "Micro Fate: Cold Resistance +(5\u20137) % Cold Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Lightning Resistance",
+      "text": "Micro Fate: Lightning Resistance +(5\u20137) % Lightning Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Erosion Resistance",
+      "text": "Micro Fate: Erosion Resistance +(5\u20137) % Erosion Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Attack Damage",
+      "text": "Micro Fate: Attack Damage +(14\u201318) % Attack Damage Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Spell Damage",
+      "text": "Micro Fate: Spell Damage +(14\u201318) % Spell Damage +(14\u201318) % Minion Damage Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Strength",
+      "text": "Micro Fate: Strength +(12\u201315) Strength Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Dexterity",
+      "text": "Micro Fate: Dexterity +(12\u201315) Dexterity Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Intelligence",
+      "text": "Micro Fate: Intelligence +(12\u201315) Intelligence Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Armor",
+      "text": "Micro Fate: Armor +(7\u20139) % Armor Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Evade",
+      "text": "Micro Fate: Evade +(7\u20139) % Evasion Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Energy Shield",
+      "text": "Micro Fate: Energy Shield +(5\u20136) % Max Energy Shield Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Critical Strike Rating",
+      "text": "Micro Fate: Critical Strike Rating +(24\u201330) % Critical Strike Rating +(24\u201330) % Minion Critical Strike Rating Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Attack Block Chance",
+      "text": "Micro Fate: Attack Block Chance +(6\u20138) % Attack Block Chance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Spell Block Chance",
+      "text": "Micro Fate: Spell Block Chance +(6\u20138) % Spell Block Chance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Reaping Duration",
+      "text": "Micro Fate: Reaping Duration +(10\u201313) % Reaping Duration Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Life Regeneration",
+      "text": "Micro Fate: Life Regeneration +(5\u20137.5) % Life Regeneration Speed Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Energy Shield Charge Speed",
+      "text": "Micro Fate: Energy Shield Charge Speed +(3\u20135) % Energy Shield Charge Speed Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Multistrike Chance",
+      "text": "Micro Fate: Multistrike Chance +(10\u201312) % chance to Multistrike Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Attack Cast Speed",
+      "text": "Micro Fate: Attack Cast Speed +(4\u20136) % Attack and Cast Speed +(4\u20136) % Minion Attack and Cast Speed Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Mana%",
+      "text": "Micro Fate: Mana% +(6\u20138) % Max Mana Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Focus Speed",
+      "text": "Micro Fate: Focus Speed +(7\u20139) % Focus Speed Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Aura Effect",
+      "text": "Micro Fate: Aura Effect +(2\u20133) % Aura Effect Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Affliction Effect",
+      "text": "Micro Fate: Affliction Effect +(10\u201313) % Affliction Effect Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Block Ratio",
+      "text": "Micro Fate: Block Ratio +(1\u20133) % Block Ratio Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Critical Strike Damage",
+      "text": "Micro Fate: Critical Strike Damage +(12\u201315) % Critical Strike Damage +(12\u201315) % Minion Critical Strike Damage Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Seal Compensation",
+      "text": "Micro Fate: Seal Compensation +(1\u20133) % Sealed Mana Compensation Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Curse Effect",
+      "text": "Micro Fate: Curse Effect +(1\u20133) % Curse Effect Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Movement Speed",
+      "text": "Micro Fate: Movement Speed +(1\u20133) % Movement Speed Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Energy Shield Restored on Defeat",
+      "text": "Micro Fate: Energy Shield Restored on Defeat Restores (0.1\u20130.2) % of Energy Shield on defeat Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Life Restored on Defeat",
+      "text": "Micro Fate: Life Restored on Defeat Restores (0.2\u20130.3) % of Life on defeat Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Command",
+      "text": "Micro Fate: Command + (1\u20132) Command per second Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Double Damage Chance",
+      "text": "Micro Fate: Double Damage Chance +(1\u20133) % chance to deal Double Damage +(1\u20133) % chance for Minions to deal Double Damage Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Multistrike Increment",
+      "text": "Micro Fate: Multistrike Increment Multistrikes deal (4\u20136) % increasing damage Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Growth",
+      "text": "Micro Fate: Growth +(10\u201312) initial Growth for Spirit Magi Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Max Fire Resistance",
+      "text": "Micro Fate: Max Fire Resistance +(1\u20132) % Max Fire Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Max Cold Resistance",
+      "text": "Micro Fate: Max Cold Resistance +(1\u20132) % Max Cold Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Max Lightning Resistance",
+      "text": "Micro Fate: Max Lightning Resistance +(1\u20132) % Max Lightning Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Max Erosion Resistance",
+      "text": "Micro Fate: Max Erosion Resistance +(1\u20132) % Max Erosion Resistance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Origin of Spirit Magus",
+      "text": "Micro Fate: Origin of Spirit Magus +(7\u20139) % Origin of Spirit Magus effect Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Deterioration Chance",
+      "text": "Micro Fate: Deterioration Chance +(2\u20134) % Deterioration Chance Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Deterioration Duration",
+      "text": "Micro Fate: Deterioration Duration +(3\u20135) % additional Deterioration Duration Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Ignite Damage Mitigation",
+      "text": "Micro Fate: Ignite Damage Mitigation (-36\u2013-30) % additional Ignite Damage taken (-36\u2013-30) % Ignite Effect received Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Numbed Effect Mitigation",
+      "text": "Micro Fate: Numbed Effect Mitigation (-55\u2013-45) % Numbed Effect received Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Wilt Damage Mitigation",
+      "text": "Micro Fate: Wilt Damage Mitigation (-36\u2013-30) % Wilt Damage taken Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Trauma Damage Mitigation",
+      "text": "Micro Fate: Trauma Damage Mitigation (-36\u2013-30) % Trauma Damage taken Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Slow Effect Mitigation",
+      "text": "Micro Fate: Slow Effect Mitigation (-55\u2013-45) % Slow Effect received Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Paralysis Effect Mitigation",
+      "text": "Micro Fate: Paralysis Effect Mitigation (-55\u2013-45) % Paralysis Effect received Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Weaken Effect Mitigation",
+      "text": "Micro Fate: Weaken Effect Mitigation (-55\u2013-45) % Weaken Effect received Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Micro Fate: Numbed Effect",
+      "text": "Micro Fate: Numbed Effect +(6\u20138) % Numbed Effect Install to replace a Micro Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Fire Resistance",
+      "text": "Medium Fate: Fire Resistance +(10\u201314) % Fire Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Cold Resistance",
+      "text": "Medium Fate: Cold Resistance +(10\u201314) % Cold Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Lightning Resistance",
+      "text": "Medium Fate: Lightning Resistance +(10\u201314) % Lightning Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Erosion Resistance",
+      "text": "Medium Fate: Erosion Resistance +(10\u201314) % Erosion Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Attack Damage",
+      "text": "Medium Fate: Attack Damage +(28\u201336) % Attack Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Spell Damage",
+      "text": "Medium Fate: Spell Damage +(28\u201336) % Spell Damage +(28\u201336) % Minion Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Strength",
+      "text": "Medium Fate: Strength +(24\u201330) Strength Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Dexterity",
+      "text": "Medium Fate: Dexterity +(24\u201330) Dexterity Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Intelligence",
+      "text": "Medium Fate: Intelligence +(24\u201330) Intelligence Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Armor",
+      "text": "Medium Fate: Armor +(14\u201318) % Armor Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Evade",
+      "text": "Medium Fate: Evade +(14\u201318) % Evasion Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Energy Shield",
+      "text": "Medium Fate: Energy Shield +(10\u201312) % Max Energy Shield Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Critical Strike Rating",
+      "text": "Medium Fate: Critical Strike Rating +(48\u201360) % Critical Strike Rating +(48\u201360) % Minion Critical Strike Rating Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Attack Block Chance",
+      "text": "Medium Fate: Attack Block Chance +(12\u201315) % Attack Block Chance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Spell Block Chance",
+      "text": "Medium Fate: Spell Block Chance +(12\u201315) % Spell Block Chance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Reaping Duration",
+      "text": "Medium Fate: Reaping Duration +(20\u201326) % Reaping Duration Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Life Regeneration",
+      "text": "Medium Fate: Life Regeneration +(10\u201315) % Life Regeneration Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Energy Shield Charge Speed",
+      "text": "Medium Fate: Energy Shield Charge Speed +(6\u201310) % Energy Shield Charge Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Multistrike Chance",
+      "text": "Medium Fate: Multistrike Chance +(20\u201324) % chance to Multistrike Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Attack Cast Speed",
+      "text": "Medium Fate: Attack Cast Speed +(10\u201312) % Attack and Cast Speed +(10\u201312) % Minion Attack and Cast Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Mana%",
+      "text": "Medium Fate: Mana% +(12\u201316) % Max Mana Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Focus Speed",
+      "text": "Medium Fate: Focus Speed +(14\u201318) % Focus Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Aura Effect",
+      "text": "Medium Fate: Aura Effect +(5\u20137) % Aura Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Affliction Effect",
+      "text": "Medium Fate: Affliction Effect +(20\u201326) % Affliction Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Block Ratio",
+      "text": "Medium Fate: Block Ratio +(4\u20136) % Block Ratio Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Critical Strike Damage",
+      "text": "Medium Fate: Critical Strike Damage +(24\u201330) % Critical Strike Damage +(24\u201330) % Minion Critical Strike Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Seal Compensation",
+      "text": "Medium Fate: Seal Compensation +(4\u20136) % Sealed Mana Compensation Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Curse Effect",
+      "text": "Medium Fate: Curse Effect +(4\u20136) % Curse Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Movement Speed",
+      "text": "Medium Fate: Movement Speed +(4\u20136) % Movement Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Energy Shield Restored on Defeat",
+      "text": "Medium Fate: Energy Shield Restored on Defeat Restores (0.2\u20130.4) % of Energy Shield on defeat Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Life Restored on Defeat",
+      "text": "Medium Fate: Life Restored on Defeat Restores (0.4\u20130.6) % of Life on defeat Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Command",
+      "text": "Medium Fate: Command + (2\u20134) Command per second Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Double Damage Chance",
+      "text": "Medium Fate: Double Damage Chance +(4\u20136) % chance to deal Double Damage +(4\u20136) % chance for Minions to deal Double Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Multistrike Increment",
+      "text": "Medium Fate: Multistrike Increment Multistrikes deal (10\u201312) % increasing damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Growth",
+      "text": "Medium Fate: Growth +(20\u201324) initial Growth for Spirit Magi Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Max Fire Resistance",
+      "text": "Medium Fate: Max Fire Resistance +(2\u20134) % Max Fire Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Max Cold Resistance",
+      "text": "Medium Fate: Max Cold Resistance +(2\u20134) % Max Cold Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Max Lightning Resistance",
+      "text": "Medium Fate: Max Lightning Resistance +(2\u20134) % Max Lightning Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Max Erosion Resistance",
+      "text": "Medium Fate: Max Erosion Resistance +(2\u20134) % Max Erosion Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Origin of Spirit Magus",
+      "text": "Medium Fate: Origin of Spirit Magus +(15\u201318) % Origin of Spirit Magus effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Medium Fate: Numbed Effect",
+      "text": "Medium Fate: Numbed Effect +(14\u201316) % Numbed Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Double Blade",
+      "text": "Kismet: Double Blade +(12\u201315) % Main-Hand Weapon Critical Strike Rating and adds (10\u201312) - (15\u201317) Physical Damage to the Off-Hand Weapon while Dual Wielding Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Lion",
+      "text": "Kismet: Lion For each time Warcry has been cast recently, +(4\u20135) % Warcry Effect. Stacks up to 3 time(s) Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Guillotine",
+      "text": "Kismet: Guillotine +(4\u20136) % Steep Strike chance. +(4\u20136) % additional Steep Strike Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: War Hammer",
+      "text": "Kismet: War Hammer +(50\u201360) % Demolisher Charge Restoration Speed when wielding a hammer Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Hound",
+      "text": "Kismet: Hound +(16\u201320) % chance to Multistrike Multistrikes deal (8\u201310) % increasing damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Giant Bear",
+      "text": "Kismet: Giant Bear +(50\u201360) % Melee Attack Critical Strike Damage against Elites Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Scale",
+      "text": "Kismet: Scale +(35\u201340) % Attack Damage for each unique type of weapon equipped while Dual Wielding Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Giant",
+      "text": "Kismet: Giant +(4\u20136) % chance to deal Triple Damage for Attack Skills when holding a Two-Handed Weapon Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Prosthetics",
+      "text": "Kismet: Prosthetics +(9\u201312) % Physique for Synthetic Troop Minions +(9\u201312) % chance for Synthetic Troop Minions to deal Double Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Leader",
+      "text": "Kismet: Leader + 2 Command per second +(15\u201320) % Minion Max Life Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Screw",
+      "text": "Kismet: Screw +(120\u2013150) Minion Critical Strike Rating -1 % additional Minion Attack and Cast Speed for every 2 Synthetic Troop Minions you have Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Green Shoot",
+      "text": "Kismet: Green Shoot +(50\u201360) initial Growth for Spirit Magi Spirit Magi +20 % Cooldown Recovery Speed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Wind Chime",
+      "text": "Kismet: Wind Chime +(12\u201315) % chance for Spirit Magi to use an Enhanced Skill Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Bouquet",
+      "text": "Kismet: Bouquet +(3\u20134) % additional Spirit Magi Damage for every Spirit Magus you have Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Tiger Roar",
+      "text": "Kismet: Tiger Roar +100 % chance to inflict Intimidated on hit +(10\u201312) % additional damage against Low Life enemies Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Mercury Bottle",
+      "text": "Kismet: Mercury Bottle +(70\u201380) Affliction inflicted per second Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Scorpion Stinger",
+      "text": "Kismet: Scorpion Stinger +(3\u20135) % Skill Effect Duration +2 % Reaping Recovery Speed for each Reaping dealt recently, up to 20 % Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Growth Ring",
+      "text": "Kismet: Growth Ring +(10\u201315) % Terra Skill Duration +50 % chance to +100 % Skill Area when casting a Terra Skill +50 % chance to -75 % additional Skill Area when casting a Terra Skill Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Spades",
+      "text": "Kismet: Spades +(8\u201310) % Max Life +5 % additional Damage Over Time Regenerates 2 % Life per second Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Black Square",
+      "text": "Kismet: Black Square +(8\u201310) % Max Energy Shield +5 % additional Damage Over Time -10 % additional Energy Shield Charge Interval Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Red Leech",
+      "text": "Kismet: Red Leech +(100\u2013150) % Critical Strike Rating against Traumatized enemies -20 % Critical Strike Damage against Traumatized enemies Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Volcano",
+      "text": "Kismet: Volcano (-25\u2013-20) % chance to Ignite targets (-25\u2013-20) % additional Ignite Duration +1 Ignite limit Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Spider Fluid",
+      "text": "Kismet: Spider Fluid +1 % damage per stack of Wilt inflicted recently. Stacks up to 100 time(s) Adds 5 - 5 Base Wilt Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Hunter",
+      "text": "Kismet: Hunter Projectile Damage increases with the distance traveled, dealing up to +(70\u2013100) % damage to distant enemies Projectile Damage increases with the distance traveled, increasing the Critical Strike Rating by up to +(70\u2013100) % against distant enemies Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Fisherman",
+      "text": "Kismet: Fisherman +(100\u2013120) % Mark Effect when an Elite is in proximity The knockback direction is reversed for Horizontal Projectiles Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Hawk",
+      "text": "Kismet: Hawk Immune to Blinding Blinds nearby enemies when using an Attack Projectile Skill Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Ripple",
+      "text": "Kismet: Ripple When activating Spell Burst, +(8\u201310) % Skill Area for each time Spell Burst is activated Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Mouth of the Spring",
+      "text": "Kismet: Mouth of the Spring +(12\u201315) % Spell Burst Charge Speed -5 % additional damage taken when Spell Burst Charge is activated Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Witch Cloak",
+      "text": "Kismet: Witch Cloak (8\u201310) % of damage is taken from Mana before life Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Guard",
+      "text": "Kismet: Guard +(5\u20136) % additional Sentry Skill Cast Frequency +1 Sentry quantity that can be deployed at a time Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Shadow Mage",
+      "text": "Kismet: Shadow Mage +(40\u201350) % Sentry Duration +10 % additional Cast Speed for Sentry Skills Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Ice Soul",
+      "text": "Kismet: Ice Soul Inflicts Frostbite on nearby enemies Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Stone Bear",
+      "text": "Kismet: Stone Bear Gains 1 stack(s) of Tenacity Blessing when Regaining Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Civet",
+      "text": "Kismet: Civet Gains a stack of Agility Blessing per 0.5 s when moving Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Pale Fox",
+      "text": "Kismet: Pale Fox Gains 1 stack(s) of Focus Blessing when using a Non-Main Skill Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Longevity Tree",
+      "text": "Kismet: Longevity Tree +(2\u20133) % Max Elemental Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Shield",
+      "text": "Kismet: Shield +(12\u201315) % Defense when holding a Shield +3 % Movement Speed when holding a Shield Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Star Trail",
+      "text": "Kismet: Star Trail +45 % for the effects of Micro Fates in the same Pact Branch Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Synthetic Heart",
+      "text": "Kismet: Synthetic Heart Max Synthetic Troop Quantity +1 Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Creek",
+      "text": "Kismet: Creek Elixir Skills gain 1 Charging Progress every second +(6\u20139) % Movement Speed while an Elixir Skill is active Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Sacred Crest",
+      "text": "Kismet: Sacred Crest (-60\u2013-40) % Curse effect against you Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Fluffy Ball",
+      "text": "Kismet: Fluffy Ball +(40\u201360) % Critical Strike Damage Mitigation Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Ashes",
+      "text": "Kismet: Ashes +(10\u201312) % additional Fire Damage against Ignited enemies -30 % chance to Ignite targets Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Ascetic",
+      "text": "Kismet: Ascetic +(1.7\u20131.9) % Double Damage Chance for Combo Finishers for every 1 Combo Point(s) consumed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Tiger's Chain",
+      "text": "Kismet: Tiger's Chain When casting Combo Starters, Reverse Knocks Back enemies within 8 m by (1.5\u20132) m The effective radius is affected by Skill Area bonuses +8 % Knockback Distance for each Combo Finisher cast recently. Stacks up to 5 time(s) +(4\u20136) % additional Combo Skill Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Kismet: Deeproot",
+      "text": "Kismet: Deeproot Obtain a Lv. 20 Precise: Rejuvenation buff Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Solid Rock",
+      "text": "Dual Kismet: Solid Rock Activates the following effects when there are 2 of this Kismet on the same pact page: Gains a stack of Fortitude when using a Melee Skill +2 Max Fortitude Stacks Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Fire in the Stone",
+      "text": "Dual Kismet: Fire in the Stone Activates the following effects when there are 2 of this Kismet on the same pact page: +100% Fire Resistance when you have Steadfast -25% Lightning Resistance -25% Cold Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Sun Slash",
+      "text": "Dual Kismet: Sun Slash Activates the following effects when there are 2 of this Kismet on the same pact page: Gains Blazing Sun Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Evil Flame",
+      "text": "Dual Kismet: Evil Flame Activates the following effects when there are 2 of this Kismet on the same pact page: 15% chance to cause an explosion when defeating a Cursed enemy with an Attack or Spell, dealing True Damage equal to 250% of the defeated enemy's Max Life to enemies within a 5m radius +15% Skill Area Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Hot Ice",
+      "text": "Dual Kismet: Hot Ice Activates the following effects when there are 2 of this Kismet on the same pact page: -2% Max Cold Resistance and +35 to Max Frostbite Rating Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Echidna",
+      "text": "Dual Kismet: Echidna Activates the following effects when there are 2 of this Kismet on the same pact page: Gains Lv. 20 Precise: Acuteness Focus Buff +60% Focus Buff Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Viper",
+      "text": "Dual Kismet: Viper Activates the following effects when there are 2 of this Kismet on the same pact page: Gains Lv. 20 Precise: Corrosion Focus Buff +60% Focus Buff Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Rock Core",
+      "text": "Dual Kismet: Rock Core Activates the following effects when there are 2 of this Kismet on the same pact page: Gains the Origin of Spirit Magus Effect of a Lv. 20 Rock Magus +30% Origin of Spirit Magus Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Fire Plume",
+      "text": "Dual Kismet: Fire Plume Activates the following effects when there are 2 of this Kismet on the same pact page: Gains the Origin of Spirit Magus Effect of a Lv. 20 Fire Magus +30% Origin of Spirit Magus Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Thunder Branch",
+      "text": "Dual Kismet: Thunder Branch Activates the following effects when there are 2 of this Kismet on the same pact page: Gains the Origin of Spirit Magus Effect of a Lv. 20 Thunder Magus +30% Origin of Spirit Magus Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Ice Flower",
+      "text": "Dual Kismet: Ice Flower Activates the following effects when there are 2 of this Kismet on the same pact page: Gains the Origin of Spirit Magus Effect of a Lv. 20 Frost Magus +30% Origin of Spirit Magus Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Dark Moon",
+      "text": "Dual Kismet: Dark Moon Activates the following effects when there are 2 of this Kismet on the same pact page: Gains the Origin of Spirit Magus Effect of a Lv. 20 Erosion Magus +30% Origin of Spirit Magus Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Ghost Bee",
+      "text": "Dual Kismet: Ghost Bee Activates the following effects when there are 2 of this Kismet on the same pact page: +50% Shadow Tracking Area +50% Shadow Strike Skill Area Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Mechanical Tree",
+      "text": "Dual Kismet: Mechanical Tree Activates the following effects when there are 2 of this Kismet on the same pact page: +10% additional Synthetic Troop Minion Damage for every Spirit Magus +8% additional Spirit Magi Damage for every Synthetic Troop Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Queen Ant",
+      "text": "Dual Kismet: Queen Ant Activates the following effects when there are 2 of this Kismet on the same pact page: +3% additional Ultimate Damage and Ailment Damage dealt by Ultimate (multiplies) for all Spirit Magi for every Ultimate used by a Spirit Magus recently. Stacks up to 3 times Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Hanging Bird",
+      "text": "Dual Kismet: Hanging Bird Activates the following effects when there are 2 of this Kismet on the same pact page: Evading has the Lucky effect when you have at least 3 stacks of Deflection -50% additional Evasion Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Twin Cities",
+      "text": "Dual Kismet: Twin Cities Activates the following effects when there are 2 of this Kismet on the same pact page: Every 4s, alternate between gaining Lv. 12 Delayed Pain and Frost Shield for 5s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Bounded Holy Maiden",
+      "text": "Dual Kismet: Bounded Holy Maiden Activates the following effects when there are 2 of this Kismet on the same pact page: Unable to inflict Ignite, Numbed, Wilt, and Trauma Inflicts Paralysis, Blind, Weaken, Slow, Taunt, and Frostbite on hit -60% Crowd Control Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Mammoth",
+      "text": "Dual Kismet: Mammoth Activates the following effects when there are 2 of this Kismet on the same pact page: Triggers Lv. 20 Resurrection Warcry on hit. Interval: 3s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Mountain God",
+      "text": "Dual Kismet: Mountain God Activates the following effects when there are 2 of this Kismet on the same pact page: Adds 2% Armor to Barrier Shield Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Spirit Orb",
+      "text": "Dual Kismet: Spirit Orb Activates the following effects when there are 2 of this Kismet on the same pact page: Gains Void Orbs every 0.5s while standing still. Stacks up to 5 times Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Hunter's Hand",
+      "text": "Dual Kismet: Hunter's Hand Activates the following effects when there are 2 of this Kismet on the same pact page: Triggers the Main Active Skill 0.5s after using an Attack Horizontal Projectile Skill. Interval: 1s Triggers the Main Active Skill 1s after using an Attack Horizontal Projectile Skill. Interval: 1s Triggers the Main Active Skill 1.5s after using an Attack Horizontal Projectile Skill. Interval: 1s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: God's Fall",
+      "text": "Dual Kismet: God's Fall Activates the following effects when there are 2 of this Kismet on the same pact page: +2 to all skills' level When casting a skill, lose 5% of current Life and Energy Shield Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Headless",
+      "text": "Dual Kismet: Headless Activates the following effects when there are 2 of this Kismet on the same pact page: -50% Helmet Defense +100% Chest Armor Defense Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Heartless",
+      "text": "Dual Kismet: Heartless Activates the following effects when there are 2 of this Kismet on the same pact page: -100% additional Chest Armor Defense +30% additional Helmet, Glove, and Boot Defense Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Pointer",
+      "text": "Dual Kismet: Pointer Activates the following effects when there are 2 of this Kismet on the same pact page: +1 Max Deflection Gains 1 additional stack of Deflection Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Pendulum",
+      "text": "Dual Kismet: Pendulum Activates the following effects when there are 2 of this Kismet on the same pact page: Gains 1 stack of Deflection for every 5m of movement 10% chance to gain 3 stacks of Deflection when gaining Deflection Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Shadow",
+      "text": "Dual Kismet: Shadow Activates the following effects when there are 2 of this Kismet on the same pact page: +2,000 Evasion -20% Chance to Avoid Damage +30% Movement Speed after evading. The effect falls off to 0 within 10s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Three-Eyed Cat",
+      "text": "Dual Kismet: Three-Eyed Cat Activates the following effects when there are 2 of this Kismet on the same pact page: -5% Sealed Mana Compensation +30% additional damage when simultaneously affected by Aura, Focus, and Origin of Spirit Magus Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Two-Headed Crow",
+      "text": "Dual Kismet: Two-Headed Crow Activates the following effects when there are 2 of this Kismet on the same pact page: You can inflict 1 additional Curse -5% Curse Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Plague Source",
+      "text": "Dual Kismet: Plague Source Activates the following effects when there are 2 of this Kismet on the same pact page: 0.5s after dealing Damage Over Time, Reaps 3s of Damage Over Time. Cooldown: 99s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Star-Chasing Arrow",
+      "text": "Dual Kismet: Star-Chasing Arrow Activates the following effects when there are 2 of this Kismet on the same pact page: +15% additional damage for Attack Horizontal Projectiles +5% additional Attack Speed for Mobility Skills if Attack Horizontal Projectiles have dealt damage to distant enemies recently Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Mighty Arrow",
+      "text": "Dual Kismet: Mighty Arrow Activates the following effects when there are 2 of this Kismet on the same pact page: -25% additional Projectile Speed and -25% Projectile Duration +25% additional Attack Horizontal Projectile Damage taken by nearby enemies Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Great Library",
+      "text": "Dual Kismet: Great Library Activates the following effects when there are 2 of this Kismet on the same pact page: Additionally increases damage by 2% (stacks) for every unique Kismet installed Reduces your damage taken by 1% (multiplies) for every unique Kismet installed Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Iron Wall",
+      "text": "Dual Kismet: Iron Wall Activates the following effects when there are 2 of this Kismet on the same pact page: -30% Attack Block Chance and +30% Block Ratio while Dual Wielding Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Hatch Out",
+      "text": "Dual Kismet: Hatch Out Activates the following effects when there are 2 of this Kismet on the same pact page: -5 to Aura Skill Level and +30% Sealed Mana Compensation when you have no Energy Shield Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Perched River",
+      "text": "Dual Kismet: Perched River Activates the following effects when there are 2 of this Kismet on the same pact page: +2 to Spell Burst Upper Limit Critical Strikes have the Unlucky effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Flash Flood",
+      "text": "Dual Kismet: Flash Flood Activates the following effects when there are 2 of this Kismet on the same pact page: Halves Spell Burst Upper Limit +8% additional Attack and Cast Speed for every Spell Burst triggered recently, up to 40% Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Wraith",
+      "text": "Dual Kismet: Wraith Activates the following effects when there are 2 of this Kismet on the same pact page: Adds 25% Non-Erosion Damage as Erosion Damage Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Spindle",
+      "text": "Dual Kismet: Spindle Activates the following effects when there are 2 of this Kismet on the same pact page: Triggers Lv. 25 Corruption upon inflicting damage. Cooldown: 0.2s -50% Curse Skill Area Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Mirror Cracks",
+      "text": "Dual Kismet: Mirror Cracks Activates the following effects when there are 2 of this Kismet on the same pact page: -3 to Defensive Skill Level +45% Defensive Skill Effect Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Unholy Grail",
+      "text": "Dual Kismet: Unholy Grail Activates the following effects when there are 2 of this Kismet on the same pact page: -40% Restoration Duration for Restoration Skills When casting an Elixir Skill, gains 4 stacks of a random Blessing Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Sky Piercer",
+      "text": "Dual Kismet: Sky Piercer Activates the following effects when there are 2 of this Kismet on the same pact page: +20% Attack Horizontal Projectile Speed and +15% additional Attack Horizontal Projectile Damage within 5s after using a Mobility Skill Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Prophet",
+      "text": "Dual Kismet: Prophet Activates the following effects when there are 2 of this Kismet on the same pact page: Injury Buffer is fixed at 0 Restores 10% Missing Life when taking Hit Damage. Interval: 0.05s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Butterfly in a Bottle",
+      "text": "Dual Kismet: Butterfly in a Bottle Activates the following effects when there are 2 of this Kismet on the same pact page: Immune to Trauma, Wilt, and Ignite -8% Elemental Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Bird in a Pond",
+      "text": "Dual Kismet: Bird in a Pond Activates the following effects when there are 2 of this Kismet on the same pact page: Immune to crowd control effects -25% Defense Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Fish in a Cage",
+      "text": "Dual Kismet: Fish in a Cage Activates the following effects when there are 2 of this Kismet on the same pact page: Immune to Elemental Ailments -25% Erosion Resistance Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Witch's Cauldron",
+      "text": "Dual Kismet: Witch's Cauldron Activates the following effects when there are 2 of this Kismet on the same pact page: When at full Energy Shield, removes all Energy Shields, +20% additional Max Mana, and +10% additional Spell Damage for 4s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Peerless",
+      "text": "Dual Kismet: Peerless Activates the following effects when there are 2 of this Kismet on the same pact page: +1 Combo Finisher charge The time before Combo Sequence resets is fixed at 0.3s Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Destiny's Betrayal",
+      "text": "Dual Kismet: Destiny's Betrayal Activates the following effects when there are 2 of this Kismet on the same pact page: Changes the negative effects from Dream Interpretation into positive effects Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Bitterbond",
+      "text": "Dual Kismet: Bitterbond Activates the following effects when there are 2 of this Kismet on the same pact page: +3% Max Elemental Resistance for each inactivated Tangle +25% Spell Aggression Effect for each activated Tangle Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Resentful Maiden",
+      "text": "Dual Kismet: Resentful Maiden Activates the following effects when there are 2 of this Kismet on the same pact page: +1 to Max Tangle Quantity +10% Tangle Duration Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Banshee",
+      "text": "Dual Kismet: Banshee Activates the following effects when there are 2 of this Kismet on the same pact page: Inflicts 2 additional stacks of Ill Omen when inflicting Ill Omen for the first time Inflicts Weaken on enemies who have Ill Omen Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Dual Kismet: Shackles",
+      "text": "Dual Kismet: Shackles Activates the following effects when there are 2 of this Kismet on the same pact page: Gains 45% Movement Speed when consuming Demolisher Charge. This effect gradually falls off to 0 within 2s +10% additional Demolisher Skill Area Install to replace a Medium Talent Node Additional items will be consumed when removing this"
+    },
+    {
+      "name": "Undetermined Fate",
+      "text": "Undetermined Fate Can be installed in an Undetermined Fate Slot to replace the original effects and unlock several additional Fate Slots (up to 5)."
+    }
+  ]
+}

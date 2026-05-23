@@ -1,0 +1,942 @@
+{
+  "season": "SS12",
+  "affix_count": 156,
+  "affixes": [
+    {
+      "tier": 1,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(70\u201375) % Aura Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(52\u201355) % Aura Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(60\u201363) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(45\u201350) % Aura Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(210\u2013225) % Focus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(156\u2013165) % Focus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(60\u201363) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(135\u2013150) % Focus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(210\u2013225) % Origin of Spirit Magus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(75\u201380) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(156\u2013165) % Origin of Spirit Magus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Elixir Skills gain 4 Charging Progress every second and +(60\u201363) % Elixir Skill Effect if there are at least 1 empty Active Skill slot(s) +(135\u2013150) % Origin of Spirit Magus Effect if there are at least 2 empty Passive Skill Slot(s)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "-40 % All Stats +(195\u2013200) to All Stats",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "-25 % All Stats +(120\u2013125) to All Stats",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "-15 % All Stats +(70\u201375) to All Stats",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "+(56\u201360) % additional damage if you have dealt a Critical Strike recently Critical Strikes do not deal additional damage",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "+(42\u201345) % additional damage if you have dealt a Critical Strike recently Critical Strikes do not deal additional damage",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "+(27\u201330) % additional damage if you have dealt a Critical Strike recently Critical Strikes do not deal additional damage",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Loses 50 Life and 80 Energy Shield every second +(48\u201350) % additional Minion Damage when Life or Energy Shield is 50 % or higher",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Loses 30 Life and 50 Energy Shield every second +(27\u201330) % additional Minion Damage when Life or Energy Shield is 50 % or higher",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Loses 15 Life and 30 Energy Shield every second +(15\u201318) % additional Minion Damage when Life or Energy Shield is 50 % or higher",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "+(6\u20137) % Attack Speed for every Main Attack Skill cast recently. Stacks up to 6 time(s). At max stacks, this skill is guaranteed to deal Double Damage after every 3 cast(s) of the Main Attack Skill (except Sentry and Channeled Skills)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "+(2\u20133) % Attack Speed for every Main Attack Skill cast recently. Stacks up to 6 time(s). At max stacks, this skill is guaranteed to deal Double Damage after every 3 cast(s) of the Main Attack Skill (except Sentry and Channeled Skills)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "+(1\u20132) % Attack Speed for every Main Attack Skill cast recently. Stacks up to 6 time(s). At max stacks, this skill is guaranteed to deal Double Damage after every 6 cast(s) of the Main Attack Skill (except Sentry and Channeled Skills)",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Torment gains an additional effect: +10 % additional Reaping Recovery Speed Restores (12\u201315) % of Missing Life and Energy Shield when gaining Torment . Interval: 0.3 s",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Torment gains an additional effect: +6 % additional Reaping Recovery Speed Restores (6\u20138) % of Missing Life and Energy Shield when gaining Torment . Interval: 0.3 s",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Torment gains an additional effect: +3 % additional Reaping Recovery Speed Restores (2\u20135) % of Missing Life and Energy Shield when gaining Torment . Interval: 0.5 s",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "-50 % additional Ailment Duration Additionally settles (32\u201335) % of the remaining total Damage Over Time when Reaping , then removes all Damage Over Time acting on the target",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "-50 % additional Ailment Duration Additionally settles (22\u201325) % of the remaining total Damage Over Time when Reaping , then removes all Damage Over Time acting on the target",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "-50 % additional Ailment Duration Additionally settles (18\u201320) % of the remaining total Damage Over Time when Reaping , then removes all Damage Over Time acting on the target",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "2.5 % Spell Critical Strike Rating for every 1 Intelligence. Up to +(420\u2013430) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "1.5 % Spell Critical Strike Rating for every 1 Intelligence. Up to +(250\u2013270) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "+1 % Spell Critical Strike Rating for every 1 Intelligence. Up to +(140\u2013160) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Every 10 time(s) Lightning Damage is dealt, inflicts 5 stack(s) of Numbed on enemies within 10 m nearby. Interval: 0.5 s +(50\u201354) % Numbed Effect",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Every 10 time(s) Lightning Damage is dealt, inflicts 5 stack(s) of Numbed on enemies within 10 m nearby. Interval: 0.5 s +(18\u201321) % Numbed Effect",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Every 10 time(s) Lightning Damage is dealt, inflicts 1 stack(s) of Numbed on enemies within 10 m nearby. Interval: 0.5 s +(3\u20135) % Numbed Effect",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "+(260\u2013270) Critical Strike Rating against Frostbitten enemies",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "+(160\u2013170) Critical Strike Rating against Frostbitten enemies",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "+(100\u2013110) Critical Strike Rating against Frostbitten enemies",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "For every enemy within 20 m nearby, +(32\u201335) % Affliction Effect, up to +235 %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "For every enemy within 20 m nearby, +(18\u201321) % Affliction Effect, up to +130 %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "For every enemy within 20 m nearby, +(12\u201315) % Affliction Effect, up to +80 %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "+(13\u201315) % Armor DMG Mitigation Penetration against Traumatized enemies Eliminates Traumatized enemies with less than 15 % Life",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "+(13\u201315) % Armor DMG Mitigation Penetration against Traumatized enemies Eliminates Traumatized enemies with less than 8 % Life",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "+(6\u20138) % Armor DMG Mitigation Penetration against Traumatized enemies Eliminates Traumatized enemies with less than 8 % Life",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "40 % of the bonus to Erosion Damage also applied to Deterioration Damage, up to +80 %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "25 % of the bonus to Erosion Damage also applied to Deterioration Damage, up to +(45\u201350) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "15 % of the bonus to Erosion Damage also applied to Deterioration Damage, up to +(27\u201330) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Origin Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Origin Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-60\u2013-55) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Rare or lower Origin Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Progress Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Progress Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-60\u2013-55) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Rare or lower Progress Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 1,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Discipline Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 2,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Epic or lower Discipline Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-60\u2013-55) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 3,
+      "modifier": "Base Traits now have Base Trait slots that can be installed with a Rare or lower Discipline Memory. Base Stats and the value of Random Affixes of the Memory installed in this slot: (-35\u2013-30) %",
+      "level": 82,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "+(12\u201315) % Elemental and Erosion Resistance Penetration",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(9\u201310) % Elemental and Erosion Resistance Penetration",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(7\u20138) % Elemental and Erosion Resistance Penetration",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(10\u201312) % Armor DMG Mitigation Penetration",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(8\u20139) % Armor DMG Mitigation Penetration",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(6\u20137) % Armor DMG Mitigation Penetration",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+4 % Max Elemental Resistance",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+3 % Max Elemental Resistance",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+2 % Max Elemental Resistance",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(12\u201315) % Aura Effect",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(9\u201310) % Aura Effect",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(7\u20138) % Aura Effect",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(12\u201315) % Sealed Mana Compensation",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(9\u201310) % Sealed Mana Compensation",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(7\u20138) % Sealed Mana Compensation",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(10\u201313) % Block Ratio",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(8\u20139) % Block Ratio",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(6\u20137) % Block Ratio",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(26\u201328) % additional Evasion on Spell Damage",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(21\u201322) % additional Evasion on Spell Damage",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(16\u201317) % additional Evasion on Spell Damage",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(9\u201310) % Armor Effective Rate for Non-Physical Damage",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(6\u20137) % Armor Effective Rate for Non-Physical Damage",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(4\u20135) % Armor Effective Rate for Non-Physical Damage",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(32\u201336) % Warcry Effect",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(26\u201328) % Warcry Effect",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(20\u201322) % Warcry Effect",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "Converts (13\u201315) % of Physical Damage taken to random Elemental Damage",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "Converts (9\u201310) % of Physical Damage taken to random Elemental Damage",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "Converts (7\u20138) % of Physical Damage taken to random Elemental Damage",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "Converts (28\u201330) % of Erosion Damage taken to random Elemental Damage",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "Converts (22\u201323) % of Erosion Damage taken to random Elemental Damage",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "Converts (17\u201318) % of Erosion Damage taken to random Elemental Damage",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(25\u201328) % chance to inflict Damaging Ailments",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(19\u201321) % chance to inflict Damaging Ailments",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(14\u201316) % chance to inflict Damaging Ailments",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(12\u201315) % Barrier Absorption Rate",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(9\u201310) % Barrier Absorption Rate",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(7\u20138) % Barrier Absorption Rate",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(50\u201354) initial Growth for Spirit Magi",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(40\u201342) initial Growth for Spirit Magi",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(30\u201332) initial Growth for Spirit Magi",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+ (7\u20138) Command per second",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+ (5\u20136) Command per second",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+ (3\u20134) Command per second",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(31\u201335) % Elixir Skill Effect",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(24\u201326) % Elixir Skill Effect",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(18\u201320) % Elixir Skill Effect",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(21\u201324) to Max Frostbite Rating",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(16\u201318) to Max Frostbite Rating",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(12\u201314) to Max Frostbite Rating",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "(13\u201315) % of damage is taken from Mana before life",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "(9\u201310) % of damage is taken from Mana before life",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "(7\u20138) % of damage is taken from Mana before life",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "+(12\u201315) % Injury Buffer",
+      "level": 86,
+      "weight": 1084
+    },
+    {
+      "tier": 1,
+      "modifier": "+(9\u201310) % Injury Buffer",
+      "level": 86,
+      "weight": 2817
+    },
+    {
+      "tier": 2,
+      "modifier": "+(7\u20138) % Injury Buffer",
+      "level": 82,
+      "weight": 5850
+    },
+    {
+      "tier": 0,
+      "modifier": "Hero's Resourcefulness",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Furious Roar",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Ancestral Hate",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Starfall Wasteland",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Between the Holy Land and Hell",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Apathy Blade",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Mercury Purged",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Telepathy Expert",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Fifth Cosmic Velocity",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "To Myself in Another Spacetime",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Private Universe",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Artificial Moon: Origin",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Artificial Moon: Discipline",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Artificial Moon: Progress",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Discord of the Second Will",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Omni-Elixir Side Effect",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Basic Pharmacology Manuscript",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Soft Storm",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Blowing Breeze",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Nourishing Spring Rain",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Nature's Party",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Neural Synchronization Training",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Machine's Joy",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Peril of Synthetic Troops",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Three-Chambered Heart",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "First Flake of Strange Snow",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Sweet Pain",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Royal Arsenal",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Into the Night",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Self-Imposed Shackles",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Cat's Night Safari",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Charging Tail",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Vengeful Night Wraith",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "The Place of Oracle",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Immolating World",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Crossing the Divine Threshold",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Inverted Shrine",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Bing's Big Bang Pack",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Genius Idea Generator",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Ceaseless Tide",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Radical Evolution Theory: Cruelty",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Radical Evolution Theory: Spell Amplification",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Radical Evolution Theory: Radical Order",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Radical Evolution Theory: Deep Pain",
+      "level": 86,
+      "weight": 1000
+    },
+    {
+      "tier": 0,
+      "modifier": "Reactive Rainbow",
+      "level": 86,
+      "weight": 1000
+    }
+  ]
+}

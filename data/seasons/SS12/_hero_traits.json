@@ -1,0 +1,3077 @@
+{
+  "season": "SS12",
+  "hero_count": 12,
+  "trait_count": 26,
+  "traits": [
+    {
+      "trait_id": "anger",
+      "hero": "Rehan",
+      "variant_name": "Anger",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage When not in the Berserk state, each stack of Melee Attack Skill channeled generates 5 Rage 0.22 % additional damage and 0.1 % Movement Speed for every 1 Rage you have Enter Berserk automatically at Max Rage While Berserk is active, 15 Rage is consumed per second Attacks trigger Burst once on hit while Berserk is active. Cooldown: 0.3 s 2.9 % additional Burst Damage per 1 levels"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage When not in the Berserk state, each stack of Melee Attack Skill channeled generates 5 Rage 0.22 % additional damage and 0.1 % Movement Speed for every 1 Rage you have Enter Berserk automatically at Max Rage While Berserk is active, 15 Rage is consumed per second Attacks trigger Burst once on hit while Berserk is active. Cooldown: 0.3 s 3.1 % additional Burst Damage per 1 levels"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage When not in the Berserk state, each stack of Melee Attack Skill channeled generates 5 Rage 0.22 % additional damage and 0.1 % Movement Speed for every 1 Rage you have Enter Berserk automatically at Max Rage While Berserk is active, 15 Rage is consumed per second Attacks trigger Burst once on hit while Berserk is active. Cooldown: 0.3 s 3.3 % additional Burst Damage per 1 levels"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage When not in the Berserk state, each stack of Melee Attack Skill channeled generates 5 Rage 0.22 % additional damage and 0.1 % Movement Speed for every 1 Rage you have Enter Berserk automatically at Max Rage While Berserk is active, 15 Rage is consumed per second Attacks trigger Burst once on hit while Berserk is active. Cooldown: 0.3 s 3.5 % additional Burst Damage per 1 levels"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage When not in the Berserk state, each stack of Melee Attack Skill channeled generates 5 Rage 0.22 % additional damage and 0.1 % Movement Speed for every 1 Rage you have Enter Berserk automatically at Max Rage While Berserk is active, 15 Rage is consumed per second Attacks trigger Burst once on hit while Berserk is active. Cooldown: 0.3 s 3.7 % additional Burst Damage per 1 levels"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: 1.5 % Burst Cooldown Recovery Speed for every 10 Rage"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Righteous Fury",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Generates ( 18 / 23 / 28 / 33 / 40 ) Rage per second instead of consuming Rage while Berserk is active When triggering Burst, consumes ( 8 / 7 / 6 / 5 / 4 ) Rage"
+          ]
+        },
+        {
+          "name": "Frenzy Furious",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( 0.3 / 0.5 / 0.7 / 0.9 / 1.1 )% Critical Strike Rating for every 1 Rage When Burst lands a Critical Strike, generates 3 Rage . Interval: 0.03 s"
+          ]
+        },
+        {
+          "name": "Tunnel Vision",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "-80 % additional damage for non- Burst skills ( +66 / +77 / +88 / +99 / +110 )% additional Burst Damage"
+          ]
+        },
+        {
+          "name": "Rampaging",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( 70 / 80 / 90 / 100 / 110 )% of the bonus and additional bonus to Attack Speed is also applied to Burst's Cooldown Recovery Speed"
+          ]
+        },
+        {
+          "name": "Uncontrolled Anger",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+200 % additional Burst Area For every +2 % Skill Area, +1 % additional Burst Damage, up to ( +40 / +51 / +63 / +76 / +90 )%"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "614": {
+          "name": "Rage",
+          "description": "A Berserker exclusive energy that has a default upper limit of 100Upon reaching max Rage, Berserker enters Berserk"
+        },
+        "615": {
+          "name": "Berserk",
+          "description": "Gains bonuses twice the Max Rage while Berserk is activeBerserk expires when you run out of Rage"
+        },
+        "616": {
+          "name": "Burst",
+          "description": "When triggered, deals powerful area explosion damage equal to 340% of Weapon Damage to enemies within 3m. While Dual Wielding, the Base Damage is the average damage of both weapons.For every +1 to Skill Level, Burst +10% additional damage (multiplies)Skill Tags: Attack, Melee, Physical, Triggered, Area, Strength, Dexterity"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        }
+      }
+    },
+    {
+      "trait_id": "blasphemer",
+      "hero": "Thea",
+      "variant_name": "Blasphemer",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to inflict Desecration on the enemy with the highest rarity within 15m. Cooldown: 5s. Inflicts one-third of the max stacks each time (rounded up) Converts the effects of affixes that increase Max Blessings Stacks into effects that reduce Max Blessings Stacks and increase Max Desecration Stacks. Increases Max Desecration Stacks by up to 4 for each type of Blessings Triggers the Trait Skill and ignores its cooldown when gaining any Blessing . Interval: 0.3s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to inflict Desecration on the enemy with the highest rarity within 15m. Cooldown: 5s. Inflicts one-third of the max stacks each time (rounded up) Converts the effects of affixes that increase Max Blessings Stacks into effects that reduce Max Blessings Stacks and increase Max Desecration Stacks. Increases Max Desecration Stacks by up to 4 for each type of Blessings Triggers the Trait Skill and ignores its cooldown when gaining any Blessing . Interval: 0.3s +5 % additional Erosion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to inflict Desecration on the enemy with the highest rarity within 15m. Cooldown: 5s. Inflicts one-third of the max stacks each time (rounded up) Converts the effects of affixes that increase Max Blessings Stacks into effects that reduce Max Blessings Stacks and increase Max Desecration Stacks. Increases Max Desecration Stacks by up to 4 for each type of Blessings Triggers the Trait Skill and ignores its cooldown when gaining any Blessing . Interval: 0.3s +10 % additional Erosion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to inflict Desecration on the enemy with the highest rarity within 15m. Cooldown: 5s. Inflicts one-third of the max stacks each time (rounded up) Converts the effects of affixes that increase Max Blessings Stacks into effects that reduce Max Blessings Stacks and increase Max Desecration Stacks. Increases Max Desecration Stacks by up to 4 for each type of Blessings Triggers the Trait Skill and ignores its cooldown when gaining any Blessing . Interval: 0.3s +15 % additional Erosion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to inflict Desecration on the enemy with the highest rarity within 15m. Cooldown: 5s. Inflicts one-third of the max stacks each time (rounded up) Converts the effects of affixes that increase Max Blessings Stacks into effects that reduce Max Blessings Stacks and increase Max Desecration Stacks. Increases Max Desecration Stacks by up to 4 for each type of Blessings Triggers the Trait Skill and ignores its cooldown when gaining any Blessing . Interval: 0.3s +20 % additional Erosion Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: Converts 30 % of Physical Damage taken to Erosion Damage"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Unholy Baptism",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "( +5 / +10 / +15 / +20 / +25 )% additional Erosion Damage Enemies within 6m of a Desecrated target have a ( 10 / 20 / 20 / 30 / 30 )% chance to explode when defeated, dealing True Damage equal to 125 % of their Max Life to enemies within a ( 3 / 4 / 4 / 5 / 5 ) m radius"
+          ]
+        },
+        {
+          "name": "Disgraced Minister",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Desecration only affects Elites When there are no other enemies within 6m of the Desecrated target, the target gains Sacrificial Pawn ( +10 / +15 / +20 / +25 / +30 )% Erosion Resistance ( +3 / +4 / +4 / +5 / +5 )% Max Erosion Resistance"
+          ]
+        },
+        {
+          "name": "Tarnished Sage",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Up to 2 Elites within 6m of a Desecrated target will also be inflicted with Desecration Instantly restores ( 5 / 6 / 7 / 8 / 9 )% of Max Life, Energy Shield, and Mana when defeating a Desecrated target. + ( 20 / 30 / 40 / 50 / 60 )% Attack and Cast Speed when dealing damage to a Desecrated target. Lasts 5s. This effect cannot stack"
+          ]
+        },
+        {
+          "name": "Onset of Depravity",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "When inflicting Desecration on an Elite for the first time, deals True Damage equal to ( 6 / 8 / 10 / 12 / 15 )% of Max Life When a Desecrated target is under a crowd control effect , the target gains Mountain of Sins"
+          ]
+        },
+        {
+          "name": "Extreme Desecration",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "If the Max Blessings Stacks are further increased when the max stacks of all Blessings are 0, converts the effects of their affixes into effects that increase Max Desecration Stacks. Desecration stacks up to 25 times Desecration gains an additional base effect: ( 0.2 / 0.25 / 0.3 / 0.35 / 0.4 )% additional Erosion Damage taken for every 5% of Life the target loses"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "737": {
+          "name": "Focus Blessing",
+          "description": "Every stack of Focus Blessing grants +5% additional damage. Initial max stacks: 4"
+        },
+        "716": {
+          "name": "Agility Blessing",
+          "description": "Every stack of Agility Blessing grants +4% Attack and Cast Speed and +2% additional damage. Initial max stacks: 4"
+        },
+        "719": {
+          "name": "Tenacity Blessing",
+          "description": "Every stack of Tenacity Blessing grants an additional 4% damage reduction (multiplies). Initial max stacks: 4."
+        },
+        "80020": {
+          "name": "Desecration",
+          "description": "+15% additional Erosion Damage taken (multiplies) for each stack of Desecration. Initial max stacks: 3. Lasts for 5s. Can only affect 1 target"
+        },
+        "80021": {
+          "name": "Blessing",
+          "description": "Includes Focus Blessing, Tenacity Blessing, and Agility Blessing"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "124": {
+          "name": "Elite",
+          "description": "Elite monsters include rare monsters and bosses"
+        },
+        "80022": {
+          "name": "Sacrificial Pawn",
+          "description": "-10% additional damage dealt and +10% additional Erosion Damage taken. This is considered a Crowd Control Effect"
+        },
+        "502": {
+          "name": "Max Resistance",
+          "description": "By default, the Max Resistance is 60%. This limit can be increased."
+        },
+        "742": {
+          "name": "Crowd Control Effects",
+          "description": "Frostbite, Freeze, Paralysis, Knockback, Weaken, Slow, Taunt, and Blinding"
+        },
+        "80023": {
+          "name": "Mountain of Sins",
+          "description": "Reduces Erosion Resistance by 20%"
+        }
+      }
+    },
+    {
+      "trait_id": "blast_nova",
+      "hero": "Bing",
+      "variant_name": "Blast Nova",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When using a Non-channeling Projectile Skill, throw 1 bomb instead The bomb automatically detonates 1 s after landing, firing Projectiles in all directions There can be up to 10 undetonated bombs at the same time. Exceeding the limit will detonate the bomb that landed first Bomb throwing speed is 1.5 time(s) per second For every +100 % Attack Speed, +1 bombs thrown upon using an Attack Projectile Skill. For every +100 % Cast Speed, +1 bombs thrown upon using a Spell Projectile Skill. The amount less than +100 % has a chance to grant +1 bombs thrown upon using an Attack or Spell Projectile Skill. +1 % additional Attack Bomb Damage for every +1 % additional Attack Speed +1 % additional Spell Bomb Damage for every +1 % additional Cast Speed +30 % additional Bomb Damage Projectile Quantity +2 Reduces Max Spell Burst Stacks to 1/2 -40 % additional Sentry Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When using a Non-channeling Projectile Skill, throw 1 bomb instead The bomb automatically detonates 1 s after landing, firing Projectiles in all directions There can be up to 10 undetonated bombs at the same time. Exceeding the limit will detonate the bomb that landed first Bomb throwing speed is 1.5 time(s) per second For every +100 % Attack Speed, +1 bombs thrown upon using an Attack Projectile Skill. For every +100 % Cast Speed, +1 bombs thrown upon using a Spell Projectile Skill. The amount less than +100 % has a chance to grant +1 bombs thrown upon using an Attack or Spell Projectile Skill. +1 % additional Attack Bomb Damage for every +1 % additional Attack Speed +1 % additional Spell Bomb Damage for every +1 % additional Cast Speed +37 % additional Bomb Damage Projectile Quantity +2 Reduces Max Spell Burst Stacks to 1/2 -40 % additional Sentry Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When using a Non-channeling Projectile Skill, throw 1 bomb instead The bomb automatically detonates 1 s after landing, firing Projectiles in all directions There can be up to 10 undetonated bombs at the same time. Exceeding the limit will detonate the bomb that landed first Bomb throwing speed is 1.5 time(s) per second For every +100 % Attack Speed, +1 bombs thrown upon using an Attack Projectile Skill. For every +100 % Cast Speed, +1 bombs thrown upon using a Spell Projectile Skill. The amount less than +100 % has a chance to grant +1 bombs thrown upon using an Attack or Spell Projectile Skill. +1 % additional Attack Bomb Damage for every +1 % additional Attack Speed +1 % additional Spell Bomb Damage for every +1 % additional Cast Speed +44 % additional Bomb Damage Projectile Quantity +2 Reduces Max Spell Burst Stacks to 1/2 -40 % additional Sentry Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When using a Non-channeling Projectile Skill, throw 1 bomb instead The bomb automatically detonates 1 s after landing, firing Projectiles in all directions There can be up to 10 undetonated bombs at the same time. Exceeding the limit will detonate the bomb that landed first Bomb throwing speed is 1.5 time(s) per second For every +100 % Attack Speed, +1 bombs thrown upon using an Attack Projectile Skill. For every +100 % Cast Speed, +1 bombs thrown upon using a Spell Projectile Skill. The amount less than +100 % has a chance to grant +1 bombs thrown upon using an Attack or Spell Projectile Skill. +1 % additional Attack Bomb Damage for every +1 % additional Attack Speed +1 % additional Spell Bomb Damage for every +1 % additional Cast Speed +51 % additional Bomb Damage Projectile Quantity +2 Reduces Max Spell Burst Stacks to 1/2 -40 % additional Sentry Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When using a Non-channeling Projectile Skill, throw 1 bomb instead The bomb automatically detonates 1 s after landing, firing Projectiles in all directions There can be up to 10 undetonated bombs at the same time. Exceeding the limit will detonate the bomb that landed first Bomb throwing speed is 1.5 time(s) per second For every +100 % Attack Speed, +1 bombs thrown upon using an Attack Projectile Skill. For every +100 % Cast Speed, +1 bombs thrown upon using a Spell Projectile Skill. The amount less than +100 % has a chance to grant +1 bombs thrown upon using an Attack or Spell Projectile Skill. +1 % additional Attack Bomb Damage for every +1 % additional Attack Speed +1 % additional Spell Bomb Damage for every +1 % additional Cast Speed +58 % additional Bomb Damage Projectile Quantity +2 Reduces Max Spell Burst Stacks to 1/2 -40 % additional Sentry Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: Continuously inflicts enemies within 6 m of the bomb with Paralysis and Slow"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Firepower Coverage",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Projectile Quantity ( +2 / +2 / +3 / +3 / +4 ) +50 % Projectile Size ( +10 / +14 / +18 / +22 / +26 )% additional Bomb Damage"
+          ]
+        },
+        {
+          "name": "Dangerous Runaway",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+1 Bomb Quantity when throwing bombs next time after moving at least ( 20 / 17 / 14 / 11 / 8 ) m +1 % Movement Speed for every 4 m of movement made recently, up to +15 %"
+          ]
+        },
+        {
+          "name": "Blast Barrage",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Bombs explode immediately after landing +20 % additional Projectile Speed ( +22 / +28 / +34 / +41 / +48 )% additional Bomb Damage when there are no enemies nearby"
+          ]
+        },
+        {
+          "name": "Phantom Delivery",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Doubles the bombs thrown. Bombs have a ( 40 / 37 / 34 / 31 / 28 )% chance to become duds that deal ( -95 / -95 / -95 / -95 / -90 )% additional damage"
+          ]
+        },
+        {
+          "name": "Radiation Effect",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "When the bombs detonate, for every +1 % Projectile Speed, deals ( 0.35 / 0.42 / 0.48 / 0.53 / 0.6 )% additional damage to enemies in proximity to them, up to an additional ( +35 / +42 / +48 / +53 / +60 )%"
+          ]
+        },
+        {
+          "name": "Frenzy Hound",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Bombs do not automatically explode when the upper limit is not reached Click the Trait Skill to manually detonate all bombs on the ground ( +4 / 4.8 / 5.5 / 6.3 / +7 )% additional damage for every bomb on the battlefield when the bombs detonate, up to ( +48 / 57.6 / +66 / 75.6 / +84 )% additional damage."
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "704": {
+          "name": "Paralysis",
+          "description": "Increases damage taken by 15%"
+        },
+        "706": {
+          "name": "Slow",
+          "description": "Each stack reduces Attack Speed, Cast Speed, and Movement Speed by 6%. Stacks up to 5 times"
+        },
+        "684": {
+          "name": "Projectile Size",
+          "description": "Changes Projectile SizeIn general, 100% of Projectile Size is applied to the size of ProjectilesFor Projectiles affected by Skill Area Bonuses, 25% of the increase or decrease in Projectile Size is applied to the additional Skill Area of ProjectilesFor Projectiles that have subsequent Area Effects, 25% of the increase or decrease in Projectile Size is also applied to the additional Skill Area of the subsequent effectsSubsequent effects: Effects caused by Projectile after they are fired, such as explosions"
+        },
+        "102": {
+          "name": "Nearby",
+          "description": "Within 6m"
+        },
+        "160": {
+          "name": "Proximity",
+          "description": "Within 4m"
+        }
+      }
+    },
+    {
+      "trait_id": "charge_calling",
+      "hero": "Moto",
+      "variant_name": "Charge Calling",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Allows you to click the Trait Skill to gain Charge Calling for 6 s. Cooldown: 6 s During Charge Calling, Synthetic Troop Minions summoned at a time +1 . All Synthetic Troop Minions will activate Self-Destruct Protocol and Charge at the enemy in the next 1 s, self-destructing upon colliding with an enemy or being defeated to deal Physical Attack Damage to enemies within the area +20 % additional Self-Destruct Damage triggered by Self-Destruct Protocol"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Allows you to click the Trait Skill to gain Charge Calling for 6 s. Cooldown: 6 s During Charge Calling, Synthetic Troop Minions summoned at a time +1 . All Synthetic Troop Minions will activate Self-Destruct Protocol and Charge at the enemy in the next 1 s, self-destructing upon colliding with an enemy or being defeated to deal Physical Attack Damage to enemies within the area +26 % additional Self-Destruct Damage triggered by Self-Destruct Protocol"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Allows you to click the Trait Skill to gain Charge Calling for 6 s. Cooldown: 6 s During Charge Calling, Synthetic Troop Minions summoned at a time +1 . All Synthetic Troop Minions will activate Self-Destruct Protocol and Charge at the enemy in the next 1 s, self-destructing upon colliding with an enemy or being defeated to deal Physical Attack Damage to enemies within the area +32 % additional Self-Destruct Damage triggered by Self-Destruct Protocol"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Allows you to click the Trait Skill to gain Charge Calling for 6 s. Cooldown: 6 s During Charge Calling, Synthetic Troop Minions summoned at a time +1 . All Synthetic Troop Minions will activate Self-Destruct Protocol and Charge at the enemy in the next 1 s, self-destructing upon colliding with an enemy or being defeated to deal Physical Attack Damage to enemies within the area +38 % additional Self-Destruct Damage triggered by Self-Destruct Protocol"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Allows you to click the Trait Skill to gain Charge Calling for 6 s. Cooldown: 6 s During Charge Calling, Synthetic Troop Minions summoned at a time +1 . All Synthetic Troop Minions will activate Self-Destruct Protocol and Charge at the enemy in the next 1 s, self-destructing upon colliding with an enemy or being defeated to deal Physical Attack Damage to enemies within the area +44 % additional Self-Destruct Damage triggered by Self-Destruct Protocol"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +12 % additional Minion Damage if any Mechanical Part is picked up recently. +40 % Skill Area for Self-Destruct Protocol"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Unstoppable Wave",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+30 % chance for a Synthetic Troop Minion to drop 1 Mechanical Part When it initiates Self-Destruct Protocol . Mechanical Parts last 1 s Player will automatically pick up nearby Mechanical Parts ( +3 / 3.5 / +4 / 4.5 / +5 )% additional Minion Damage for each Mechanical Part picked up recently. Stacks up to 10 time(s) Gains a Skill Slot, in which a Support Skill or Activation Medium Support Skill can be installed to support Trait Skill Charge Calling"
+          ]
+        },
+        {
+          "name": "Heroic Sacrifice",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every ( 70 / 60 / 50 / 45 / 40 ) Max Life or Energy Shield a Synthetic Troop Minion has, Self-Destruct triggered by Self-Destruct Protocol deals +1 % additional damage"
+          ]
+        },
+        {
+          "name": "Guerilla Tactics",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+50 % Mechanical Part Pick-Up Radius +2 % additional Self-Destruct Protocol Charge Speed and +3 % additional Self-Destruct Protocol Damage for each Mechanical Part collected recently. Stacks up to ( 10 / 12 / 15 / 18 / 20 ) time(s)"
+          ]
+        },
+        {
+          "name": "Fuel War with War",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "\u6bcf\u9694 ( 0.2 / 0.18 / 0.15 / 0.12 / 0.1 ) \u79d2\uff0c\u5bf9 20 \u7c73\u5185\u6700\u8fd1\u7684\u654c\u4eba\u89e6\u53d1\u6838\u5fc3\u53ec\u5524\u6280\u80fd \u901a\u8fc7\u8be5\u65b9\u5f0f\u89e6\u53d1\u7684\u6280\u80fd\u65e0\u89c6\u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4 -30 % Movement Speed"
+          ]
+        },
+        {
+          "name": "Essential Speed",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( 25 / 30 / 35 / 40 / 45 )% of the bonus and additional bonus to Minion Attack Speed is also applied to the bonus and additional bonus of Self-Destruct Protocol Damage"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "639": {
+          "name": "Self-Destruct Protocol",
+          "description": "Synthetic Troop Minions are immediately defeated 1s after activation. The base multiplier for Minions to self-destruct is 115%.Skill Tags: Attack, Melee, Physical, Area, Strength, Dexterity, Intelligence"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "102": {
+          "name": "Nearby",
+          "description": "Within 6m"
+        }
+      }
+    },
+    {
+      "trait_id": "creative_genius",
+      "hero": "Bing",
+      "variant_name": "Creative Genius",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "+1 Max Spell Burst Gains 2 Inspiration Machines that can be powered by Whimsy Essence and Ingenuity Essence respectively. Starts with 0 Whimsy Essence and Ingenuity Essence with an upper limit of 100. Restores 20 Whimsy Essence per second When Whimsy Essence reaches 100, dealing Spell Damage to an enemy causes Inspiration Machines to use a Whimsy Explosion , inflicting Whimsy Signal on affected enemies When Ingenuity Essence reaches 100, clicking the Trait Skill causes Inspiration Machines to use Ingenuity Overload Bing's ingenious ideas allow him to possess more Traits. In addition to Base Traits, an additional Trait can be selected at each level threshold."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "+1 Max Spell Burst Gains 2 Inspiration Machines that can be powered by Whimsy Essence and Ingenuity Essence respectively. Starts with 0 Whimsy Essence and Ingenuity Essence with an upper limit of 100. Restores 20 Whimsy Essence per second When Whimsy Essence reaches 100, dealing Spell Damage to an enemy causes Inspiration Machines to use a Whimsy Explosion , inflicting Whimsy Signal on affected enemies When Ingenuity Essence reaches 100, clicking the Trait Skill causes Inspiration Machines to use Ingenuity Overload Bing's ingenious ideas allow him to possess more Traits. In addition to Base Traits, an additional Trait can be selected at each level threshold. +5 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "+1 Max Spell Burst Gains 2 Inspiration Machines that can be powered by Whimsy Essence and Ingenuity Essence respectively. Starts with 0 Whimsy Essence and Ingenuity Essence with an upper limit of 100. Restores 20 Whimsy Essence per second When Whimsy Essence reaches 100, dealing Spell Damage to an enemy causes Inspiration Machines to use a Whimsy Explosion , inflicting Whimsy Signal on affected enemies When Ingenuity Essence reaches 100, clicking the Trait Skill causes Inspiration Machines to use Ingenuity Overload Bing's ingenious ideas allow him to possess more Traits. In addition to Base Traits, an additional Trait can be selected at each level threshold. +10 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "+1 Max Spell Burst Gains 2 Inspiration Machines that can be powered by Whimsy Essence and Ingenuity Essence respectively. Starts with 0 Whimsy Essence and Ingenuity Essence with an upper limit of 100. Restores 20 Whimsy Essence per second When Whimsy Essence reaches 100, dealing Spell Damage to an enemy causes Inspiration Machines to use a Whimsy Explosion , inflicting Whimsy Signal on affected enemies When Ingenuity Essence reaches 100, clicking the Trait Skill causes Inspiration Machines to use Ingenuity Overload Bing's ingenious ideas allow him to possess more Traits. In addition to Base Traits, an additional Trait can be selected at each level threshold. +15 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "+1 Max Spell Burst Gains 2 Inspiration Machines that can be powered by Whimsy Essence and Ingenuity Essence respectively. Starts with 0 Whimsy Essence and Ingenuity Essence with an upper limit of 100. Restores 20 Whimsy Essence per second When Whimsy Essence reaches 100, dealing Spell Damage to an enemy causes Inspiration Machines to use a Whimsy Explosion , inflicting Whimsy Signal on affected enemies When Ingenuity Essence reaches 100, clicking the Trait Skill causes Inspiration Machines to use Ingenuity Overload Bing's ingenious ideas allow him to possess more Traits. In addition to Base Traits, an additional Trait can be selected at each level threshold. +20 % additional Spell Damage Artificial Moon:"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": []
+      },
+      "advanced_traits": [
+        {
+          "name": "Inspiration Overflow",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Instantly restores 5 Whimsy Essence when consuming Spell Burst Charge, and restores 6 additional Whimsy Essence for every 3 stacks of Spell Burst Charge consumed. Interval: 1s ( +10 / +15 / +20 / +25 / +30 / +35 )% additional Hit Damage for skills cast by Spell Burst Instantly restores 80 Ingenuity Essence after entering a stage or reviving"
+          ]
+        },
+        {
+          "name": "Mind Domain",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Whimsy Explosion spawns an energy field. Gains 1 stack of Whimsy for every 0.5s staying in the energy field. Stacks up to ( 3 / 4 / 5 / 6 / 7 / 8 ) time(s)"
+          ]
+        },
+        {
+          "name": "Trouble Maker",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Loses ( 20 / 15 / 15 / 10 / 10 / 10 )% Max Life and Energy Shield when Whimsy Explosion hits yourself Effect of Whimsy Signal enhanced to: ( +50 / +50 / +65 / +65 / +80 / +85 )% additional Spell Damage taken"
+          ]
+        },
+        {
+          "name": "Brainstorm",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "After a 1s delay, Whimsy Explosion creates an additional Energy Explosion that eliminates enemies with less than ( 15 / 15 / 18 / 18 / 21 / 23 )% Life within 12m Restores ( 5 / 6 / 6 / 7 / 7 / 8 ) additional Whimsy Essence for each enemy affected by Whimsy Signal defeated"
+          ]
+        },
+        {
+          "name": "Flash of Brilliance",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Casting a Main Skill has a ( 20 / 25 / 25 / 30 / 30 / 40 )% chance to trigger Whimsy Explosion without consuming Whimsy Essence. Interval: ( 3.5 / 3.5 / 3 / 3 / 2.5 / 2.5 ) s"
+          ]
+        },
+        {
+          "name": "Super Sonic Protocol",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +60 / +65 / +70 / +75 / +80 / +85 )% Movement Speed when casting Ingenuity Overload . The bonus falls off to 0 within 4s"
+          ]
+        },
+        {
+          "name": "Over-Shield Module",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "- ( 50 / 52.5 / 55 / 57.5 / 60 / 62.5 )% additional damage taken when casting Ingenuity Overload for 1s"
+          ]
+        },
+        {
+          "name": "Law of Ingenuity",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Ingenuity Overload has a ( 20 / 25 / 30 / 35 / 40 / 45 )% chance to not consume Ingenuity Essence"
+          ]
+        },
+        {
+          "name": "Ingenious Chaos Principle",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +4 / +6 / +8 / +10 / +12 / +14 )% Ingenuity Essence restoration per Max Spell Burst"
+          ]
+        },
+        {
+          "name": "Hyper-Resonance Hypothesis",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "When casting Ingenuity Overload , gains Buff Effect: ( +15 / +19 / +23 / +27 / +31 / +35 )% additional Spell Burst Charge Speed for 10s"
+          ]
+        },
+        {
+          "name": "Contingency Inspiration Delivery",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Summons 3 Contingency Inspiration Machines when casting Ingenuity Overload . Their Skill Interval: ( 0.9 / 0.8 / 0.7 / 0.6 / 0.5 / 0.4 ) s"
+          ]
+        }
+      ],
+      "max_level": 15,
+      "glossary": {
+        "756": {
+          "name": "Spell Burst",
+          "description": "Automatically uses a Spell Skill a certain number of times.When Spell Burst is fully charged, the next Spell Skill used will activate Spell Burst, which will consume all stacks charged and automatically use the Spell Skill the same number of times.Skills that have a cooldown, Triggered Skills, Sentry Skills, Channeled Skills, and Combo Skills cannot activate Spell Burst."
+        },
+        "80034": {
+          "name": "Whimsy Explosion",
+          "description": "Fires a projectile that creates an energy explosion on hit, consuming 100 Whimsy Essence while restoring 25 Ingenuity Essence"
+        },
+        "80035": {
+          "name": "Whimsy Signal",
+          "description": "+20% additional Spell Damage taken for 5s"
+        },
+        "80036": {
+          "name": "Ingenuity Overload",
+          "description": "Triggers your Main Skill once immediately (this skill must be able to activate Spell Burst). +200% additional Max Spell Burst for the skill this time and immediately charges it to the max. Consumes 100 Ingenuity Essence"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "80038": {
+          "name": "Whimsy",
+          "description": "+5% additional Spell Damage (multiplies) for 10s"
+        },
+        "80037": {
+          "name": "Contingency Inspiration Machine",
+          "description": "Your Main Skill is automatically cast, and the Base Cast Frequency is equal to 100% of Cast Speed. Unable to move for 5s"
+        }
+      }
+    },
+    {
+      "trait_id": "flame_of_pleasure",
+      "hero": "Gemma",
+      "variant_name": "Flame of Pleasure",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Click the Trait Skill to unleash Purgatory . Purgatory has an initial radius of 8 m, lasts for 5 s, and has a cooldown of 8 s Purgatory's upper limit becomes 1 . Purgatory follows the player while it is active Attempts to auto-cast Purgatory when you are not in Purgatory and enemies are present within 15m. Interval: 1s +45 % additional damage taken by enemies within the range of Purgatory"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Click the Trait Skill to unleash Purgatory . Purgatory has an initial radius of 8 m, lasts for 5 s, and has a cooldown of 8 s Purgatory's upper limit becomes 1 . Purgatory follows the player while it is active Attempts to auto-cast Purgatory when you are not in Purgatory and enemies are present within 15m. Interval: 1s +52 % additional damage taken by enemies within the range of Purgatory"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Click the Trait Skill to unleash Purgatory . Purgatory has an initial radius of 8 m, lasts for 5 s, and has a cooldown of 8 s Purgatory's upper limit becomes 1 . Purgatory follows the player while it is active Attempts to auto-cast Purgatory when you are not in Purgatory and enemies are present within 15m. Interval: 1s +60 % additional damage taken by enemies within the range of Purgatory"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Click the Trait Skill to unleash Purgatory . Purgatory has an initial radius of 8 m, lasts for 5 s, and has a cooldown of 8 s Purgatory's upper limit becomes 1 . Purgatory follows the player while it is active Attempts to auto-cast Purgatory when you are not in Purgatory and enemies are present within 15m. Interval: 1s +68 % additional damage taken by enemies within the range of Purgatory"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Click the Trait Skill to unleash Purgatory . Purgatory has an initial radius of 8 m, lasts for 5 s, and has a cooldown of 8 s Purgatory's upper limit becomes 1 . Purgatory follows the player while it is active Attempts to auto-cast Purgatory when you are not in Purgatory and enemies are present within 15m. Interval: 1s +76 % additional damage taken by enemies within the range of Purgatory"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: Converts 30 % of Cold and Lightning Damage taken to Fire Damage"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Groaning Echo",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+1 Max Purgatory Charges ( +1 / 1.25 / 1.5 / 1.75 / +2 ) s Purgatory Duration ( +40 / +55 / +70 / +85 / +100 )% Purgatory Skill Area"
+          ]
+        },
+        {
+          "name": "Flames of Desire",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Eliminates enemies with less than ( 6 / 7 / 8 / 9 / 10 )% Life within the range of Purgatory Restores ( 1 / 1.25 / 1.5 / 1.75 / 2 )% of Max Life and Energy Shield when defeating enemies within the range of Purgatory"
+          ]
+        },
+        {
+          "name": "Infernal Damnation",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every second Purgatory is active, ( +6 / +7 / +8 / +9 / +10 )% additional damage and Minion Damage until Purgatory is lost or a new Purgatory is cast"
+          ]
+        },
+        {
+          "name": "Banquet of Bliss",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "-30 % additional damage taken by enemies within ( 4 / 3 / 2 / 1 / 1 ) m Enemies within range of Purgatory are cursed by Lv. ( 10 / 15 / 20 / 30 / 40 ) Scorch You can cast 1 additional Curses"
+          ]
+        },
+        {
+          "name": "Dress Licker",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Converts 20 % of Physical Damage taken to Fire Damage Converts 100 % of Physical Damage taken by enemies within the range of Purgatory to Fire Damage ( +30 / +35 / +40 / +45 / +50 )% additional damage taken by enemies within the range of Purgatory +30 % additional Fire Damage against enemies within the range of Purgatory"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "675": {
+          "name": "Purgatory",
+          "description": "Additionally increases the damage taken by enemies within the area of Purgatory"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "336": {
+          "name": "Scorch",
+          "description": "Curse Skill. Increases additional Fire Damage taken and chance to be Ignited"
+        }
+      }
+    },
+    {
+      "trait_id": "frostbitten_heart",
+      "hero": "Gemma",
+      "variant_name": "Frostbitten Heart",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When dealing Cold Damage, triggers Cold Pulse at the enemy's location. Interval: 4 s Inflicts Frostbite when Cold Pulse hits an enemy +20 % additional Cold Damage for you and your Minions for 6 s when Cold Pulse hits an enemy"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When dealing Cold Damage, triggers Cold Pulse at the enemy's location. Interval: 4 s Inflicts Frostbite when Cold Pulse hits an enemy +26 % additional Cold Damage for you and your Minions for 6 s when Cold Pulse hits an enemy"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When dealing Cold Damage, triggers Cold Pulse at the enemy's location. Interval: 4 s Inflicts Frostbite when Cold Pulse hits an enemy +32 % additional Cold Damage for you and your Minions for 6 s when Cold Pulse hits an enemy"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When dealing Cold Damage, triggers Cold Pulse at the enemy's location. Interval: 4 s Inflicts Frostbite when Cold Pulse hits an enemy +38 % additional Cold Damage for you and your Minions for 6 s when Cold Pulse hits an enemy"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When dealing Cold Damage, triggers Cold Pulse at the enemy's location. Interval: 4 s Inflicts Frostbite when Cold Pulse hits an enemy +44 % additional Cold Damage for you and your Minions for 6 s when Cold Pulse hits an enemy"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +10 Max Frostbite Rating and +50 % additional Cold Pulse Skill Area"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Deepfreeze",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "Frostbite Rating can exceed its upper limit, up to ( 150 / 150 / 200 / 200 / 200 ) ( +25 / +40 / +55 / +65 / +80 )% Frostbite Effect +10 % additional Cold Damage for you and your Minions"
+          ]
+        },
+        {
+          "name": "Dance of Frost",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "-2 s Cold Pulse Interval ( +8 / +10 / +12 / +15 / +18 )% additional Cold Damage taken by the enemy for each time it has been hit with Cold Pulse recently. Lasts for 8 seconds and stacks up to 4 times"
+          ]
+        },
+        {
+          "name": "Frigid Infusion",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( -20 / -25 / -35 / -40 / -45 )% Cold Resistance for 6 s when Cold Pulse hits an enemy +100 % additional Cold Pulse Skill Area"
+          ]
+        },
+        {
+          "name": "Blooming Frost Flower",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Upon inflicting Frostbite, additionally casts Cold Pulse at the Frostbitten target once. Interval: 2s for the same target ( +35 / +45 / +55 / +65 / +75 ) to Max Frostbite Rating"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "604": {
+          "name": "Cold Pulse",
+          "description": "A Cold Energy Pulse spreads from the target, dealing Cold Spell Damage. Base Interval: 4s.Skill Tags: Spell, Cold, Elemental, Area"
+        },
+        "735": {
+          "name": "Frostbite",
+          "description": "Frostbite is an Ailment that may be triggered on Cold Damage hits. Frostbitten enemies -10% Attack, Cast, and Movement Speed. Base Frostbite Rating: 10. For every 1 Frostbite Rating, +1% additional Cold Damage taken. The enemy will be Frozen once they have more than 100 Frostbite Rating."
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "736": {
+          "name": "Frostbite",
+          "description": "Enemies are inflicted with a fixed amount of Frostbite Rating when they are Frostbitten. This can be increased by raising Max Frostbite Rating. The Max Frostbite Rating is 120."
+        },
+        "80050": {
+          "name": "Condensed Frost",
+          "description": "+0.35% additional Cold Damage taken for each point of Frostbite Rating exceeding 120, up to +28%-10% additional Attack and Cast Speed to enemies (not affected by Condensed Frost)"
+        }
+      }
+    },
+    {
+      "trait_id": "growing_breeze",
+      "hero": "Iris",
+      "variant_name": "Growing Breeze",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Grants 4 stack(s) of Nourishment to all Spirit Magi when using Trait Skills. Cooldown: 5 s Within 1 s of Spirit Magi gaining Nourishment , if there are no enemies within 5 m, +70 % Movement Speed When a Spirit Magus casts a skill, +30 % chance for it to lose 1 stack of Nourishment For every stack of Nourishment a Spirit Magus has, when it uses a skill, +8 % chance for it to lose a stack of Nourishment Nourishment : When using a skill, +30 % additional damage dealt by this skill. Lasts 15 s and stacks up to 10 time(s). 100 % of your Empower Skill Effect bonus is also applied to Spirit Magi's Nourishment"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Grants 4 stack(s) of Nourishment to all Spirit Magi when using Trait Skills. Cooldown: 5 s Within 1 s of Spirit Magi gaining Nourishment , if there are no enemies within 5 m, +70 % Movement Speed When a Spirit Magus casts a skill, +30 % chance for it to lose 1 stack of Nourishment For every stack of Nourishment a Spirit Magus has, when it uses a skill, +8 % chance for it to lose a stack of Nourishment Nourishment : When using a skill, +30 % additional damage dealt by this skill. Lasts 15 s and stacks up to 10 time(s). 100 % of your Empower Skill Effect bonus is also applied to Spirit Magi's Nourishment +5 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Grants 4 stack(s) of Nourishment to all Spirit Magi when using Trait Skills. Cooldown: 5 s Within 1 s of Spirit Magi gaining Nourishment , if there are no enemies within 5 m, +70 % Movement Speed When a Spirit Magus casts a skill, +30 % chance for it to lose 1 stack of Nourishment For every stack of Nourishment a Spirit Magus has, when it uses a skill, +8 % chance for it to lose a stack of Nourishment Nourishment : When using a skill, +30 % additional damage dealt by this skill. Lasts 15 s and stacks up to 10 time(s). 100 % of your Empower Skill Effect bonus is also applied to Spirit Magi's Nourishment +10 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Grants 4 stack(s) of Nourishment to all Spirit Magi when using Trait Skills. Cooldown: 5 s Within 1 s of Spirit Magi gaining Nourishment , if there are no enemies within 5 m, +70 % Movement Speed When a Spirit Magus casts a skill, +30 % chance for it to lose 1 stack of Nourishment For every stack of Nourishment a Spirit Magus has, when it uses a skill, +8 % chance for it to lose a stack of Nourishment Nourishment : When using a skill, +30 % additional damage dealt by this skill. Lasts 15 s and stacks up to 10 time(s). 100 % of your Empower Skill Effect bonus is also applied to Spirit Magi's Nourishment +15 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Grants 4 stack(s) of Nourishment to all Spirit Magi when using Trait Skills. Cooldown: 5 s Within 1 s of Spirit Magi gaining Nourishment , if there are no enemies within 5 m, +70 % Movement Speed When a Spirit Magus casts a skill, +30 % chance for it to lose 1 stack of Nourishment For every stack of Nourishment a Spirit Magus has, when it uses a skill, +8 % chance for it to lose a stack of Nourishment Nourishment : When using a skill, +30 % additional damage dealt by this skill. Lasts 15 s and stacks up to 10 time(s). 100 % of your Empower Skill Effect bonus is also applied to Spirit Magi's Nourishment +20 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: Grant 1 additional stack of Nourishment to all Spirit Magi when casting a Trait Skill"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Socialite",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+1 to Max Spirit Magi In Map Max Summonable Spirit Magi of Spirit Magus Skills +1 When a Spirit Magus casts a skill, ( +15 / +12 / +8 / +4 / +2 )% chance for it to lose 1 stack of Nourishment"
+          ]
+        },
+        {
+          "name": "World Within",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every 1 % Fire, Cold, Lightning Resistance, or Erosion Resistance, or every 500 Armor, +1 % chance for the corresponding Spirit Magi to use an Enhanced Skill , up to ( +28 / +36 / +44 / +52 / +60 )%"
+          ]
+        },
+        {
+          "name": "Gentle Zephyr",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "The chance for Spirit Magi to use an Enhanced Skill is fixed at 0 % Spirit Magi do not lose Nourishment when casting non-Ultimates but do not gain Nourishment bonuses After gaining a total of 10 stacks of Nourishment , Spirit Magi enter Full Bloom for 12 s When a Spirit Magus casts the Ultimate while having Full Bloom , ( +10 / +11 / +12 / +13 / +14 )% additional Ultimate Cooldown Recovery Speed for every stack of Nourishment"
+          ]
+        },
+        {
+          "name": "Run With the Wind",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Changes the Base Trait to Holding a Trait Skill or Spirit Magus Skill to use Windrider Allows movement while channeling Windrider ( +30 / +20 / +15 / +10 / +5 )% additional damage taken while channeling Windrider"
+          ]
+        },
+        {
+          "name": "Grow With Them",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Always attempts to auto-trigger the Trait Skill, Growing Breeze ( 20 / 30 / 40 / 50 / 60 )% of the bonus applied to Origin of Spirit Magus is also applied to Spirit Magi's Nourishment"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "674": {
+          "name": "Nourishment",
+          "description": "When using a skill, +30% additional damage for that use. Lasts 15s and stacks up to 10 time(s). Effect of Nourishment enjoys Empower Skill Effect bonuses."
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "157": {
+          "name": "Enhanced Skill",
+          "description": "Chance to change the skill into a stronger Enhanced Skill when Spirit Magus uses a Base Skill. The chance can be increased, and at 100%, Spirit Magi will no longer use Base Skills and always use Enhanced Skills"
+        },
+        "671": {
+          "name": "Full Bloom",
+          "description": "Spirit Magi grow into their ultimate form, which unlocks their Ultimate that has an initial cooldown of 8s.50% of the Attack Speed bonus and additional bonus to Spirit Magi is also applied to additional Spirit Magi Attack Damage.50% of the Cast Speed bonus and additional bonus to Spirit Magi is also applied to additional Spirit Magi Spell Damage."
+        },
+        "672": {
+          "name": "Windrider",
+          "description": "A Spell Channeled Skill with a base channel interval of 0.33s and can be channeled up to 5 stack(s).At max channeled stacks, loses all channeled stacks and grants 3 stack(s) of Nourishment to Spirit Magi within 12m"
+        }
+      }
+    },
+    {
+      "trait_id": "high_court_chariot",
+      "hero": "Rosa",
+      "variant_name": "High Court Chariot",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "+30 % Attack and Spell Block Chance Restores 4 Murderous Intent per second Restores 10 Murderous Intent when Blocking When having at least 15 Murderous Intent, you can cast the Trait Skill and consume 15 Murderous Intent to create a Holy Domain centered around you and pull enemies within 8 m inside While inside the Holy Domain , +20 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "+30 % Attack and Spell Block Chance Restores 4 Murderous Intent per second Restores 10 Murderous Intent when Blocking When having at least 15 Murderous Intent, you can cast the Trait Skill and consume 15 Murderous Intent to create a Holy Domain centered around you and pull enemies within 8 m inside While inside the Holy Domain , +26 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "+30 % Attack and Spell Block Chance Restores 4 Murderous Intent per second Restores 10 Murderous Intent when Blocking When having at least 15 Murderous Intent, you can cast the Trait Skill and consume 15 Murderous Intent to create a Holy Domain centered around you and pull enemies within 8 m inside While inside the Holy Domain , +32 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "+30 % Attack and Spell Block Chance Restores 4 Murderous Intent per second Restores 10 Murderous Intent when Blocking When having at least 15 Murderous Intent, you can cast the Trait Skill and consume 15 Murderous Intent to create a Holy Domain centered around you and pull enemies within 8 m inside While inside the Holy Domain , +38 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "+30 % Attack and Spell Block Chance Restores 4 Murderous Intent per second Restores 10 Murderous Intent when Blocking When having at least 15 Murderous Intent, you can cast the Trait Skill and consume 15 Murderous Intent to create a Holy Domain centered around you and pull enemies within 8 m inside While inside the Holy Domain , +44 % additional damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: For every 10 Murderous Intent you currently have, +2 % Holy Domain radius and +1 % Attack and Spell Block Chance"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Unbreakable Stand",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +7 / +8 / +9 / 9.5 / +10 )% additional damage for each enemy in the Holy Domain , up to +100%"
+          ]
+        },
+        {
+          "name": "Whirlwind Advance",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +20 / +30 / +40 / +40 / +50 )% Movement Speed for ( 4 / 5 / 6 / 8 / 8 ) s after entering or leaving the Holy Domain Restores ( 4 / 5 / 6 / 7 / 8 ) Murderous Intent upon defeating an enemy in the Holy Domain"
+          ]
+        },
+        {
+          "name": "Invulnerability",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "While inside the Holy Domain , ( +7 / +9 / +11 / +13 / +15 )% Block Ratio and Block Ratio Upper Limit ( +1 / +1 / +2 / +2 / +2 )% Murderous Intent restoration for every 1 % Block Ratio Gains a Skill Slot, in which a Support Skill or Activation Medium Support Skill can be installed to support Trait Skill Holy Domain"
+          ]
+        },
+        {
+          "name": "Divine Intervention",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every 1 Murderous Intent you currently have, ( 0.3 / 0.37 / 0.44 / 0.51 / 0.58 )% additional damage dealt to enemies in the Holy Domain and +1 % Murderous Intent restoration Gains a Skill Slot, in which a Support Skill or Activation Medium Support Skill can be installed to support Trait Skill Holy Domain"
+          ]
+        },
+        {
+          "name": "Desperation",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Trait Skills can be continuously channeled. During this time, the Holy Domain moves with the player, and no Murderous Intent is consumed while channeling. Max channeled stacks: 2 At max channeled stacks, loses all channeled stacks and casts Holy Domain again. Inflicts No Guard on all units in the Holy Domain . No Guard lasts for 8s For every 1% Block Ratio, ( 2.4 / 2.5 / 2.6 / 2.8 / 2.8 )% additional No Guard Effect for enemies and ( -0.67 / -0.8 / -1 / -1 / -1.2 )% additional No Guard Effect on you -30 % Holy Domain radius"
+          ]
+        },
+        {
+          "name": "Improvision",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "When Blocking in the Holy Domain, +20 % additional damage for 10s, up to ( +40 / +50 / +60 / +70 / +80 )%"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "659": {
+          "name": "Murderous Intent",
+          "description": "The base upper limit of Murderous Intent is 100"
+        },
+        "657": {
+          "name": "Holy Domain",
+          "description": "The Holy Domain automatically closes 1s after you leave the Holy DomainThe Holy Domain has a radius of 5m. Not affected by Skill Area bonuses"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "142": {
+          "name": "Enemy Count",
+          "description": "Each Normal or Magic monster counts as 1 monsterEach Rare monster counts as 2 monstersEach Boss counts as 5 monsters"
+        },
+        "501": {
+          "name": "Block Ratio",
+          "description": "By default, Blocking absorbs 30% damage. Increase Block Ratio to increase the damage absorption ratio."
+        },
+        "685": {
+          "name": "Block Ratio Upper Limit",
+          "description": "The Block Ratio's upper limit is 60% by default and can be increased to a maximum of 80%"
+        },
+        "698": {
+          "name": "No Guard",
+          "description": "+10% additional damage takenChanneled stacks lost increase the effect of No Guard, with the first 2 stacks lost increasing its effect by 100%, and each additional stack lost further increasing its effect by 100%"
+        }
+      }
+    },
+    {
+      "trait_id": "ice_fire_fusion",
+      "hero": "Gemma",
+      "variant_name": "Ice-Fire Fusion",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Enters Frostfire Rampage after casting Fire or Cold Skills 5 time(s) +20 % additional Fire Damage and Cold Damage during Frostfire Rampage Frostfire Rampage lasts for 5 s and has a cooldown of 10 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Enters Frostfire Rampage after casting Fire or Cold Skills 5 time(s) +23 % additional Fire Damage and Cold Damage during Frostfire Rampage Frostfire Rampage lasts for 5 s and has a cooldown of 10 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Enters Frostfire Rampage after casting Fire or Cold Skills 5 time(s) +26 % additional Fire Damage and Cold Damage during Frostfire Rampage Frostfire Rampage lasts for 5 s and has a cooldown of 10 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Enters Frostfire Rampage after casting Fire or Cold Skills 5 time(s) +30 % additional Fire Damage and Cold Damage during Frostfire Rampage Frostfire Rampage lasts for 5 s and has a cooldown of 10 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Enters Frostfire Rampage after casting Fire or Cold Skills 5 time(s) +33 % additional Fire Damage and Cold Damage during Frostfire Rampage Frostfire Rampage lasts for 5 s and has a cooldown of 10 s"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +100 % additional Cooldown Recovery Speed for Frostfire Rampage"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Ice-Fire Embrace",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "( +10 / +13 / +16 / +19 / +22 )% additional Cold Damage if you have dealt Fire Damage recently ( +10 / +13 / +16 / +19 / +22 )% additional Fire Damage if you have dealt Cold Damage recently +10 % Fire and Cold Resistance"
+          ]
+        },
+        {
+          "name": "Restless Ice-Fire",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +12 / +15 / +18 / +21 / +24 )% Elemental Penetration and +20 % Movement Speed during Frostfire Rampage ( +20 / +30 / +40 / +50 / +60 )% Frostfire Rampage Cooldown Recovery Speed"
+          ]
+        },
+        {
+          "name": "Ice-Fire Radiance",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "-50 % Frostfire Rampage Duration Regenerates 10 % Life and Mana per second when entering Frostfire Rampage. The effect gradually falls off to 0 within 3 s. ( +60 / +70 / +80 / +90 / +100 )% additional Fire Damage and Cold Damage when Frostfire Rampage ends. The effect gradually falls off to 0 within 3 s"
+          ]
+        },
+        {
+          "name": "Bone-piercing Heat",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Adds ( 30 / 36 / 42 / 48 / 54 )% of Cold Damage as Fire Damage"
+          ]
+        },
+        {
+          "name": "Ice to Blaze",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Converts 99 % of Cold Damage to Fire Damage The Fire Resistance of Frostbitten enemies is fixed at ( 15 / 10 / 5 / 0 / -5 )%"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "613": {
+          "name": "Frostfire Rampage",
+          "description": "+50% Fusion Energy effect for 5s during which Fusion Energy won't deplete. Loses all Fusion Energy when the Duration ends. Cooldown: 11s."
+        },
+        "735": {
+          "name": "Frostbite",
+          "description": "Frostbite is an Ailment that may be triggered on Cold Damage hits. Frostbitten enemies -10% Attack, Cast, and Movement Speed. Base Frostbite Rating: 10. For every 1 Frostbite Rating, +1% additional Cold Damage taken. The enemy will be Frozen once they have more than 100 Frostbite Rating."
+        }
+      }
+    },
+    {
+      "trait_id": "incarnation_of_the_gods",
+      "hero": "Thea",
+      "variant_name": "Incarnation of the Gods",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to use Divine Realm on the closest enemy for 8 s. Cooldown: 8 s +3 % additional damage for every stack of Blessing when the Divine Realm is active. Stacks up to 8 time(s) Converts all Tenacity Blessing to Agility Blessing when outside the Divine Realm Converts all Agility Blessing to Tenacity Blessing when within the Divine Realm The increase/decrease of max Tenacity Blessing stacks is also applied to Agility Blessing when you're outside of the Divine Realm . The increase/decrease of max Agility Blessing stacks is also applied to Tenacity Blessing when you're within the Divine Realm ."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to use Divine Realm on the closest enemy for 8 s. Cooldown: 8 s 3.8 % additional damage for every stack of Blessing when the Divine Realm is active. Stacks up to 8 time(s) Converts all Tenacity Blessing to Agility Blessing when outside the Divine Realm Converts all Agility Blessing to Tenacity Blessing when within the Divine Realm The increase/decrease of max Tenacity Blessing stacks is also applied to Agility Blessing when you're outside of the Divine Realm . The increase/decrease of max Agility Blessing stacks is also applied to Tenacity Blessing when you're within the Divine Realm ."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to use Divine Realm on the closest enemy for 8 s. Cooldown: 8 s 4.5 % additional damage for every stack of Blessing when the Divine Realm is active. Stacks up to 8 time(s) Converts all Tenacity Blessing to Agility Blessing when outside the Divine Realm Converts all Agility Blessing to Tenacity Blessing when within the Divine Realm The increase/decrease of max Tenacity Blessing stacks is also applied to Agility Blessing when you're outside of the Divine Realm . The increase/decrease of max Agility Blessing stacks is also applied to Tenacity Blessing when you're within the Divine Realm ."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to use Divine Realm on the closest enemy for 8 s. Cooldown: 8 s 5.3 % additional damage for every stack of Blessing when the Divine Realm is active. Stacks up to 8 time(s) Converts all Tenacity Blessing to Agility Blessing when outside the Divine Realm Converts all Agility Blessing to Tenacity Blessing when within the Divine Realm The increase/decrease of max Tenacity Blessing stacks is also applied to Agility Blessing when you're outside of the Divine Realm . The increase/decrease of max Agility Blessing stacks is also applied to Tenacity Blessing when you're within the Divine Realm ."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to use Divine Realm on the closest enemy for 8 s. Cooldown: 8 s +6 % additional damage for every stack of Blessing when the Divine Realm is active. Stacks up to 8 time(s) Converts all Tenacity Blessing to Agility Blessing when outside the Divine Realm Converts all Agility Blessing to Tenacity Blessing when within the Divine Realm The increase/decrease of max Tenacity Blessing stacks is also applied to Agility Blessing when you're outside of the Divine Realm . The increase/decrease of max Agility Blessing stacks is also applied to Tenacity Blessing when you're within the Divine Realm ."
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +1 % additional damage for every stack of Tenacity Blessing or Agility Blessing . Stacks up to 15 % time(s)"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Tenacious Divinity",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+12 % additional Divine Realm Skill Area for every stack of Tenacity Blessing . Stacks up to 8 time(s) Gains a Skill Slot, in which a Support Skill or Activation Medium Support Skill can be installed to support Trait Skill Divine Realm When Tenacity Blessing is at least at 6 stack(s), ( +20 / +26 / +32 / +35 / +38 )% additional damage. When Tenacity Blessing is at least at 10 stack(s), this effect becomes: Deals ( +7 / 7.5 / +8 / 8.5 / +9 )% additional damage to enemies at Low Life for every stack of Tenacity Blessing . Stacks up to 17 time(s)"
+          ]
+        },
+        {
+          "name": "Agile Godhood",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "-12 % additional Divine Realm Skill Area for every stack of Agility Blessing . Stacks up to 8 time(s) Gains a Skill Slot, in which a Support Skill or Activation Medium Support Skill can be installed to support Trait Skill Divine Realm When Agility Blessing is at least at 6 stack(s), ( +18 / +24 / +28 / +31 / +34 )% additional Attack and Cast Speed. When Agility Blessing is at least at 10 stack(s), this effect becomes: When at Low Life , ( 1.8 / 2.3 / 2.8 / 3.4 / +4 )% additional damage for every stack of Agility Blessing . Stacks up to 17 time(s)"
+          ]
+        },
+        {
+          "name": "Might Flow",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "0.75 % additional Attack and Cast Speed for every stack of any Blessing owned when outside the Divine Realm , up to an additional +15 % ( 0.5 / 0.8 / 1.1 / 1.4 / 1.7 )% additional damage for every stack of any Blessing owned when outside the Divine Realm , up to an additional ( +10 / +16 / +22 / +28 / +34 )% ( -1 / -1.2 / -1.4 / -1.6 / -1.8 )% additional damage taken for every stack of any blessing owned while within area of Divine Realm , up to ( -20 / -24 / -28 / -32 / -38 )%"
+          ]
+        },
+        {
+          "name": "Divine Realm Power",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "When in the Divine Realm , ( +20 / +26 / +32 / +38 / +45 )% additional damage to enemies in the Divine Realm ( +29 / +40 / +52 / +58 / +65 )% Attack and Cast Speed when outside the Divine Realm while the Divine Realm is active When defeating an enemy outside the Divine Realm while the Divine Realm is active, +1 % Movement Speed for 30 s. Stacks up to 20 time(s) When there are no enemies in the Divine Realm , refreshes the cooldown of Divine Realm"
+          ]
+        },
+        {
+          "name": "Divine Spirit",
+          "unlock_level": 75,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "( 1.8 / 1.9 / +2 / 2.15 / 2.3 )% damage for every 3 % Missing Life when outside the Divine Realm ( +1 / 0.9 / 0.8 / 0.7 / 0.6 )% additional damage taken for every 3 % of Missing Life when outside the Divine Realm"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "737": {
+          "name": "Focus Blessing",
+          "description": "Every stack of Focus Blessing grants +5% additional damage. Initial max stacks: 4"
+        },
+        "716": {
+          "name": "Agility Blessing",
+          "description": "Every stack of Agility Blessing grants +4% Attack and Cast Speed and +2% additional damage. Initial max stacks: 4"
+        },
+        "719": {
+          "name": "Tenacity Blessing",
+          "description": "Every stack of Tenacity Blessing grants an additional 4% damage reduction (multiplies). Initial max stacks: 4."
+        },
+        "643": {
+          "name": "Divine Realm",
+          "description": "Converts all Tenacity Blessings to Agility Blessings and deals additional damage to Full Life enemies when outside the Divine RealmConverts all Agility Blessings to Tenacity Blessings and deals additional damage to Low Life enemies when within the Divine Realm"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "121": {
+          "name": "Low Life",
+          "description": "When current Life is under 35% of Max Life"
+        }
+      }
+    },
+    {
+      "trait_id": "lethal_flash",
+      "hero": "Carino",
+      "variant_name": "Lethal Flash",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Projectile Skills consume ammo +12 initial magazine capacity Always auto-reload ammo, reloading 2 ammo each time. Reload Time: 0.6 s Projectile Skills can be cast while reloading, but will interrupt the reloading process +50 % additional damage when consuming ammo Projectile Quantity +2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Projectile Skills consume ammo +12 initial magazine capacity Always auto-reload ammo, reloading 2 ammo each time. Reload Time: 0.6 s Projectile Skills can be cast while reloading, but will interrupt the reloading process +57 % additional damage when consuming ammo Projectile Quantity +2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Projectile Skills consume ammo +12 initial magazine capacity Always auto-reload ammo, reloading 2 ammo each time. Reload Time: 0.6 s Projectile Skills can be cast while reloading, but will interrupt the reloading process +65 % additional damage when consuming ammo Projectile Quantity +2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Projectile Skills consume ammo +12 initial magazine capacity Always auto-reload ammo, reloading 2 ammo each time. Reload Time: 0.6 s Projectile Skills can be cast while reloading, but will interrupt the reloading process +73 % additional damage when consuming ammo Projectile Quantity +2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Projectile Skills consume ammo +12 initial magazine capacity Always auto-reload ammo, reloading 2 ammo each time. Reload Time: 0.6 s Projectile Skills can be cast while reloading, but will interrupt the reloading process +82 % additional damage when consuming ammo Projectile Quantity +2"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: Main Skill is supported by Lv. 1 Multiple Projectiles"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Evil Ouroboros",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "After reaching their max range, Projectiles will return and travel an additional 75 % of that distance, hitting the enemies on their path again ( -40 / -37.5 / -35 / -32.5 / -30 )% additional damage dealt by Projectile Skills"
+          ]
+        },
+        {
+          "name": "Impending Doom",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "-80 % Projectile Range ( +46 / +53 / +60 / +69 / +77 )% additional Ranged Attack Horizontal Projectile Damage Gains a stack of Fortitude when casting a Projectile Skill"
+          ]
+        },
+        {
+          "name": "Shadow Magazine",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "( +2 / 2.5 / +3 / 3.5 / +4 )% Reload Speed for every 1% Projectile Speed +1 to Reload Quantity for every 70 % Projectile Speed ( +30 / +36 / +42 / +49 / +56 )% additional damage when consuming ammo"
+          ]
+        },
+        {
+          "name": "Weightless Step",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Projectiles can Jump off the ground ( +20 / +25 / +31 / +36 / +41 )% additional damage dealt by Projectile Skills The max flying range of Projectiles after Jumping is fixed at 9 m +2 Jumps"
+          ]
+        },
+        {
+          "name": "Born in the Breeze",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +32 / +38 / +44 / +50 / +56 )% additional Projectile Damage while having Deflection ( -24 / -28 / -31 / -34 / -37 )% additional damage taken when without Deflection"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "10000107": {
+          "name": "Fortitude",
+          "description": "Each stack of Fortitude additionally reduces Hit Damage taken by 5% for 10s.Base Max Fortitude Stacks: 3."
+        },
+        "622": {
+          "name": "Reload",
+          "description": "Spends some time to fully reload the magazine. Unable to use Projectile Skills while reloading"
+        },
+        "107": {
+          "name": "Jump",
+          "description": "Upon hitting a target, a horizontal Projectile or Chain Skill jumps to another target nearby"
+        },
+        "159": {
+          "name": "Deflection",
+          "description": "Reduces additional damage taken by 8% for every stack of Deflection, up to 3 stack(s). When hit, consumes all stacks of Deflection"
+        }
+      }
+    },
+    {
+      "trait_id": "licorice_note",
+      "hero": "Sage",
+      "variant_name": "Licorice Note",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "The Restoration Effect from Elixir Skills cannot be removed Obtain a Basic Scent Bottle, which can be used to concoct Elixir Skills. The second Active Skill slot is treated as the Basic Scent Bottle Elixir Skills from Basic Scent Bottles can be equipped with 2 Ingredients to gain their corresponding additional Base Effects"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "The Restoration Effect from Elixir Skills cannot be removed Obtain a Basic Scent Bottle, which can be used to concoct Elixir Skills. The second Active Skill slot is treated as the Basic Scent Bottle Elixir Skills from Basic Scent Bottles can be equipped with 2 Ingredients to gain their corresponding additional Base Effects"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "The Restoration Effect from Elixir Skills cannot be removed Obtain a Basic Scent Bottle, which can be used to concoct Elixir Skills. The second Active Skill slot is treated as the Basic Scent Bottle Elixir Skills from Basic Scent Bottles can be equipped with 2 Ingredients to gain their corresponding additional Base Effects"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "The Restoration Effect from Elixir Skills cannot be removed Obtain a Basic Scent Bottle, which can be used to concoct Elixir Skills. The second Active Skill slot is treated as the Basic Scent Bottle Elixir Skills from Basic Scent Bottles can be equipped with 2 Ingredients to gain their corresponding additional Base Effects"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "The Restoration Effect from Elixir Skills cannot be removed Obtain a Basic Scent Bottle, which can be used to concoct Elixir Skills. The second Active Skill slot is treated as the Basic Scent Bottle Elixir Skills from Basic Scent Bottles can be equipped with 2 Ingredients to gain their corresponding additional Base Effects"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +12 % additional Elixir Skill Effect for the Elixir Skills from any Scent Bottle"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Pungent Stimulant Salt",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "Elixir Skills from any Scent Bottle can be equipped with 1 additional Ingredient to gain the corresponding Charge restoration Every ( 8 / 7 / 6 / 5 / 4 ) s, randomly prepares an installed Empower or Curse Skill while an Elixir Skill of the Basic Scent Bottle is active ( 200 / 230 / 260 / 290 / 320 )% of the Skill Effect Bonus applied to Elixir Skills of the Basic Scent Bottle is also applied to its prepared Empower Skills, up to ( +70 / +100 / +130 / +160 / +190 )% ( 200 / 230 / 260 / 290 / 320 )% of the Skill Effect Bonus applied to Elixir Skills of the Basic Scent Bottle is also applied to its prepared Curse Skills, up to ( +50 / +70 / +90 / +110 / +130 )%"
+          ]
+        },
+        {
+          "name": "Elixir of Immortality",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Every 3 recent excess Life Restoration is converted to 2 Temporary Life, up to ( 20 / 25 / 30 / 40 / 50 )% of Base Max Life Every 3 recent excess Mana restoration is converted to 2 Temporary Mana, up to ( 20 / 25 / 30 / 40 / 50 )% of Base Max Mana For every Temporary Life equal to 5% of Base Max Life or Temporary Mana equal to Base Max Mana, ( +1 / 1.5 / +2 / 2.5 / +3 )% additional damage, up to ( +10 / +15 / +20 / +25 / +30 )%"
+          ]
+        },
+        {
+          "name": "Scent of Ambition",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +24 / +27 / +30 / +33 / +36 )% additional Elixir Skill Effect after casting ( 6 / 6 / 5 / 4 / 3 ) Elixir Skill(s). Lasts for 4 s -30 % additional Elixir Skill Effect Duration"
+          ]
+        },
+        {
+          "name": "Everlasting Nectar",
+          "unlock_level": 75,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "( 100 / 120 / 140 / 160 / 180 )% of the bonus applied to Max Life or Max Mana is also applied to Elixir Skill Effect, up to ( +60 / +70 / +80 / +90 / +100 )%"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "138": {
+          "name": "Reaping",
+          "description": "Deals a certain amount of True Damage to the target, equivalent to the damage from all DoT effects over a certain period of time"
+        },
+        "139": {
+          "name": "Injury Buffer",
+          "description": "Delays a portion of Hit Damage taken in the next 4s."
+        },
+        "120": {
+          "name": "Elemental",
+          "description": "Fire, Cold, and Lightning"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        }
+      }
+    },
+    {
+      "trait_id": "lightning_shadow",
+      "hero": "Erika",
+      "variant_name": "Lightning Shadow",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Start moving or click a Trait Skill to gain 1 Electrify stack for every 3 m of movement made within the next 1 s, up to 3 stack(s). Lasts for 10 s. Electrify is affected by Skill Effect Duration Click the Trait Skill again to reset the effect When Electrify is owned, triggers Feline Figure on up to 3 enemy(ies) within 10 m. Cooldown: 0.4 s. Can only be triggered once on each enemy For every 1 stack(s) of Electrify , Feline Figure inflicts 1 stack(s) of Numbed on enemies within the area +18 % additional Numbed Effect"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Start moving or click a Trait Skill to gain 1 Electrify stack for every 3 m of movement made within the next 1 s, up to 3 stack(s). Lasts for 10 s. Electrify is affected by Skill Effect Duration Click the Trait Skill again to reset the effect When Electrify is owned, triggers Feline Figure on up to 3 enemy(ies) within 10 m. Cooldown: 0.4 s. Can only be triggered once on each enemy For every 1 stack(s) of Electrify , Feline Figure inflicts 1 stack(s) of Numbed on enemies within the area +30 % additional Numbed Effect"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Start moving or click a Trait Skill to gain 1 Electrify stack for every 3 m of movement made within the next 1 s, up to 3 stack(s). Lasts for 10 s. Electrify is affected by Skill Effect Duration Click the Trait Skill again to reset the effect When Electrify is owned, triggers Feline Figure on up to 3 enemy(ies) within 10 m. Cooldown: 0.4 s. Can only be triggered once on each enemy For every 1 stack(s) of Electrify , Feline Figure inflicts 1 stack(s) of Numbed on enemies within the area +43 % additional Numbed Effect"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Start moving or click a Trait Skill to gain 1 Electrify stack for every 3 m of movement made within the next 1 s, up to 3 stack(s). Lasts for 10 s. Electrify is affected by Skill Effect Duration Click the Trait Skill again to reset the effect When Electrify is owned, triggers Feline Figure on up to 3 enemy(ies) within 10 m. Cooldown: 0.4 s. Can only be triggered once on each enemy For every 1 stack(s) of Electrify , Feline Figure inflicts 1 stack(s) of Numbed on enemies within the area +55 % additional Numbed Effect"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Start moving or click a Trait Skill to gain 1 Electrify stack for every 3 m of movement made within the next 1 s, up to 3 stack(s). Lasts for 10 s. Electrify is affected by Skill Effect Duration Click the Trait Skill again to reset the effect When Electrify is owned, triggers Feline Figure on up to 3 enemy(ies) within 10 m. Cooldown: 0.4 s. Can only be triggered once on each enemy For every 1 stack(s) of Electrify , Feline Figure inflicts 1 stack(s) of Numbed on enemies within the area +68 % additional Numbed Effect"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +15 % Movement Speed if you have inflicted Numbed recently"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Dazzling Lightning",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +2 / +2 / +3 / +3 / +4 ) to Max Electrify Stacks ( +3 / +5 / +5 / +7 / +7 )% Movement Speed for every stack of Electrify"
+          ]
+        },
+        {
+          "name": "Electroplated Motif",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "The Duration of the Numbed inflicted by Feline Figure is doubled ( +20 / +25 / +30 / +35 / +40 )% additional Numbed Effect"
+          ]
+        },
+        {
+          "name": "Wild Lightning",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "0.4 % additional Numbed Effect for every +1 % Movement Speed, up to ( +80 / +90 / +100 / +110 / +120 )%"
+          ]
+        },
+        {
+          "name": "Swift as Lightning",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every 4 stack(s) of Numbed inflicted on the enemy, +2 % Movement Speed, ( +1 / 1.5 / +2 / 2.5 / +3 )% additional damage, and ( +3 / +4 / +5 / +6 / +7 )% Feline Figure Area. Stacks up to 10 time(s). Lasts for 10 s"
+          ]
+        },
+        {
+          "name": "Charging Equation",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Feline Figure is triggered when inflicting Numbed on enemies. Cooldown for each enemy: 1 s When Feline Figure inflicts Numbed , for every stack of Numbed enemies have, ( +3 / 3.5 / +4 / 4.5 / +5 )% additional Numbed Effect for Erika. Stacks up to 10 time(s). This is refreshed when Feline Figure is cast again"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "690": {
+          "name": "Electrify",
+          "description": "For every stack of Electrify, Feline Figure inflicts 1 stack of Numbed on enemies within the area"
+        },
+        "637": {
+          "name": "Feline Figure",
+          "description": "Inflicts Numbed stacks equal to the number of Electrify stacks on enemies within the areaSkill Tags: Spell, Lightning"
+        },
+        "762": {
+          "name": "Numbed",
+          "description": "An Elemental Ailment that has a chance to be inflicted when Lightning Damage hits its target.When hitting a Numbed enemy, Lightning Damage inflicts 1 stack of Numbed for every 10% of the sum of Max Energy Shield and Life dealt by Lightning Damage. This threshold can be lowered or raised, but the minimum is 1%.The default duration of Numbed is 2s, and the duration of each stack is calculated independently.Max Numbed stacks: 10. Each stack of Numbed increases the Lightning Damage taken by an additional +5%."
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        }
+      }
+    },
+    {
+      "trait_id": "order_calling",
+      "hero": "Moto",
+      "variant_name": "Order Calling",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Within 4 s after a Summon Skill is cast, all your Minions will gain Overload . Cooldown: 12 s Overload grants +60 % additional damage The Effect and Duration of Overload are refreshed when a Minion that already has Overload gains Overload again \u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u81f3 0.1 \u79d2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Within 4 s after a Summon Skill is cast, all your Minions will gain Overload . Cooldown: 12 s Overload grants +60 % additional damage The Effect and Duration of Overload are refreshed when a Minion that already has Overload gains Overload again +5 % additional damage when Minions have Overload \u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u81f3 0.1 \u79d2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Within 4 s after a Summon Skill is cast, all your Minions will gain Overload . Cooldown: 12 s Overload grants +60 % additional damage The Effect and Duration of Overload are refreshed when a Minion that already has Overload gains Overload again +10 % additional damage when Minions have Overload \u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u81f3 0.1 \u79d2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Within 4 s after a Summon Skill is cast, all your Minions will gain Overload . Cooldown: 12 s Overload grants +60 % additional damage The Effect and Duration of Overload are refreshed when a Minion that already has Overload gains Overload again +16 % additional damage when Minions have Overload \u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u81f3 0.1 \u79d2"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Within 4 s after a Summon Skill is cast, all your Minions will gain Overload . Cooldown: 12 s Overload grants +60 % additional damage The Effect and Duration of Overload are refreshed when a Minion that already has Overload gains Overload again +22 % additional damage when Minions have Overload"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +30 % Overload Duration \u6a21\u7ec4\u5316\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u81f3 0.1 \u79d2"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Veteran",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +80 / +105 / +130 / +155 / +180 )% additional Overload Duration Minions +20 % Attack and Cast Speed when they have Overload"
+          ]
+        },
+        {
+          "name": "All In",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +80 / +90 / +100 / +120 / +140 )% additional Overload Effect when a Minion gains Overload for the first time"
+          ]
+        },
+        {
+          "name": "Self-Reconstruct",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Minions with Overload regenerate 1 % Max Life per second for every 5 Command owned ( +25 / +32 / +40 / +50 / +60 )% additional damage when Minions have Overload and are not at Low Life"
+          ]
+        },
+        {
+          "name": "Overload Program",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Gains Overload for 6 s after a Synthetic Troop Minion is spawned Synthetic Troop Minions will be defeated 6 s after spawning ( +10 / +15 / +20 / +25 / +30 )% additional Overload Effect"
+          ]
+        },
+        {
+          "name": "Charge Forward",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +9 / +11 / +13 / +15 / +18 )% Overload Effect for every 5 Command owned, up to ( +90 / +110 / +130 / +150 / +180 )%"
+          ]
+        },
+        {
+          "name": "Radiation Field",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+100 % Aura Area +10 % additional Attack and Cast Speed when you or your Minions are affected by an Aura ( +3 / +4 / +6 / +7 / +8 )% additional damage for every Aura affecting you and your Minions"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "627": {
+          "name": "Overload",
+          "description": "Provides buffs for your MinionsBonuses that apply to Empower Skill Effects are also applied to Overload EffectBonuses that apply to Skill Effect Duration are also applied to Overload Duration"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "750": {
+          "name": "Command",
+          "description": "Every point of Command will grant Synthetic Troop Minions +3% additional damage, +-2% additional damage taken, ++2% Movement Speed, and a bigger Tracking Area.The lowest Command is -100 while the highest is 100. When Command is not 0, 13 point(s) will be returned (reduced/granted) every second until it becomes 0. For every 10 Command increased, +7 additional points will be returned.Synthetic Troop Minions' Duration will not reduce when Command is a positive value."
+        },
+        "121": {
+          "name": "Low Life",
+          "description": "When current Life is under 35% of Max Life"
+        }
+      }
+    },
+    {
+      "trait_id": "ranger_of_glory",
+      "hero": "Carino",
+      "variant_name": "Ranger of Glory",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Projectile Skills consume ammo +35 % additional Projectile Damage when consuming ammo +6 initial magazine capacity Click the Trait Skill to reload the magazine. Base reloading time is 0.6 s Projectile Skills are unavailable while reloading 150 % of the max bonus to Attack Speed or Cast Speed is also applied to Reload Speed While reloading , +45 % Movement Speed Always auto- reloading ammo; Reloading can be interrupted."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Projectile Skills consume ammo +42 % additional Projectile Damage when consuming ammo +6 initial magazine capacity Click the Trait Skill to reload the magazine. Base reloading time is 0.6 s Projectile Skills are unavailable while reloading 150 % of the max bonus to Attack Speed or Cast Speed is also applied to Reload Speed While reloading , +45 % Movement Speed Always auto- reloading ammo; Reloading can be interrupted."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Projectile Skills consume ammo +49 % additional Projectile Damage when consuming ammo +6 initial magazine capacity Click the Trait Skill to reload the magazine. Base reloading time is 0.6 s Projectile Skills are unavailable while reloading 150 % of the max bonus to Attack Speed or Cast Speed is also applied to Reload Speed While reloading , +45 % Movement Speed Always auto- reloading ammo; Reloading can be interrupted."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Projectile Skills consume ammo +56 % additional Projectile Damage when consuming ammo +6 initial magazine capacity Click the Trait Skill to reload the magazine. Base reloading time is 0.6 s Projectile Skills are unavailable while reloading 150 % of the max bonus to Attack Speed or Cast Speed is also applied to Reload Speed While reloading , +45 % Movement Speed Always auto- reloading ammo; Reloading can be interrupted."
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Projectile Skills consume ammo +63 % additional Projectile Damage when consuming ammo +6 initial magazine capacity Click the Trait Skill to reload the magazine. Base reloading time is 0.6 s Projectile Skills are unavailable while reloading 150 % of the max bonus to Attack Speed or Cast Speed is also applied to Reload Speed While reloading , +45 % Movement Speed Always auto- reloading ammo; Reloading can be interrupted."
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +20 % chance to Reload Special Ammo . +20 % Magic Shot Duration"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Ammo Expert",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+2 Special Ammo slot(s) +30 % chance to reload special ammo ( +15 / +23 / +31 / +39 / +47 )% additional damage dealt by this Projectile Skill if a Special Ammo is consumed 50 % chance to gain Magic Shot for 4 s when consuming a Special Ammo . Interval: 8 s."
+          ]
+        },
+        {
+          "name": "Landslide",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "While Magic Shot is active, using or triggering Projectile Skills consume all ammo in the magazine ( +5 / +8 / +11 / +14 / +17 )% additional damage for every Special Ammo consumed"
+          ]
+        },
+        {
+          "name": "Crushing Gale Trigger",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( 15 / 19 / 23 / 27 / 31 )% of the increase/decrease on Attack and Cast Speed is also applied to reload chance of special ammo Reload Special Ammo slots in order"
+          ]
+        },
+        {
+          "name": "Never Stopping",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "While Magic Shot is active, for every Special Ammo consumed, extends Magic Shot's Duration by ( 0.04 / 0.05 / 0.06 / 0.08 / 0.1 ) s"
+          ]
+        },
+        {
+          "name": "Well Prepared",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+1 Special Ammo slot(s). These slots can be installed with Projectile-exclusive Magnificent and Noble Support Skills ( +15 / +20 / +25 / +30 / +35 )% additional damage dealt by this Projectile Skill if a Special Ammo is consumed"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "622": {
+          "name": "Reload",
+          "description": "Spends some time to fully reload the magazine. Unable to use Projectile Skills while reloading"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "618": {
+          "name": "Special Ammo",
+          "description": "Adds a Support Skill to the bottom left corner of the Hero Trait menu. There is a chance to reload the special ammo of the added Support Skill.The special ammo will be successfully consumed and effects of the added Support Skill will be granted if the added Support Skill is not on the skill panel and able to support Projectile Skills."
+        },
+        "623": {
+          "name": "Magic Shot",
+          "description": "While Magic Shot is active, each Projectile Skill used or triggered consumes 3 ammo. When multiple special ammo is consumed, Projectile Skills will gain corresponding effects of the Support Skills. As long as magic shot is on, reloading is instant."
+        }
+      }
+    },
+    {
+      "trait_id": "seething_silhouette",
+      "hero": "Rehan",
+      "variant_name": "Seething Silhouette",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage +1 % Attack Speed for every 5 Rage Enter Berserk automatically at Max Rage +20 % Movement Speed while Berserk is active Gains bonuses twice the Max Rage while Berserk is active While Berserk is active, 10 Rage is consumed per second Casting Melee Attack Skills no longer generates Rage and consumes 10 points of Rage instead while Berserk is active. The mode ends when Rage runs out +45 % Skill Area while Berserk is active +20 % additional damage while Berserk is active"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage +1 % Attack Speed for every 5 Rage Enter Berserk automatically at Max Rage +20 % Movement Speed while Berserk is active Gains bonuses twice the Max Rage while Berserk is active While Berserk is active, 10 Rage is consumed per second Casting Melee Attack Skills no longer generates Rage and consumes 10 points of Rage instead while Berserk is active. The mode ends when Rage runs out +45 % Skill Area while Berserk is active +26 % additional damage while Berserk is active"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage +1 % Attack Speed for every 5 Rage Enter Berserk automatically at Max Rage +20 % Movement Speed while Berserk is active Gains bonuses twice the Max Rage while Berserk is active While Berserk is active, 10 Rage is consumed per second Casting Melee Attack Skills no longer generates Rage and consumes 10 points of Rage instead while Berserk is active. The mode ends when Rage runs out +45 % Skill Area while Berserk is active +32 % additional damage while Berserk is active"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage +1 % Attack Speed for every 5 Rage Enter Berserk automatically at Max Rage +20 % Movement Speed while Berserk is active Gains bonuses twice the Max Rage while Berserk is active While Berserk is active, 10 Rage is consumed per second Casting Melee Attack Skills no longer generates Rage and consumes 10 points of Rage instead while Berserk is active. The mode ends when Rage runs out +45 % Skill Area while Berserk is active +38 % additional damage while Berserk is active"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When not in the Berserk state, each Melee Attack Skill generates 10 Rage +1 % Attack Speed for every 5 Rage Enter Berserk automatically at Max Rage +20 % Movement Speed while Berserk is active Gains bonuses twice the Max Rage while Berserk is active While Berserk is active, 10 Rage is consumed per second Casting Melee Attack Skills no longer generates Rage and consumes 10 points of Rage instead while Berserk is active. The mode ends when Rage runs out +45 % Skill Area while Berserk is active +44 % additional damage while Berserk is active"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +1 % chance to deal Double Damage every 5 points of Rage you have"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Ritual of Offering",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Own Seething Spirit Seething Spirit will always exist and attack automatically while Berserk is active You are Disarmed while Berserk is active ( +20 / +25 / +30 / +35 / +40 )% additional Seething Spirit Damage While Berserk is active, takes Secondary Physical Damage equal to 1 % of current Life every 0.2 s. This damage is not affected by bonuses -30 % Movement Speed"
+          ]
+        },
+        {
+          "name": "Fury's Onslaught",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Own Seething Spirit When a Melee Main Skill is used while Berserk is active, Seething Spirit appears and automatically attacks for ( 1 / 1.5 / 2 / 2 / 2 ) s. Using the Melee Main Skill again will refresh the Seething Spirit's duration Rage will no longer be naturally consumed while Berserk is active. The Rage consumed by Melee Attack Skills will be halved. ( +20 / +27 / +34 / +41 / +48 )% additional damage dealt by the player"
+          ]
+        },
+        {
+          "name": "Hysteria",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Generates 1 points of Rage when taking damage equal to 3 % of the sum of Max Life and Max Energy Shield Generate 1 Rage for every 3 % Max Life consumed ( 0.3 / 0.4 / 0.5 / 0.6 / 0.7 )% additional Attack Damage for every 1 % Missing Life"
+          ]
+        },
+        {
+          "name": "Growing Anger",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Gains ( 9 / 10 / 11 / 12 / 13 ) additional Rage when Seething Spirit uses a skill. The Rage gained is doubled when Seething Spirit deals Double Damage. Interval: 0.03s"
+          ]
+        },
+        {
+          "name": "Split Form",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Life Regain no longer requires a hit to activate ( -15 / -10 / -5 / 0 / +5 )% additional Max Life ( +1 / +1 / +2 / +2 / +2 )% Rage gained for every 40 Max Life"
+          ]
+        },
+        {
+          "name": "Rage Infusion",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+5 % additional damage per 25 points of Rage gained recently. Stacks up to ( 4 / 5 / 6 / 7 / 8 ) times You will no longer be Disarmed after Berserk has been active for 5s. +40% Rage gained"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "614": {
+          "name": "Rage",
+          "description": "A Berserker exclusive energy that has a default upper limit of 100Upon reaching max Rage, Berserker enters Berserk"
+        },
+        "615": {
+          "name": "Berserk",
+          "description": "Gains bonuses twice the Max Rage while Berserk is activeBerserk expires when you run out of Rage"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "638": {
+          "name": "Seething Spirit",
+          "description": "An ancestor spirit that casts your Non-Mobility and Non-Channeled Main Melee Attack Skills when it appears"
+        },
+        "715": {
+          "name": "Disarm",
+          "description": "Deemed to be unarmed and unable to use Attack Skills when disarmed. You are not deemed to be Dual Wielding or holding a Shield when disarmed."
+        }
+      }
+    },
+    {
+      "trait_id": "sing_with_the_tide",
+      "hero": "Selena",
+      "variant_name": "Sing with the Tide",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Click the Trait Slot to switch between Bard and Loud Song In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be used In the Bard state, it is possible to move while casting Spell Channeled Skills, and -20 % additional Channeled Skill Damage In the Bard state, the Main Skill is auto channeled while moving In the Bard state, all non- instant and non-Mobility Skills will channel Bard Song instead. Bard Song loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy or reaching the maximum distance, using the corresponding skill once at the location. The bubble leaves a Tide where it bursts and at the feet of enemies it collides with, lasting for 6 s In the Loud Song state, -20 % additional Attack and Cast Speed, -20 % additional Movement Speed, and +80 % additional Tide Effect When contacting a Tide , gains the following Tide Effect: Ignore physical collisions with enemies and +15 % additional damage for 4 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Click the Trait Slot to switch between Bard and Loud Song In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be used In the Bard state, it is possible to move while casting Spell Channeled Skills, and -20 % additional Channeled Skill Damage In the Bard state, the Main Skill is auto channeled while moving In the Bard state, all non- instant and non-Mobility Skills will channel Bard Song instead. Bard Song loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy or reaching the maximum distance, using the corresponding skill once at the location. The bubble leaves a Tide where it bursts and at the feet of enemies it collides with, lasting for 6 s In the Loud Song state, -20 % additional Attack and Cast Speed, -20 % additional Movement Speed, and +80 % additional Tide Effect When contacting a Tide , gains the following Tide Effect: Ignore physical collisions with enemies and +15 % additional damage for 4 s +5 % additional damage taken by enemies on the Tide"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Click the Trait Slot to switch between Bard and Loud Song In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be used In the Bard state, it is possible to move while casting Spell Channeled Skills, and -20 % additional Channeled Skill Damage In the Bard state, the Main Skill is auto channeled while moving In the Bard state, all non- instant and non-Mobility Skills will channel Bard Song instead. Bard Song loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy or reaching the maximum distance, using the corresponding skill once at the location. The bubble leaves a Tide where it bursts and at the feet of enemies it collides with, lasting for 6 s In the Loud Song state, -20 % additional Attack and Cast Speed, -20 % additional Movement Speed, and +80 % additional Tide Effect When contacting a Tide , gains the following Tide Effect: Ignore physical collisions with enemies and +15 % additional damage for 4 s +10 % additional damage taken by enemies on the Tide"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Click the Trait Slot to switch between Bard and Loud Song In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be used In the Bard state, it is possible to move while casting Spell Channeled Skills, and -20 % additional Channeled Skill Damage In the Bard state, the Main Skill is auto channeled while moving In the Bard state, all non- instant and non-Mobility Skills will channel Bard Song instead. Bard Song loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy or reaching the maximum distance, using the corresponding skill once at the location. The bubble leaves a Tide where it bursts and at the feet of enemies it collides with, lasting for 6 s In the Loud Song state, -20 % additional Attack and Cast Speed, -20 % additional Movement Speed, and +80 % additional Tide Effect When contacting a Tide , gains the following Tide Effect: Ignore physical collisions with enemies and +15 % additional damage for 4 s +15 % additional damage taken by enemies on the Tide"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Click the Trait Slot to switch between Bard and Loud Song In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be used In the Bard state, it is possible to move while casting Spell Channeled Skills, and -20 % additional Channeled Skill Damage In the Bard state, the Main Skill is auto channeled while moving In the Bard state, all non- instant and non-Mobility Skills will channel Bard Song instead. Bard Song loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy or reaching the maximum distance, using the corresponding skill once at the location. The bubble leaves a Tide where it bursts and at the feet of enemies it collides with, lasting for 6 s In the Loud Song state, -20 % additional Attack and Cast Speed, -20 % additional Movement Speed, and +80 % additional Tide Effect When contacting a Tide , gains the following Tide Effect: Ignore physical collisions with enemies and +15 % additional damage for 4 s +20 % additional damage taken by enemies on the Tide"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +10 % Skill Area and +15 % Skill Effect Duration when on the Tide"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Undersea Ballad",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Tide 's area is no longer affected by Skill Area 100 % of the increase/decrease on Skill Area is also applied to Tide Effect, up to ( +90 / +100 / +110 / +120 / +130 )%"
+          ]
+        },
+        {
+          "name": "Wave Aria",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Tide grants an additional effect: ( +10 / +13 / +16 / +19 / +22 )% additional damage against enemies on the Tide In the Bard state, the bubble no longer leaves a Tide ; instead, you will leave a Tide along your path and at the feet of enemies you collide with. Lasts for 4 s"
+          ]
+        },
+        {
+          "name": "Sea Foam Nocturne",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every +1 max or min Channeled Stacks, ( +12 / +14 / +16 / +18 / +20 )% bubble flying speed and ( +16 / +18 / +20 / +22 / +24 )% additional Tide Effect. Stacks up to 5 time(s) Min Channeled Stacks takes effect twice on Bard Song"
+          ]
+        },
+        {
+          "name": "Idyll of the Tide",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Tide grants the following additional effects: For every 1 m moved in the Tide , ( +1 / 1.3 / 1.6 / 1.9 / 2.2 )% additional damage while in the Tide . Stacks up to 15 time(s) and lasts until Tide is completely lost After losing all Tides , automatically switch to Bard"
+          ]
+        },
+        {
+          "name": "Chantey of Sinking",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every 1 s in the Loud Song state, ( +35 / +45 / +55 / +65 / +75 )% Tide Area and ( +35 / +45 / +55 / +65 / +75 )% Tide Effect. Stacks up to 2 time(s) and lasts until you exit the Loud Song state"
+          ]
+        },
+        {
+          "name": "Murmurs of the Distant Tide",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "In the Bard state, ( -50 / -50 / -50 / -50 / -40 )% Tide Duration and ( +60 / +70 / +80 / +90 / +100 )% additional Tide Effect"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "80000": {
+          "name": "Bard",
+          "description": "In the Bard state, Attack Channeled Skills and Attack Mobility Skills cannot be usedIn the Bard state, it is possible to move while casting Spell Channeled SkillsIn the Bard state, the Main Skill is auto channeled while movingIn the Bard state, all non-instant and non-Mobility Skills will channel Bard Song instead"
+        },
+        "80001": {
+          "name": "Loud Song",
+          "description": "In the Loud Song state, -20% additional Attack and Cast Speed, -20% additional Movement Speed, and +80% additional Tide Effect"
+        },
+        "80004": {
+          "name": "Instant Skill",
+          "description": "Skills that don't have an attacking or casting action"
+        },
+        "80002": {
+          "name": "Bard Song",
+          "description": "Base channeling Interval: 0.8s.When the corresponding skill is a Spell Skill, it is affected by Cast Speed bonuses and additional bonuses.When the corresponding skill is an Attack Skill, it is affected by Weapon Attack Speed, Attack Speed bonuses, and additional bonuses.Max channeled stacks: 4. Loses all channeled stacks after reaching max stacks and casts a bubble. This bubble bursts upon making contact with an enemy, using the corresponding skill once at the location"
+        },
+        "80003": {
+          "name": "Tide",
+          "description": "While on the Tide, ignore physical collisions with enemies and +15% additional damageUp to 3 Tide(s) can be placed at the same time50% of the increase/decrease on Skill Area is also applied to Tide Area100% of the Skill Effect Duration bonus is also applied to the Tide Duration bonus"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        }
+      }
+    },
+    {
+      "trait_id": "spacetime_elapse",
+      "hero": "Youga",
+      "variant_name": "Spacetime Elapse",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Clicking the Trait Skill or dealing Damage Over Time to an enemy casts Twisted Spacetime . Interval: 2 s. Lasts for 6 s While Twisted Spacetime is active, cast Twisted Spacetime again to move it and extend its Duration by 2 Records 30 % of Damage Over Time and Reaping Damage dealt to enemies while Twisted Spacetime is active After moving, Twisted Spacetime inflicts Turbulence on enemies within, having them share the damage it records equally and clearing the records"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Clicking the Trait Skill or dealing Damage Over Time to an enemy casts Twisted Spacetime . Interval: 2 s. Lasts for 6 s While Twisted Spacetime is active, cast Twisted Spacetime again to move it and extend its Duration by 2 Records 35 % of Damage Over Time and Reaping Damage dealt to enemies while Twisted Spacetime is active After moving, Twisted Spacetime inflicts Turbulence on enemies within, having them share the damage it records equally and clearing the records"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Clicking the Trait Skill or dealing Damage Over Time to an enemy casts Twisted Spacetime . Interval: 2 s. Lasts for 6 s While Twisted Spacetime is active, cast Twisted Spacetime again to move it and extend its Duration by 2 Records 40 % of Damage Over Time and Reaping Damage dealt to enemies while Twisted Spacetime is active After moving, Twisted Spacetime inflicts Turbulence on enemies within, having them share the damage it records equally and clearing the records"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Clicking the Trait Skill or dealing Damage Over Time to an enemy casts Twisted Spacetime . Interval: 2 s. Lasts for 6 s While Twisted Spacetime is active, cast Twisted Spacetime again to move it and extend its Duration by 2 Records 45 % of Damage Over Time and Reaping Damage dealt to enemies while Twisted Spacetime is active After moving, Twisted Spacetime inflicts Turbulence on enemies within, having them share the damage it records equally and clearing the records"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Clicking the Trait Skill or dealing Damage Over Time to an enemy casts Twisted Spacetime . Interval: 2 s. Lasts for 6 s While Twisted Spacetime is active, cast Twisted Spacetime again to move it and extend its Duration by 2 Records 50 % of Damage Over Time and Reaping Damage dealt to enemies while Twisted Spacetime is active After moving, Twisted Spacetime inflicts Turbulence on enemies within, having them share the damage it records equally and clearing the records"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +25 % additional Spacetime Turbulence Duration"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Spacetime Speed-up",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Reduces the casting interval of Twisted Spacetime by 1 s on defeat For every 1 s Twisted Spacetime lasts, ( +5 / 6.5 / +8 / 9.5 / +11 )% to all recorded damage for Twisted Spacetime . Stacks up to 5 time(s)"
+          ]
+        },
+        {
+          "name": "Spacetime Upheaval",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +30 / +37 / +44 / +51 / +58 )% additional Damage Over Time while Twisted Spacetime lasts Twisted Spacetime only inflicts Spacetime Turbulence on Elites within its area. Records are not cleared when there are no Elites within its area"
+          ]
+        },
+        {
+          "name": "Spacetime Cutting",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "Gains a stack of Torment when dealing Damage Over Time ( -10 / -14 / -18 / -21 / -24 )% additional damage taken while Twisted Spacetime lasts"
+          ]
+        },
+        {
+          "name": "Spacetime Pause",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( -40 / -43 / -46 / -49 / -50 )% additional Spacetime Turbulence Duration ( +60 / +70 / +80 / +90 / +100 )% to all recorded damage for Twisted Spacetime"
+          ]
+        },
+        {
+          "name": "Spacetime Expansion",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +50 / +62 / +74 / +86 / +98 )% additional Duration for Twisted Spacetime and Spacetime Turbulence Enemies with Spacetime Turbulence are deemed as being within Twisted Spacetime"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "634": {
+          "name": "Twisted Spacetime",
+          "description": "Records the Damage Over Time you deal to enemies while Twisted Spacetime is activeAfter moving the Twisted Spacetime, enemies within its area will be inflicted with Spacetime Turbulence that deals True Damage"
+        },
+        "631": {
+          "name": "Spacetime Turbulence",
+          "description": "Deals True Damage equal to the shared damage every second for 2s"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "124": {
+          "name": "Elite",
+          "description": "Elite monsters include rare monsters and bosses"
+        },
+        "10000108": {
+          "name": "Torment",
+          "description": "Each stack of Torment additionally increases Damage Over Time dealt by 5% for 4s. Stacks up to 3 times"
+        }
+      }
+    },
+    {
+      "trait_id": "spacetime_illusion",
+      "hero": "Youga",
+      "variant_name": "Spacetime Illusion",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Own Spacetime Illusion The Spacetime Illusion uses your Main Skill once every 1.5 s. The Spacetime Illusion 's castings are considered your castings While having Spacetime Illusion , click the Trait Skill to recall Spacetime Illusion"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Own Spacetime Illusion The Spacetime Illusion uses your Main Skill once every 1.5 s. The Spacetime Illusion 's castings are considered your castings While having Spacetime Illusion , click the Trait Skill to recall Spacetime Illusion +5 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Own Spacetime Illusion The Spacetime Illusion uses your Main Skill once every 1.5 s. The Spacetime Illusion 's castings are considered your castings While having Spacetime Illusion , click the Trait Skill to recall Spacetime Illusion +10 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Own Spacetime Illusion The Spacetime Illusion uses your Main Skill once every 1.5 s. The Spacetime Illusion 's castings are considered your castings While having Spacetime Illusion , click the Trait Skill to recall Spacetime Illusion +15 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Own Spacetime Illusion The Spacetime Illusion uses your Main Skill once every 1.5 s. The Spacetime Illusion 's castings are considered your castings While having Spacetime Illusion , click the Trait Skill to recall Spacetime Illusion +20 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: 1.5 % Cooldown Recovery Speed every time you or the Spacetime Illusion casts a skill. Lasts for 8 s. Stacks up to 10 time(s)"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Me and Myself",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+60 % Spacetime Illusion Cast Frequency For every +5 % Cooldown Recovery Speed or 2.5 % additional Cooldown Recovery Speed, ( +5 / +7 / +9 / +11 / +13 )% Spacetime Illusion Cast Frequency"
+          ]
+        },
+        {
+          "name": "Make it Quick",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Spacetime Illusion no longer has casting actions and is only limited by cast frequency. ( 50 / 55 / 60 / 65 / 70 )% of the bonuses for Cast Speed is also applied to additional Spacetime Illusion Damage, up to 300%."
+          ]
+        },
+        {
+          "name": "Eeeendless Mana",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Seals 25 % Max Mana. Spacetime Illusion no longer has Cast Frequency limitations ( +1 / 1.15 / 1.3 / 1.45 / 1.6 )% additional Spacetime Illusion Damage for every +4 % Spacetime Illusion Cast Frequency"
+          ]
+        },
+        {
+          "name": "I'm an Illusion",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Unable to cast the Main Skill +1 Spacetime Illusion upper limit ( -5 / -1 / +3 / +7 / +11 )% additional Spacetime Illusion Damage -30 % Movement Speed"
+          ]
+        },
+        {
+          "name": "I'm Out of Mana",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Casting of Spacetime Illusion will consume your Mana, equal to the Mana Cost of your Main Skill ( +5 / 6.3 / 7.5 / 8.8 / +10 )% additional damage for you and Spacetime Illusion for each time Spacetime Illusion consumed Mana recently. Stacks up to 10 time(s)"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "626": {
+          "name": "Spacetime Illusion",
+          "description": "Spacetime Illusion can only use Spell Skills and cannot use any Channeled and Summon Skills.Only 1 Spacetime Illusion may exist at a time. After reaching the summoning limit, click on the Trait Slot to call back the Spacetime Illusion"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "703": {
+          "name": "Knockback",
+          "description": "Forced to move back by a short distance"
+        },
+        "710": {
+          "name": "Ignite",
+          "description": "An Ailment that may be triggered on hit, dealing Fire Damage per second for 4s based on Base Ignite Damage. Unable to stackIgnite cannot be inflicted when Base Ignite Damage is 0"
+        },
+        "711": {
+          "name": "Trauma",
+          "description": "An Ailment that may be triggered on hit, dealing Physical Damage per second for 4s based on Base Trauma Damage. Unable to stackTrauma cannot be inflicted when Base Trauma Damage is 0"
+        },
+        "138": {
+          "name": "Reaping",
+          "description": "Deals a certain amount of True Damage to the target, equivalent to the damage from all DoT effects over a certain period of time"
+        },
+        "712": {
+          "name": "Shock",
+          "description": "The Shock status is an Ailment that could be triggered when Lightning Damage hits its target. It's affected by Shock Chance.Shock Damage is settled one additional time every time enemies in the Shock status are hit.Shock Damage is Secondary Lightning Damage. It is not affected by bonuses and ignores Resistance.Each Shock status can be settled up to 12 time(s).Shock cannot be inflicted when Base Shock Damage is 0."
+        }
+      }
+    },
+    {
+      "trait_id": "unsullied_blade",
+      "hero": "Rosa",
+      "variant_name": "Unsullied Blade",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Gains Mystic Mercury While Mystic Mercury is active, using non-Channeled Attack Skills grants Mercury Pts Upon reaching max Mercury Pts, Mystic Mercury becomes Realm of Mercury . Realm of Mercury consumes 30 Mercury Pts every second. When Mercury Pt is 0, Realm of Mercury becomes Mystic Mercury again Mana can only be consumed by Mystic Mercury . At the same time, Mana can only be restored by Realm of Mercury Bonus and additional bonus to Spell Damage and also apply to Attack Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Gains Mystic Mercury While Mystic Mercury is active, using non-Channeled Attack Skills grants Mercury Pts Upon reaching max Mercury Pts, Mystic Mercury becomes Realm of Mercury . Realm of Mercury consumes 30 Mercury Pts every second. When Mercury Pt is 0, Realm of Mercury becomes Mystic Mercury again Mana can only be consumed by Mystic Mercury . At the same time, Mana can only be restored by Realm of Mercury Bonus and additional bonus to Spell Damage and also apply to Attack Damage +5 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Gains Mystic Mercury While Mystic Mercury is active, using non-Channeled Attack Skills grants Mercury Pts Upon reaching max Mercury Pts, Mystic Mercury becomes Realm of Mercury . Realm of Mercury consumes 30 Mercury Pts every second. When Mercury Pt is 0, Realm of Mercury becomes Mystic Mercury again Mana can only be consumed by Mystic Mercury . At the same time, Mana can only be restored by Realm of Mercury Bonus and additional bonus to Spell Damage and also apply to Attack Damage +10 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Gains Mystic Mercury While Mystic Mercury is active, using non-Channeled Attack Skills grants Mercury Pts Upon reaching max Mercury Pts, Mystic Mercury becomes Realm of Mercury . Realm of Mercury consumes 30 Mercury Pts every second. When Mercury Pt is 0, Realm of Mercury becomes Mystic Mercury again Mana can only be consumed by Mystic Mercury . At the same time, Mana can only be restored by Realm of Mercury Bonus and additional bonus to Spell Damage and also apply to Attack Damage +15 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Gains Mystic Mercury While Mystic Mercury is active, using non-Channeled Attack Skills grants Mercury Pts Upon reaching max Mercury Pts, Mystic Mercury becomes Realm of Mercury . Realm of Mercury consumes 30 Mercury Pts every second. When Mercury Pt is 0, Realm of Mercury becomes Mystic Mercury again Mana can only be consumed by Mystic Mercury . At the same time, Mana can only be restored by Realm of Mercury Bonus and additional bonus to Spell Damage and also apply to Attack Damage +20 % additional Spell Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: \u79d8\u94f6\u51c0\u571f \u5b58\u5728\u671f\u95f4\uff0c\u6bcf\u8fdb\u884c\u4e00\u6b21 \u79d8\u94f6\u6d17\u793c \uff0c +2 % \u989d\u5916\u653b\u51fb\u901f\u5ea6\uff0c\u6301\u7eed 8 \u79d2\uff0c\u4e0a\u9650 4 \u5c42\uff08\u53e0\u4e58\uff09"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Baptism of Purity",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "+20 % additional Max Mana Inside Realm of Mercury , selects the enemy with the highest rarity that took damage from you recently and records ( 12 / 20 / 28 / 36 / 44 )% of the non-Channeled Attack Elemental Hit Damage dealt to this enemy. Every 0.5 s, it casts Mercury Baptism on all enemies within it and gains ( 5 / 5 / 6 / 6 / 7 ) Mercury Pts Mercury Baptism inflicts an Infiltration Effect of the same type as the highest recorded damage. If the highest recorded damage type is Fire, it inflicts Fire Infiltration . If the highest recorded damage type is Lightning, it inflicts Lightning Infiltration . If the highest recorded damage type is Cold, it inflicts Cold Infiltration"
+          ]
+        },
+        {
+          "name": "Cleanse Filth",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "While Realm of Mercury is in effect, 25 % of damage is taken from Mana before Life For every 1000 Max Mana you have, ( +2 / 2.5 / +3 / 3.5 / +4 )% additional Elemental Damage, up to ( +40 / +50 / +60 / +70 / +80 )%"
+          ]
+        },
+        {
+          "name": "Boundless Sanctuary",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "For every ( 150 / 130 / 110 / 100 / 90 ) Max Mana you have, +10 % Area for Realm of Mercury , up to ( +60 / +70 / +80 / +90 / +100 )% For every enemy inside Realm of Mercury , ( +6 / +7 / +8 / +9 / +10 )% additional Elemental Damage, up to ( +60 / +70 / +80 / +90 / +100 )% additional damage Gains ( 3 / 3 / 4 / 4 / 4 ) Mercury Pts upon defeating an enemy within Realm of Mercury"
+          ]
+        },
+        {
+          "name": "Utmost Devotion",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Mana can be consumed via methods other than Mystic Mercury . Gains 10 % Mercury Pts for every ( 3000 / 2900 / 2800 / 2700 / 2600 ) Mana consumed The cost is fixed at 0 when Mana is lower than 10 % For every 1000 Max Mana you have, +10 % Max Mercury Pts, up to ( +200 / +250 / +300 / +350 / +400 )% ( 0.08 / 0.08 / 0.1 / 0.1 / 0.1 )% additional Elemental Damage for every Mercury Pt you have"
+          ]
+        },
+        {
+          "name": "Born to Cleanse",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "- 30 % additional Mana restoration for Realm of Mercury Mystic Mercury gains an additional effect: +25 % additional Elemental Damage Mystic Mercury still exists when it becomes Realm of Mercury and retains 40 % effect While Mystic Mercury is active, ( +20 / +27 / +34 / +41 / +48 )% additional damage for Main-Hand Weapon"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "80031": {
+          "name": "Mystic Mercury",
+          "description": "Attempts to consume 10% of Unsealed Max Mana when using a non-Channeled Attack Skill. If the Mana is consumed successfully, grants 10 Mercury Pts. When there is insufficient Mana, consumes 1% of Unsealed Max Mana and grants 5 Mercury. This effect does not apply to Burst."
+        },
+        "80032": {
+          "name": "Realm of Mercury",
+          "description": "For every 10% Unsealed Max Mana you have, +2% additional Attack Speed and +2% additional Elemental DamageRestores 15% of Unsealed Max Mana when using a non-Channeled Attack Skill. This effect does not apply to Burst."
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "80033": {
+          "name": "Mercury Baptism",
+          "description": "Deals True Damage based on the damage recorded by Realm of Mercury to all enemies within it once and clears the record"
+        },
+        "10000103": {
+          "name": "Fire Infiltration",
+          "description": "Additionally increases Fire Damage taken by 13%. Reduces Skill Area by 8%"
+        },
+        "10000105": {
+          "name": "Lightning Infiltration",
+          "description": "Additionally increases Lightning Damage taken by 13%. Reduces Attack Speed by 5%"
+        },
+        "10000104": {
+          "name": "Cold Infiltration",
+          "description": "Additionally increases Cold Damage taken by 13%. Reduces Movement Speed by 5%"
+        },
+        "142": {
+          "name": "Enemy Count",
+          "description": "Each Normal or Magic monster counts as 1 monsterEach Rare monster counts as 2 monstersEach Boss counts as 5 monsters"
+        }
+      }
+    },
+    {
+      "trait_id": "vendetta_s_sting",
+      "hero": "Erika",
+      "variant_name": "Vendetta's Sting",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Gains Incisive after casting Vendetta 100 % of the bonuses to Skill Area is also applied to Vendetta , up to 200 % +5 % additional Attack Damage for skills triggered by Vendetta"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Gains Incisive after casting Vendetta 100 % of the bonuses to Skill Area is also applied to Vendetta , up to 200 % +10 % additional Attack Damage for skills triggered by Vendetta"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Gains Incisive after casting Vendetta 100 % of the bonuses to Skill Area is also applied to Vendetta , up to 200 % +15 % additional Attack Damage for skills triggered by Vendetta"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Gains Incisive after casting Vendetta 100 % of the bonuses to Skill Area is also applied to Vendetta , up to 200 % +20 % additional Attack Damage for skills triggered by Vendetta"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Gains Incisive after casting Vendetta 100 % of the bonuses to Skill Area is also applied to Vendetta , up to 200 % +25 % additional Attack Damage for skills triggered by Vendetta"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +20 % Vendetta Skill Area. +10 % additional Attack Damage for skills triggered by Vendetta"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Twinblade Onslaught",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "No additional Attack Speed bonus is granted while Dual Wielding . Instead, ( +15 / +20 / +25 / +30 / +35 )% additional Attack Damage No Attack Block Chance bonus is granted while Dual Wielding . Instead, converts 50 % of Life Regain and Shield Regain to Restoration Over Time"
+          ]
+        },
+        {
+          "name": "Swift Stalk",
+          "unlock_level": 60,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "Skills triggered by Vendetta deal ( +30 / +45 / +60 / +75 / +90 )% additional damage to Elites while Endless Vendetta is active +333 % additional Incisive Duration. +99 % Incisive Effect"
+          ]
+        },
+        {
+          "name": "Feline Fury",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+150 Attack Critical Strike Rating when Dual Wielding the same type of weapons +20 % additional attack damage for Critical Strikes when Dual Wielding different types of weapons For every ( 5 / 4 / 3 / 2.5 / 2 )% Effective Critical Strike Chance, Vendetta has a 1 % chance to trigger Main Melee Attack Skill 1 additional time For every 0.5 % Excess Critical Strike Chance, 1 % chance to +100 % additional Attack Damage for skills triggered by Vendetta"
+          ]
+        },
+        {
+          "name": "Mortal Gambit",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Incisive gains an additional base effect: Within 5 m, damage taken increases the closer you are to the enemy, up to +5 % additional damage taken at 2 m +40 % Incisive Effect for each stack of Agility Blessing, stacking up to ( 6 / 7 / 8 / 9 / 10 ) time(s)"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "80040": {
+          "name": "Incisive",
+          "description": "Within 5m, damage dealt increases the closer you are to the enemy, up to +20% additional Attack Damage at 2mLasts for 3s"
+        },
+        "80039": {
+          "name": "Vendetta",
+          "description": "Teleports to a random enemy within 9m, then triggers the Main Skill 1 time and +30% additional attack damage for the triggered skill. Cooldown: 3s"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "132": {
+          "name": "Dual Wielding",
+          "description": "When using two One-Handed Weapons, one in each hand"
+        },
+        "10000106": {
+          "name": "Quickness",
+          "description": "Additionally increases Attack Speed, Cast Speed, Movement Speed, and Mobility Skill Cooldown Recovery Time by 8%"
+        },
+        "124": {
+          "name": "Elite",
+          "description": "Elite monsters include rare monsters and bosses"
+        },
+        "80041": {
+          "name": "Endless Vendetta",
+          "description": "Repeatedly casts Vendetta, targeting a random enemy within a 15m radius each time. Starts with -30% additional Attack Speed, +5% additional Attack Speed per repeat cast. Repeat limit: 30 time(s). Cooldown: 10s"
+        },
+        "176": {
+          "name": "Effective",
+          "description": "The portion that doesn't exceed the fixed upper limit"
+        },
+        "178": {
+          "name": "Excess",
+          "description": "The portion that exceeds the fixed upper limit"
+        }
+      }
+    },
+    {
+      "trait_id": "vigilant_breeze",
+      "hero": "Iris",
+      "variant_name": "Vigilant Breeze",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Merges with Spirit Magi after casting the Trait Skill, entering the Vigilant state. Merged Spirit Magi gain 5 stack(s) of Breeze . Casting the Trait Skill again will remove the Vigilant state During Vigilant , Merged Spirit Magi consume 20 % of Max Life per second when not Reconjuring While in the Vigilant state, Merged Spirit Magi gain 1 stack of Breeze every 1 s when not Reconjuring, up to 10 stack(s) When Reconjuring or not Merged, Spirit Magi lose 2 stack(s) of Breeze every 1 s"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Merges with Spirit Magi after casting the Trait Skill, entering the Vigilant state. Merged Spirit Magi gain 5 stack(s) of Breeze . Casting the Trait Skill again will remove the Vigilant state During Vigilant , Merged Spirit Magi consume 20 % of Max Life per second when not Reconjuring While in the Vigilant state, Merged Spirit Magi gain 1 stack of Breeze every 1 s when not Reconjuring, up to 10 stack(s) When Reconjuring or not Merged, Spirit Magi lose 2 stack(s) of Breeze every 1 s +5 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Merges with Spirit Magi after casting the Trait Skill, entering the Vigilant state. Merged Spirit Magi gain 5 stack(s) of Breeze . Casting the Trait Skill again will remove the Vigilant state During Vigilant , Merged Spirit Magi consume 20 % of Max Life per second when not Reconjuring While in the Vigilant state, Merged Spirit Magi gain 1 stack of Breeze every 1 s when not Reconjuring, up to 10 stack(s) When Reconjuring or not Merged, Spirit Magi lose 2 stack(s) of Breeze every 1 s +10 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Merges with Spirit Magi after casting the Trait Skill, entering the Vigilant state. Merged Spirit Magi gain 5 stack(s) of Breeze . Casting the Trait Skill again will remove the Vigilant state During Vigilant , Merged Spirit Magi consume 20 % of Max Life per second when not Reconjuring While in the Vigilant state, Merged Spirit Magi gain 1 stack of Breeze every 1 s when not Reconjuring, up to 10 stack(s) When Reconjuring or not Merged, Spirit Magi lose 2 stack(s) of Breeze every 1 s +15 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "When a Spirit Magus Skill is set as an Active Skill, casting the Active Skill is considered as casting the Trait Skill as well Merges with Spirit Magi after casting the Trait Skill, entering the Vigilant state. Merged Spirit Magi gain 5 stack(s) of Breeze . Casting the Trait Skill again will remove the Vigilant state During Vigilant , Merged Spirit Magi consume 20 % of Max Life per second when not Reconjuring While in the Vigilant state, Merged Spirit Magi gain 1 stack of Breeze every 1 s when not Reconjuring, up to 10 stack(s) When Reconjuring or not Merged, Spirit Magi lose 2 stack(s) of Breeze every 1 s +20 % additional Minion Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +6 Growth for every stack of Breeze"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Whirlwind Tango",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "The Ultimate of Merged Spirit Magi has no cooldown Every time a Merged Spirit Magus casts its Ultimate, it consumes ( 15 / 14 / 13 / 12 / 11 )% of Max Life and gains ( 2 / 3 / 3 / 4 / 4 ) stack(s) of Breeze -40 % additional Spirit Magus Skill Damage"
+          ]
+        },
+        {
+          "name": "Breeze's Whisper",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+30 % chance for Spirit Magi to use an Enhanced Skill Whenever a Merged Spirit Magus casts an Enhanced Skill, restores ( 2.5 / 3 / 3.5 / 4 / 5 )% of Max Life and +1 to Max Breeze Stacks. Interval: ( 0.9 / 0.5 / 0.2 / 0.1 / 0.03 ) s Up to ( +4 / +5 / +6 / +7 / +8 ) to Max Breeze Stacks, lasting until Reconjuring"
+          ]
+        },
+        {
+          "name": "Happiest Reunion",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+1 to Max Spirit Magi In Map While in the Vigilant state, all Spirit Magi are considered Merged Spirit Magi While in the Vigilant state, for every Spirit Magus there is, ( +1 / +2 / +3 / +4 / +5 )% additional damage (multiplies) for Merged Spirit Magi. ( +8 / +7 / +7 / +6 / +6 )% to the amount of Max Life they consume per second when not Reconjuring"
+          ]
+        },
+        {
+          "name": "Warmest Vigilance",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+1 to the Max Breeze Stacks for every ( 5 / 4.5 / 4.1 / 3.8 / 3.5 )% Max Life consumed by Merged Spirit Magi, up to ( +15 / +17 / +19 / +21 / +23 ) Merged Spirit Magi gain 1 stack of Breeze when defeating an enemy"
+          ]
+        },
+        {
+          "name": "Merging Stream",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "Iris is not affected by Origin of Spirit Magus Effects, and all basic Origin of Spirit Magus Effects will be applied to all Spirit Magi For every 2 Growth a Spirit Magus has, it ( 0.1 / 0.15 / 0.2 / 0.25 / 0.3 )% additional Origin of Spirit Magus Effect received"
+          ]
+        },
+        {
+          "name": "Nurturing Breeze",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "While in Vigilant , Iris ( -20 / -24 / -28 / -32 / -36 )% additional damage taken ( 50 / 60 / 70 / 80 / 100 )% of the bonus and additional bonus to Life Regeneration Speed and Life Regeneration Per Second is also applied to Merged Spirit Magi ( 100 / 120 / 140 / 160 / 200 )% of the bonus and additional bonus to Life Regain, Shield Regain, Life Regain Interval, and Shield Regain Interval is also applied to Merged Spirit Magi"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "80012": {
+          "name": "Merges with Spirit Magi",
+          "description": "When casting the Trait Skill, selects Spirit Magi according to the Skill Slot order.When casting a Spirit Magus Skill in the Active Skill Slot, selects Spirit Magi corresponding to the skill.Among Spirit Magi summoned by the same skill, prioritizes selecting the Spirit Magus with the highest Life that is not Reconjuring.Cooldown: 3s"
+        },
+        "80010": {
+          "name": "Vigilant",
+          "description": "Allows you to control Spirit Magi and attack enemies with Spirit Magus Skills.You take all damage from enemies in place of the Spirit Magi under your control.All skills except for the second skill are switched with Spirit Magus Skills, and the Ultimate of Merged Spirit Magi is unlocked.Only skills that don't have an attacking or casting action can be installed as the second skill.When controlling a Spirit Magus, Iris' Movement Speed is applied instead."
+        },
+        "80011": {
+          "name": "Breeze",
+          "description": "+16% additional damage dealt by Merged Spirit Magi"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "759": {
+          "name": "Growth",
+          "description": "Spirit Magi grow into the next Stage for every 100 Growth. They start at Stage 1 and can grow until they reach Stage 5. For every 8 Growth they have, Spirit Magi gain +1% Physique, +10% additional Skill Area, and a bonus every stage:At Stage 2, +30% chance for them to use Enhanced Skill chance.At Stage 3, their Enhanced Skills become stronger.At Stage 4, their Empower Skills become stronger.At Stage 5, they +50% additional damage, +10% additional Skill Area, and gain increased Movement Speed and Tracking Area.The max Growth is 1000."
+        },
+        "157": {
+          "name": "Enhanced Skill",
+          "description": "Chance to change the skill into a stronger Enhanced Skill when Spirit Magus uses a Base Skill. The chance can be increased, and at 100%, Spirit Magi will no longer use Base Skills and always use Enhanced Skills"
+        }
+      }
+    },
+    {
+      "trait_id": "wind_stalker",
+      "hero": "Erika",
+      "variant_name": "Wind Stalker",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "+26 % Movement Speed Gains 1 stack of Stalker for every 1 m of movement Your Multistrike Count will not be interrupted during Stalker"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "+26 % Movement Speed Gains 1 stack of Stalker for every 1 m of movement Your Multistrike Count will not be interrupted during Stalker +5 % additional Attack Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "+26 % Movement Speed Gains 1 stack of Stalker for every 1 m of movement Your Multistrike Count will not be interrupted during Stalker +10 % additional Attack Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "+26 % Movement Speed Gains 1 stack of Stalker for every 1 m of movement Your Multistrike Count will not be interrupted during Stalker +15 % additional Attack Damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "+26 % Movement Speed Gains 1 stack of Stalker for every 1 m of movement Your Multistrike Count will not be interrupted during Stalker +20 % additional Attack Damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: While Stalker is active, marks all enemies within +8 m and +30 % Mark Effect"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Interest",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( 20 / 24 / 28 / 32 / 36 )% of the increase/decrease on Movement Speed is also applied to additional Attack Damage, up to ( +30 / +36 / +42 / +48 / +54 )% additional Attack Damage"
+          ]
+        },
+        {
+          "name": "Have Fun",
+          "unlock_level": 45,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "The Main Skill is supported by Lv. 10 Multistrike ( +2 / +6 / +12 / +18 / +24 )% additional Attack Speed"
+          ]
+        },
+        {
+          "name": "Cat's Vision",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "At Max Multistrike Count , +1 to Max Stalker Stacks, up to +3 , until Stalker ends ( -4 / +2 / +8 / +14 / +20 )% additional damage"
+          ]
+        },
+        {
+          "name": "Cat's Scratch",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +27 / +34 / +41 / +48 / +55 )% additional Multistrike damage increment for 4 s when the Max Multistrike Count is reached"
+          ]
+        },
+        {
+          "name": "Cat Dive",
+          "unlock_level": 75,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "During Multistrike , there is a ( 0.24 / 0.27 / 0.3 / 0.33 / 0.36 )% chance for this attack to deal damage equal to the Max Multistrike Count for every +1 % Movement Speed you have"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "644": {
+          "name": "Stalker",
+          "description": "+13% additional damage during Multistrike for every stack of StalkerInitial max stacks: 3. Lasts for 4s"
+        },
+        "629": {
+          "name": "Multistrike Count",
+          "description": "Records the current attack's number of attacks during Multistrike when a Multistrike is triggered. The next attack's count during Multistrike +1 for each attack made"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "646": {
+          "name": "Additional Multistrike Damage Increment",
+          "description": "Gains additional bonuses for damage increased with each strike for this time's attack based on the current Multistrike Count"
+        },
+        "108": {
+          "name": "Multistrike",
+          "description": "Chance to perform an additional attack when using Attack Skills. If the chance exceeds 100%, one additional attack will be performed with every 100% of the chance.+20% Attack Speed during Multistrikes.Multistrikes consume skill resources as normal and will be interrupted if there are insufficient resources. Moving or using other non-instant skills will interrupt Multistrike.Mobility, Channeled Skills, and Sentry skills cannot Multistrike"
+        }
+      }
+    },
+    {
+      "trait_id": "wisdom_of_the_gods",
+      "hero": "Thea",
+      "variant_name": "Wisdom of The Gods",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to cast God's Boon God's Boon : Consumes all Focus Blessings to grant self God's Boon . Cooldown: 15 s +6 % additional damage for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 8 time(s)"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to cast God's Boon God's Boon : Consumes all Focus Blessings to grant self God's Boon . Cooldown: 15 s +7 % additional damage for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 8 time(s)"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to cast God's Boon God's Boon : Consumes all Focus Blessings to grant self God's Boon . Cooldown: 15 s +8 % additional damage for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 8 time(s)"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to cast God's Boon God's Boon : Consumes all Focus Blessings to grant self God's Boon . Cooldown: 15 s +9 % additional damage for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 8 time(s)"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Gain a Divine Blessing every 2s in the following order: Focus Blessing - Agility Blessing - Tenacity Blessing Click the Trait Skill to cast God's Boon God's Boon : Consumes all Focus Blessings to grant self God's Boon . Cooldown: 15 s +10 % additional damage for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 8 time(s)"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +6 % Skill Area for each stack of Focus Blessing consumed by God's Boon . Lasts for +10 s. Stacks up to 8 time(s)"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Divine Prophecy",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "When at max stacks of all Blessings and God's Boon is not active, automatically uses God's Boon when dealing damage When gaining a type of Blessing , ( +50 / +50 / +100 / +100 / +100 )% chance to gain ( 1 / 2 / 2 / 3 / 4 ) additional stack(s) of the corresponding Blessing ( +6 / +8 / +10 / +12 / +14 )% additional damage for every Blessing at max stacks (multiplies)"
+          ]
+        },
+        {
+          "name": "Predicted Reincarnation",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+7 % additional God's Boon Cooldown Recovery Speed for every stack of Focus Blessing consumed by God's Boon . Stacks up to 8 time(s) ( +20 / +26 / +32 / +38 / +45 )% additional damage if God's Boon consumes max stacks of Focus Blessing . Lasts for 10 s"
+          ]
+        },
+        {
+          "name": "Predicted Hope",
+          "unlock_level": 60,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "+1 to Max Tenacity Blessing Stacks +1 to Max Agility Blessing Stacks ( -3 / +2 / +7 / +12 / +17 )% additional damage"
+          ]
+        },
+        {
+          "name": "Farewell Prophecy",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "( +4 / 4.5 / +5 / 5.5 / +6 )% Double Damage Chance for each stack of Focus Blessing that God's Boon consumes. Lasts for 10 s. Stacks up to 10 time(s) For every 1 % overflown Double Damage Chance, there is a 1 % chance to deal Quadruple Damage instead"
+          ]
+        },
+        {
+          "name": "Predicted Justice",
+          "unlock_level": 75,
+          "is_pick_one_from_two": true,
+          "effects": [
+            "The biggest max stack bonus of Agility Blessing or Tenacity Blessing is also applied to the max stack bonus of Focus Blessing ( -25 / -22.5 / -20 / -17.5 / -15 )% additional Cooldown Recovery Speed for God's Boon"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "737": {
+          "name": "Focus Blessing",
+          "description": "Every stack of Focus Blessing grants +5% additional damage. Initial max stacks: 4"
+        },
+        "716": {
+          "name": "Agility Blessing",
+          "description": "Every stack of Agility Blessing grants +4% Attack and Cast Speed and +2% additional damage. Initial max stacks: 4"
+        },
+        "719": {
+          "name": "Tenacity Blessing",
+          "description": "Every stack of Tenacity Blessing grants an additional 4% damage reduction (multiplies). Initial max stacks: 4."
+        },
+        "635": {
+          "name": "God's Boon",
+          "description": "Consumes Focus Blessing to bestow God's Boon and gain Explosion for a short time."
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "80021": {
+          "name": "Blessing",
+          "description": "Includes Focus Blessing, Tenacity Blessing, and Agility Blessing"
+        }
+      }
+    },
+    {
+      "trait_id": "zealot_of_war",
+      "hero": "Carino",
+      "variant_name": "Zealot of War",
+      "description": "",
+      "levels": [
+        {
+          "level": 1,
+          "effects": [
+            "Projectile Skills consume ammo +6 initial Magazine Capacity Base reloading time is 0.8 s Projectile Quantity +2 For every +1 Projectile Quantity or +1 Split Quantity, +3 Magazine Capacity (excludes the Projectile Quantity and Split Quantity provided by the skill itself and linked Support Skills) +20 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 2,
+          "effects": [
+            "Projectile Skills consume ammo +6 initial Magazine Capacity Base reloading time is 0.8 s Projectile Quantity +2 For every +1 Projectile Quantity or +1 Split Quantity, +3 Magazine Capacity (excludes the Projectile Quantity and Split Quantity provided by the skill itself and linked Support Skills) +26 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 3,
+          "effects": [
+            "Projectile Skills consume ammo +6 initial Magazine Capacity Base reloading time is 0.8 s Projectile Quantity +2 For every +1 Projectile Quantity or +1 Split Quantity, +3 Magazine Capacity (excludes the Projectile Quantity and Split Quantity provided by the skill itself and linked Support Skills) +32 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 4,
+          "effects": [
+            "Projectile Skills consume ammo +6 initial Magazine Capacity Base reloading time is 0.8 s Projectile Quantity +2 For every +1 Projectile Quantity or +1 Split Quantity, +3 Magazine Capacity (excludes the Projectile Quantity and Split Quantity provided by the skill itself and linked Support Skills) +38 % additional damage"
+          ],
+          "unlock_level": 1
+        },
+        {
+          "level": 5,
+          "effects": [
+            "Projectile Skills consume ammo +6 initial Magazine Capacity Base reloading time is 0.8 s Projectile Quantity +2 For every +1 Projectile Quantity or +1 Split Quantity, +3 Magazine Capacity (excludes the Projectile Quantity and Split Quantity provided by the skill itself and linked Support Skills) +38 % additional damage"
+          ],
+          "unlock_level": 1
+        }
+      ],
+      "artificial_moon": {
+        "description": "",
+        "effects": [
+          "Artificial Moon: +50 % Heat Up Effect"
+        ]
+      },
+      "advanced_traits": [
+        {
+          "name": "Incinerated Glory",
+          "unlock_level": 45,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "Allows Blank Firing While having ammo, for every ammo consumed, gains 1 stack of Heat Up During Blank Firing , gains Overheated when casting a Projectile Skill Heat Up : For every stack of Heat Up, ( 1.6 / +2 / 2.3 / 2.6 / +3 )% additional Projectile Skill Damage and 0.1 Projectile Max Deviation Angle Forced to reload once Overheated has been active for 10 s After reloading , loses all stacks of Heat Up and Overheated"
+          ]
+        },
+        {
+          "name": "Endless Frenzy",
+          "unlock_level": 75,
+          "is_pick_one_from_two": false,
+          "effects": [
+            "For every +1 % Knockback distance, ( 0.2 / 0.3 / 0.4 / 0.5 / 0.6 )% additional damage and -0.1 Projectile Max Deviation Angle . Stacks up to 100 time(s)"
+          ]
+        }
+      ],
+      "max_level": 8,
+      "glossary": {
+        "622": {
+          "name": "Reload",
+          "description": "Spends some time to fully reload the magazine. Unable to use Projectile Skills while reloading"
+        },
+        "12049": {
+          "name": "Artificial Moon",
+          "description": "Additional affixes granted upon reaching the max Base Trait level"
+        },
+        "624": {
+          "name": "Blank Firing",
+          "description": "Projectile Skills can be used without ammo.No ammo benefits are applied when Blank Firing."
+        },
+        "679": {
+          "name": "Heat Up",
+          "description": "Additionally increases Projectiles Damage based on Heat Up stacks and increases the Projectile Max Deviation Angle"
+        },
+        "680": {
+          "name": "Overheated",
+          "description": "Forced to reload after being in Overheated for a period of time"
+        },
+        "681": {
+          "name": "Projectile Max Deviation Angle",
+          "description": "Horizontal and Parabolic Projectiles will deviate from the shooting direction, and the max deviation angle is determined by the Projectile Max Deviation AngleWithin 0.5s after stopping shooting, the Deviation Angle returns to normal within 2s"
+        },
+        "683": {
+          "name": "Burning Red",
+          "description": "Burning Red lasts for 10s. No longer gains Overheated or reloads while this is activeGains 160% Heat Up effect bonuses but cannot trigger Empower, Curse, or Warcry skills.Forced to reload after this effect ends"
+        }
+      }
+    }
+  ]
+}
